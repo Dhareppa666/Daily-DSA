@@ -1,6 +1,6 @@
 package java.sorting;
 
-public class MergeSort {
+public class MergeSort1 {
 
     public static void main(String[] args) {
         int[] arr = {20, 10, 40, 30};
