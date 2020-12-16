@@ -40,6 +40,7 @@ public class QuickSort {
         arr[lb] = arr[end];
         arr[end] = temp;
 
+        System.out.println();
         return end;
     }
 }

@@ -1,97 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a236657-d214-4c58-b5c4-d3dd869b549b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI_Basics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/sorting/MergeSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/sorting/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/JunitAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/JunitAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/TestJunit1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/TestJunit1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/TestJunit2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/TestJunit2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/ex01/EmpBusinessLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/ex01/EmpBusinessLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/ex01/EmployeeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/ex01/EmployeeDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/ex01/TestEmployeeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/ex01/TestEmployeeDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/ex02_parameterized_Test/PrimeNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/ex02_parameterized_Test/PrimeNumberChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/ex02_parameterized_Test/PrimeNumberCheckerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/ex02_parameterized_Test/PrimeNumberCheckerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/ex02_parameterized_Test/checkTrue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/ex02_parameterized_Test/checkTrue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/ex02_parameterized_Test/isTrueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/ex02_parameterized_Test/isTrueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/JUnit_By_ME/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/A/ABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/A/ABC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/DateTime_Final/DateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/DateTime_Final/DateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/Durga_Classes/ArrayList_65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/Durga_Classes/ArrayList_65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/Durga_Classes/CollectionFramework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/Durga_Classes/CollectionFramework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/Durga_Classes/from_1_to_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/Durga_Classes/from_1_to_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/JVM_Arch/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/JVM_Arch/Basics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/extra/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/extra/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/extra/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/extra/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/extra/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/extra/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/interf/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/interf/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/zzz/NewClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/zzz/NewClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/zzz/YouNullify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/zzz/YouNullify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/zzz/justin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/zzz/justin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/LeDurga/zzz1/class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/zzz1/class1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/arrays/MaxConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/Arrays/MaxConsecutiveOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/arrays/duplicateZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/Arrays/duplicateZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/arrays/simply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/Arrays/simply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/arrays/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/Arrays/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/searching/Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/searching/Binary_Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/searching/Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/searching/Linear_Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/sorting/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/sorting/MergeSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/sorting/MergeSort1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/sorting/MergeSort2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/sorting/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/strings/basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/strings/basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/test/lambadaExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/test/lambadaExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/test/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/util/formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/util/formatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/util/masking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/util/masking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/util/masking_Using_SB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/util/masking_Using_SB.java" afterDir="false" />
-    </list>
+    <list default="true" id="2a236657-d214-4c58-b5c4-d3dd869b549b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -184,7 +94,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1550" />
@@ -322,7 +232,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2590604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -334,11 +244,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28611898" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.44759208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44759208" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47875354" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.47875354" />
       <window_info anchor="bottom" id="CheckStyle" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="10" />
