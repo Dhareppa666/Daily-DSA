@@ -41,8 +41,6 @@ public class QuickSort {
         arr[end] = temp;
 
         System.out.println();
-        System.out.println();
-        System.out.println();
         return end;
     }
 }
