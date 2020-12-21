@@ -1,0 +1,2 @@
+* Insertion Order Not Preserved.
+* Duplicates are not allowed.

@@ -2,7 +2,7 @@ package java.LeDurga.Durga_Classes;
 
 public class CollectionFramework {
     public static void main(String[] args) {
-//        ArrayList<Integer> l = new ArrayList<>();
+//        ArrayList_Example<Integer> l = new ArrayList_Example<>();
 //        l.add(10);
 //        l.add(20);
 //        l.remove(0);
