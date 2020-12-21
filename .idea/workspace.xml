@@ -4,45 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a236657-d214-4c58-b5c4-d3dd869b549b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/List/ArrayList_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/List/Info_List.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/List/LinkedList_Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/List/List_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/List/Stack_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/List/Vector_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Map/map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Hash_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Info_Set.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Linked_HashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Set_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Sorted_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Tree_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/FINAL_450_DSA_Problems/Arrays/Array_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/FINAL_450_DSA_Problems/Arrays/Array_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/FINAL_450_DSA_Problems/Arrays/Array_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/FINAL_450_DSA_Problems/Arrays/Array_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/RestAPI_Basics.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/List/ArrayList_Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/List/Info_List.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/List/LinkedList_Examples.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/List/List_Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/List/Stack_Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/List/Vector_Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/Map/map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/Set/Hash_Set.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/Set/Info_Set.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/Set/Linked_HashSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/Set/Set_Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/Set/Sorted_Set.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/Collections_In_Java/Set/Tree_Set.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/FINAL_450_DSA_Problems/Arrays/Array_01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/FINAL_450_DSA_Problems/Arrays/Array_02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/FINAL_450_DSA_Problems/Arrays/Array_03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/org/FINAL_450_DSA_Problems/Arrays/Array_04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/Durga_Classes/CollectionFramework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/LeDurga/Durga_Classes/CollectionFramework.java" afterDir="false" />
-    </list>
+    <list default="true" id="2a236657-d214-4c58-b5c4-d3dd869b549b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/" />
     <ignored path="$PROJECT_DIR$/src/main/java/java/All_In_One/JUnit_By_ME/" />
@@ -62,33 +24,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/List/List_Example.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#204#213#0" expanded="true" />
-                <element signature="e#446#455#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Hash_Set.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#593#601#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Iterator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1205">
@@ -98,55 +33,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Set_Example.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Linked_HashSet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java/Collections_In_Java/Set/Set_Example.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Sorted_Set.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java/Collections_In_Java/Set/Hash_Set.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Tree_Set.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Info_Set.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/List/Info_List.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            <state relative-caret-position="243">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -178,6 +77,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ABC-001" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -282,66 +186,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections_In_Java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections_In_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections_In_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="Set" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -500,6 +349,15 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
@@ -573,6 +431,11 @@
     <MESSAGE value="ABC-001 commit-02" />
     <MESSAGE value="ABC-001 commit-03" />
     <option name="LAST_COMMIT_MESSAGE" value="ABC-001 commit-03" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="500" height="467" key="Git.Branch.Popup" />
+    <state width="500" height="467" key="Git.Branch.Popup/1920.1080" />
+    <state width="500" height="467" key="Git.Branch.Popup@1920.1080@120dpi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -684,16 +547,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/sorting/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/LeDurga/A/ABC.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/org/sorting/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -981,13 +834,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1205">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Collections_In_Java/Set/Info_Set.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1003,6 +849,27 @@
             <element signature="imports" expanded="true" />
             <element signature="e#593#601#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1205">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java/Collections_In_Java/Set/Set_Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java/Collections_In_Java/Set/Hash_Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
