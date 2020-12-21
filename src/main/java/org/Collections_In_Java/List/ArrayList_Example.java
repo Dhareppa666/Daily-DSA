@@ -9,6 +9,7 @@ public class ArrayList_Example {
         ArrayList<java.io.Serializable> al = new ArrayList<>();
         al.add(10);
         al.add("ABC");
+        System.out.println();
         //System.out.println(al);
 
         //==============
