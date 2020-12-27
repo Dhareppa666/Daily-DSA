@@ -1,11 +1,13 @@
 package org.searching;
+/*
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+*/
 
 public class Linear_Search {
 
-    private static final Logger Log = LogManager.getLogger(Linear_Search.class);
+    //private static final Logger Log = LogManager.getLogger(Linear_Search.class);
 
     public static void main(String[] args) {
         int[] arr = {10, 20, 30, 40, 50};

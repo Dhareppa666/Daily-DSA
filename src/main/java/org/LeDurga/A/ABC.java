@@ -14,10 +14,10 @@ public class ABC {
 
     public static void hello(String request) throws IOException {
 //        ObjectMapper objectMapper = new ObjectMapper();
-//        Map<String, String> map = objectMapper.readValue(request, new TypeReference<Map<String, String>>(){});
+//        Map<String, String> Map_Ex = objectMapper.readValue(request, new TypeReference<Map<String, String>>(){});
 //
-//        for (String name: map.keySet()){
-//            System.out.println(name + " : " + map.get(name));
+//        for (String name: Map_Ex.keySet()){
+//            System.out.println(name + " : " + Map_Ex.get(name));
 //        }
     }
 }

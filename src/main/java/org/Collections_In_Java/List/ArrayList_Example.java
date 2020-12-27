@@ -6,8 +6,8 @@ import java.util.List;
 public class ArrayList_Example {
 
     public static void main(String[] args) {
-        ArrayList<java.io.Serializable> al = new ArrayList<>();
-        al.add(10);
+        ArrayList<String> al = new ArrayList<>();
+        al.add("XY");
         al.add("ABC");
         System.out.println();
         //System.out.println(al);
@@ -18,7 +18,7 @@ public class ArrayList_Example {
         al2.add(123);
         //=========
 
-        List l1 = new ArrayList<>(1);
+        List l1 = new ArrayList<String>(1);
         l1.add("abc");
         l1.add(123);
         l1.add("xyz");
