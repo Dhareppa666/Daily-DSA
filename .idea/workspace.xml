@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a236657-d214-4c58-b5c4-d3dd869b549b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/org/Algos/DP_vs_Recursion.java" afterDir="false" />
+    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/sorting/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/org/sorting/QuickSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,20 +20,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/sorting/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Algos/DP_vs_Recursion.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/Collections_In_Java/Map/Comparator_Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="135">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,6 +44,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ABC-123" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -74,17 +70,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/org/sorting/MergeSort2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/org/sorting/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/org/Algos/DP_vs_Recursion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/Map/Comparator_Example.java" />
       </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="RestAPI_Basics" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -143,7 +135,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="Algos" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections_In_Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections_In_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Map" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -172,11 +174,11 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\My WorkSpace\DSA\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -290,10 +292,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17583893" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21140939" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -307,7 +308,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.44617563" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5552408" />
       <window_info anchor="bottom" id="CheckStyle" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.45609066" />
       <window_info anchor="bottom" id="SonarLint" order="10" />
@@ -674,6 +675,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
           <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Collections_In_Java/Map/Comparator_Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
