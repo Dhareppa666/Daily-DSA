@@ -2,8 +2,24 @@ package org.test;
 
 public class mals {
     public static void main(String[] args) {
-        call();
+        //call();
         //call2();
+        int x = call03();
+        System.out.println("X is : "+x);
+    }
+
+    private static int call03() {
+        int[] A = {31,32,33,34,35, 50, 17, 29, 13};
+        int min = A[0];
+        for(int i=0; i<A.length; i++){
+            if(A[i] == 0){
+                return 0;
+            }
+            if(min >= A[i]){
+                min = A[i];
+            }
+        }
+        return min;
     }
 
     private static void call2() {

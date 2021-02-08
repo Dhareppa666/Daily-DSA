@@ -5,51 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/recursion/LengthofStringUsingRec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/recursion/printArrUsingRec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/arrTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/curse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/mals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/staticVarTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/varulla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI_Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI_Basics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/Algos/DP_vs_Recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/Arrays/MaxConsecutiveOnes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/Arrays/duplicateZeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/Arrays/simply.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/Arrays/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/A/ABC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/DateTime_Final/DateTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/Durga_Classes/ArrayList_65.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/Durga_Classes/CollectionFramework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/Durga_Classes/from_1_to_10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/JVM_Arch/Basics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/extra/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/extra/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/extra/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/interf/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/interf/p1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/interf/p2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/zzz/NewClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/zzz/YouNullify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/LeDurga/zzz1/class1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/searching/Binary_Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/searching/Linear_Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/sorting/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/sorting/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/sorting/MergeSort1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/sorting/MergeSort2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/sorting/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/sorting/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/strings/basic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/test/lambadaExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/test/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/util/formatting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/util/masking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/org/util/masking_Using_SB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/test/mals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/mals.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/" />
@@ -90,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/test/mals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            <state relative-caret-position="297">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -179,9 +136,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+    <option name="x" value="-10" />
     <option name="width" value="785" />
-    <option name="height" value="833" />
+    <option name="height" value="834" />
   </component>
   <component name="ProjectId" id="1ln2w4BeaJNg0LptABOoHXZvqOU" />
   <component name="ProjectView">
@@ -402,7 +359,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17986578" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18255034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -415,7 +372,7 @@
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.5552408" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.6062323" />
       <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.45609066" />
       <window_info anchor="bottom" id="SonarLint" order="9" />
@@ -782,8 +739,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/test/mals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        <state relative-caret-position="243">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
