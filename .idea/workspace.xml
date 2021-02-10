@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/tempTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/test/mals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/mals.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/" />
@@ -44,11 +46,51 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/test/mals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            <state relative-caret-position="319">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/Stack_Example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/MinStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/test/tempTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/test/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,11 +119,16 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>listnode</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="ABC-123" />
+        <entry key="$PROJECT_DIR$" value="subBranch" />
       </map>
     </option>
   </component>
@@ -116,6 +163,9 @@
         <option value="$PROJECT_DIR$/src/main/java/org/test/staticVarTesting.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/test/varulla.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/test/mals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/MinStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/test/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/test/tempTest.java" />
       </list>
     </option>
   </component>
@@ -136,9 +186,10 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="785" />
-    <option name="height" value="834" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectId" id="1ln2w4BeaJNg0LptABOoHXZvqOU" />
   <component name="ProjectView">
@@ -146,6 +197,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,7 +239,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="LeDurga" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections_In_Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections_In_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
@@ -201,8 +264,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -243,22 +304,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mals">
+  <component name="RunManager" selected="Application.tempTest">
     <configuration name="arrTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.test.arrTesting" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="curse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.test.curse" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -296,6 +344,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tempTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.test.tempTest" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="varulla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.test.varulla" />
       <module name="RestAPI_Basics" />
@@ -311,11 +372,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tempTest" />
         <item itemvalue="Application.mals" />
         <item itemvalue="Application.varulla" />
         <item itemvalue="Application.staticVarTesting" />
         <item itemvalue="Application.arrTesting" />
-        <item itemvalue="Application.curse" />
       </list>
     </recent_temporary>
   </component>
@@ -357,9 +418,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18255034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3147651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -372,7 +432,7 @@
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.6062323" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.46848136" />
       <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.45609066" />
       <window_info anchor="bottom" id="SonarLint" order="9" />
@@ -389,7 +449,7 @@
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.3691275" />
+      <window_info anchor="right" id="Run" order="8" weight="0.22214764" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
@@ -431,9 +491,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="ABC-001 commit-03" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="653" height="388" key="Git.Branch.Popup" />
-    <state width="653" height="388" key="Git.Branch.Popup/1920.1080" />
-    <state width="653" height="388" key="Git.Branch.Popup@1920.1080@120dpi" />
+    <state width="667" height="402" key="Git.Branch.Popup" />
+    <state width="667" height="402" key="Git.Branch.Popup/1920.1080" />
+    <state width="667" height="402" key="Git.Branch.Popup@1920.1080@120dpi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -517,10 +577,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/LeDurga/zzz/YouNullify.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Arrays/simply.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/LeDurga/extra/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/util/formatting.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Arrays/duplicateZeros.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/org/LeDurga/zzz1/class1.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/org/LeDurga/zzz/NewClass.java" />
@@ -717,6 +773,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/varulla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Float.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1161">
@@ -730,17 +793,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/varulla.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/mals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="319">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/mals.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/Stack_Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="324">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/tempTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
