@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/tempTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/MT_testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/MultiThread_Demo_By_Extd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/MultiThread_Demo_By_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Wind_Explr_Prgm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/BitWise_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/CloningEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/strictfp_Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/test/tempTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/test/tempTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/" />
@@ -28,83 +34,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/test/staticVarTesting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/test/varulla.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/test/mals.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/Stack_Example.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/MinStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/test/tempTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Wind_Explr_Prgm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/test/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="401">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Float.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1161">
-              <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
-              <folding>
-                <element signature="e#18622#18623#0" expanded="true" />
-                <element signature="e#18653#18654#0" expanded="true" />
-                <element signature="e#21876#21877#0" expanded="true" />
-                <element signature="e#21911#21912#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -166,6 +102,16 @@
         <option value="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/MinStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/test/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/test/tempTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/test/strictfp_Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/test/comparision.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/test/CloningEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/test/BitWise_Operators.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/MultiThreading/MultiThread_Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/MultiThreading/MultiThread_Demo_By_Extd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/MultiThreading/MultiThread_Demo_By_Impl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/MultiThreading/MT_testing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/MultiThreading/Wind_Explr_Prgm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Wind_Explr_Prgm.java" />
       </list>
     </option>
   </component>
@@ -186,10 +132,10 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectId" id="1ln2w4BeaJNg0LptABOoHXZvqOU" />
   <component name="ProjectView">
@@ -197,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -239,31 +184,13 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections_In_Java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections_In_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiThreading" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -304,9 +231,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.tempTest">
-    <configuration name="arrTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.test.arrTesting" />
+  <component name="RunManager" selected="Application.Wind_Explr_Prgm">
+    <configuration name="BitWise_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.test.BitWise_Operators" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -318,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.test.mals" />
+    <configuration name="MT_testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.MultiThreading.MT_testing" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.test.*" />
+          <option name="PATTERN" value="org.Wind_Explr_Program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="staticVarTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.test.staticVarTesting" />
+    <configuration name="MultiThread_Demo_By_Extd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.MultiThreading.MultiThread_Demo_By_Extd" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.test.*" />
+          <option name="PATTERN" value="org.Wind_Explr_Program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tempTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.test.tempTest" />
+    <configuration name="MultiThread_Demo_By_Impl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.MultiThreading.MultiThread_Demo_By_Impl" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.test.*" />
+          <option name="PATTERN" value="org.Wind_Explr_Program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="varulla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.test.varulla" />
+    <configuration name="Wind_Explr_Prgm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Wind_Explr_Program.Wind_Explr_Prgm" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.test.*" />
+          <option name="PATTERN" value="org.Wind_Explr_Program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tempTest" />
-        <item itemvalue="Application.mals" />
-        <item itemvalue="Application.varulla" />
-        <item itemvalue="Application.staticVarTesting" />
-        <item itemvalue="Application.arrTesting" />
+        <item itemvalue="Application.Wind_Explr_Prgm" />
+        <item itemvalue="Application.MT_testing" />
+        <item itemvalue="Application.MultiThread_Demo_By_Impl" />
+        <item itemvalue="Application.MultiThread_Demo_By_Extd" />
+        <item itemvalue="Application.BitWise_Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -418,8 +345,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3147651" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22214764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -428,18 +356,18 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49932885" weight="0.3385269" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49932885" weight="0.46033993" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.46848136" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.611898" />
       <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.45609066" />
       <window_info anchor="bottom" id="SonarLint" order="9" />
       <window_info anchor="bottom" id="Anonymous Apex" order="10" />
       <window_info anchor="bottom" id="Log Analyzer" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.5736544" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32827735" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32719547" />
       <window_info anchor="bottom" id="SOQL Query" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -449,7 +377,7 @@
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Run" order="8" weight="0.22214764" />
+      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.23489933" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
@@ -564,11 +492,22 @@
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Wind_Explr_Prgm.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>y.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>s.substring(1)</expression-string>
         <language-id>JAVA</language-id>
@@ -577,15 +516,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/Arrays/duplicateZeros.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/LeDurga/zzz1/class1.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/LeDurga/zzz/NewClass.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/test/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/searching/Linear_Search.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/LeDurga/extra/Parent.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/TestJunit2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/org/LeDurga/interf/C.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/org/JUnit_By_ME/ex01/TestEmployeeDetails.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/org/strings/basic.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/org/LeDurga/DateTime_Final/DateTime.java" />
@@ -766,10 +696,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/tempTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/org/test/staticVarTesting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/strictfp_Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/CloningEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -780,23 +725,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Float.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
-          <folding>
-            <element signature="e#18622#18623#0" expanded="true" />
-            <element signature="e#18653#18654#0" expanded="true" />
-            <element signature="e#21876#21877#0" expanded="true" />
-            <element signature="e#21911#21912#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/test/mals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="540">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -818,17 +750,71 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Float.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
           <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#18622#18623#0" expanded="true" />
+            <element signature="e#18653#18654#0" expanded="true" />
+            <element signature="e#21876#21877#0" expanded="true" />
+            <element signature="e#21911#21912#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/tempTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/test/BitWise_Operators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/MultiThreading/MultiThread_Demo_By_Extd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/MultiThreading/MultiThread_Demo_By_Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/MultiThreading/MT_testing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Wind_Explr_Prgm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
