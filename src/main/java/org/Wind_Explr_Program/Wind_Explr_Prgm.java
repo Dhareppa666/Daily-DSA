@@ -2,7 +2,7 @@ package org.Wind_Explr_Program;
 
 public class Wind_Explr_Prgm {
 
-    private static final Long timeInMinutes = 10L; // x --> In Minutes
+    private static final Long timeInMinutes = 15L; // x --> In Minutes
 
     private static final Long timeToRun = 1000L * 60L * timeInMinutes;
 
