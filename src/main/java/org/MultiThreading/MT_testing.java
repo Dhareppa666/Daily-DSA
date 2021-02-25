@@ -7,6 +7,7 @@ public class MT_testing {
         thread.start();
         Thread thread2 = new Thread(new demo2());
         thread2.start();
+        //thread2.start();
     }
 }
 
@@ -19,12 +20,12 @@ class demo implements Runnable {
             System.out.println("Printing...");
             System.out.println("Printing...");
             System.out.println("Printing...");
-            int i=0;
+            /*int i=0;
             while (i<=10){
                 Thread.sleep(2000);
                 System.out.println("Hello Bro ");
                 i++;
-            }
+            }*/
         } catch (Exception e) {
             System.out.println("Exception Caught.");
         }
