@@ -151,13 +151,12 @@ public class DoublyLinkedList {
 
     private void print() {
         ListNode node = head;
-        System.out.println("DDL is : \n");
+        System.out.println("DLL is : \n");
         while (node.next != null) {
             System.out.print(node.data + " -> ");
             node = node.next;
         }
         System.out.println();
-
     }
 
     private void addAtEnd(int data) {
