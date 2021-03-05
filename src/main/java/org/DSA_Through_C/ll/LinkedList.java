@@ -1,4 +1,4 @@
-package org.DSA_Through_C;
+package org.DSA_Through_C.ll;
 
 // Java program to implement
 // a Singly Linked List.
@@ -35,11 +35,11 @@ public class LinkedList {
         linkedList = deleteByKey(linkedList, 30);
         printLinkedList(linkedList);*/
 
-       /* linkedList = insertionAtPosition(linkedList, 4, 80);
+        linkedList = insertionAtPosition(linkedList, 4, 80);
         printLinkedList(linkedList);
 
         linkedList = insertionAtPositionReplace(linkedList, 6, 120);
-        printLinkedList(linkedList);*/
+        printLinkedList(linkedList);
 
         Node reverseLinkedList = reverseLinkedList(linkedList.head);
         printLinkedList2(reverseLinkedList);

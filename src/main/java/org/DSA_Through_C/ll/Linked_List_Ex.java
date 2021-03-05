@@ -1,4 +1,4 @@
-package org.DSA_Through_C;
+package org.DSA_Through_C.ll;
 
 public class Linked_List_Ex {
 
