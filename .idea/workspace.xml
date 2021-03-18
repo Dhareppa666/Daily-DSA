@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/LinkedListtt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/trees/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Stacks_Queues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/DoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Doubly_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/Doubly_Linked_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Linked_List_Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/Linked_List_Ex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/DoublyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/MultiThreading/BookTheaterSeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/MultiThreading/BookTheaterSeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/trees/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/trees/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/trees/Node.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +161,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sprngboot-tabbitMq-Demo/pom.xml" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
@@ -182,7 +176,7 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryTree">
+  <component name="RunManager" selected="Application.Stacks_Queues">
     <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.trees.BinaryTree" />
       <module name="RestAPI_Basics" />
@@ -235,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.LeDurga.Inheritance.child" />
+    <configuration name="Stacks_Queues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.Stacks_Queues.Stacks_Queues" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.LeDurga.Inheritance.*" />
+          <option name="PATTERN" value="org.DSA_Through_C.Stacks_Queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stacks_Queues" />
         <item itemvalue="Application.BinaryTree" />
         <item itemvalue="Application.LinkedListtt" />
         <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.SeatBookingApp" />
-        <item itemvalue="Application.child" />
       </list>
     </recent_temporary>
   </component>
@@ -445,6 +439,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/DoublyLinkedList.java</url>
           <line>66</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Stacks_Queues.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
