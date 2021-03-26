@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Stacks_Queues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Paratntesis_Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Queue22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/OddEvenExample/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/OddEvenExample/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/OddEvenExample/OddEvenEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/trees/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/trees/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/trees/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Stacks_Queues_Using_LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Stacks_Queues_Using_LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/Stacks_Queues/Stacks_Queues.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,13 +181,13 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Stacks_Queues">
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.trees.BinaryTree" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.MultiThreading.OddEvenExample.Client" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.DSA_Through_C.trees.*" />
+          <option name="PATTERN" value="org.MultiThreading.OddEvenExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.ll.LinkedList" />
+    <configuration name="Paratntesis_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.Questiones.Paratntesis_Check" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.DSA_Through_C.ll.*" />
+          <option name="PATTERN" value="org.DSA_Through_C.Questiones.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListtt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.ll.LinkedListtt" />
+    <configuration name="Queue22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.Stacks_Queues.Queue22" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.DSA_Through_C.ll.*" />
+          <option name="PATTERN" value="org.DSA_Through_C.Stacks_Queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeatBookingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.MultiThreading.SeatBookingApp" />
+    <configuration name="Stacks_Queues_Using_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.Stacks_Queues.Stacks_Queues_Using_Array" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.MultiThreading.*" />
+          <option name="PATTERN" value="org.DSA_Through_C.Stacks_Queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,8 +234,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stacks_Queues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.Stacks_Queues.Stacks_Queues" />
+    <configuration name="Stacks_Queues_Using_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.Stacks_Queues.Stacks_Queues_Using_LinkedList" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -244,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Stacks_Queues" />
-        <item itemvalue="Application.BinaryTree" />
-        <item itemvalue="Application.LinkedListtt" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.SeatBookingApp" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Paratntesis_Check" />
+        <item itemvalue="Application.Queue22" />
+        <item itemvalue="Application.Stacks_Queues_Using_LinkedList" />
+        <item itemvalue="Application.Stacks_Queues_Using_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -441,9 +446,19 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Stacks_Queues.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Stacks_Queues_Using_Array.java</url>
           <line>9</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Queue22.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/MultiThreading/OddEvenExample/Client.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
