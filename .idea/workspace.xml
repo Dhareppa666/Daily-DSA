@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Paratntesis_Check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Queue22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/OddEvenExample/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/OddEvenExample/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/OddEvenExample/OddEvenEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Stacks_Queues_Using_LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Stacks_Queues_Using_LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/Stacks_Queues/Stacks_Queues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/Set/Linked_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/Set/Linked_HashSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -454,11 +447,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Queue22.java</url>
           <line>17</line>
           <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/MultiThreading/OddEvenExample/Client.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

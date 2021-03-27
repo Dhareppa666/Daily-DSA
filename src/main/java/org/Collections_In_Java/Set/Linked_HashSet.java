@@ -6,10 +6,10 @@ import java.util.LinkedHashSet;
 // When the iteration order is needed to be maintained this class is used.
 // LinkedHashSet(int size)
 // LinkedHashSet(int capacity, float fillRatio)
-public class Linked_HashSet {
+public class Linked_HashSet implements Cloneable {
 
     public static void main(String[] args) {
-        LinkedHashSet<String> linkedset = new LinkedHashSet<String>();
+        LinkedHashSet<String> linkedset = new LinkedHashSet<>();
 
         linkedset.add("A");
         linkedset.add("B");
@@ -25,7 +25,7 @@ public class Linked_HashSet {
         System.out.println("Original LinkedHashSet:" + linkedset);
         System.out.println("Removing D from LinkedHashSet: " +
                 linkedset.remove("D"));
-        System.out.println("Trying to Remove Z which is not "+
+        System.out.println("Trying to Remove Z which is not " +
                 "present: " + linkedset.remove("Z"));
         System.out.println("Checking if A is present=" +
                 linkedset.contains("A"));
