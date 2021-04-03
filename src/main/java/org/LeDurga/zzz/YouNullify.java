@@ -1,9 +1,7 @@
 package org.LeDurga.zzz;
 
-import java.time.Clock;
-import java.time.LocalDateTime;
-import java.time.OffsetDateTime;
-import java.time.ZoneOffset;
+import java.time.*;
+import java.util.TimeZone;
 
 public class YouNullify {
 
@@ -14,14 +12,26 @@ public class YouNullify {
     }
 
     public static void main(String[] args) {
-        //System.out.println(getCurrentUTCTime());
+       // System.out.println(getCurrentUTCTime());
         YouNullify obj = new YouNullify(Clock.systemUTC());
-        System.out.println(obj.getCurrentUTCTime());
+        OffsetDateTime time = obj.getCurrentUTCTime();
+        System.out.println(time);
+        System.out.println(obj.getCurrentUTCTime2(time));
     }
 
     private OffsetDateTime getCurrentUTCTime() {
         return LocalDateTime
                 .now(clock)
-                .atOffset(ZoneOffset.UTC);
+                .atZone(ZoneId.of("Asia/Kolkata"))
+                .toOffsetDateTime();
+    }
+
+    private ZonedDateTime getCurrentUTCTime2(OffsetDateTime offsetDateTime) {
+        //System.out.println(TimeZone.getTimeZone("Australia/Sydney"));
+        return offsetDateTime.atZoneSameInstant(ZoneId.of("Australia/Sydney"));
+                /*
+                LocalDateTime
+                .now(clock)
+                .atZone(ZoneId.of("Australia/Sydney"));*/
     }
 }
