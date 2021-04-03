@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/Basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/Set/Linked_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/Set/Linked_HashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Collections_In_Java/Set/Linked_HashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Collections_In_Java/Set/Linked_HashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/MultiThreading/OddEvenExample/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/MultiThreading/OddEvenExample/Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/test/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +178,7 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.test">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.MultiThreading.OddEvenExample.Client" />
       <module name="RestAPI_Basics" />
@@ -214,19 +218,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stacks_Queues_Using_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.Stacks_Queues.Stacks_Queues_Using_Array" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.DSA_Through_C.Stacks_Queues.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Stacks_Queues_Using_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.Stacks_Queues.Stacks_Queues_Using_LinkedList" />
       <module name="RestAPI_Basics" />
@@ -240,13 +231,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.test.test" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Paratntesis_Check" />
         <item itemvalue="Application.Queue22" />
         <item itemvalue="Application.Stacks_Queues_Using_LinkedList" />
-        <item itemvalue="Application.Stacks_Queues_Using_Array" />
       </list>
     </recent_temporary>
   </component>
