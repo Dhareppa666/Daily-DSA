@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/Basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Collections_In_Java/Set/Linked_HashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Collections_In_Java/Set/Linked_HashSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/MultiThreading/OddEvenExample/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/MultiThreading/OddEvenExample/Generator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/test/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/streams/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/streams/Basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
