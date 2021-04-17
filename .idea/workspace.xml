@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Sum_Of_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asmita_test_multithreading/MultithreadingJOIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asmita_test_multithreading/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asmita_test_multithreading/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asmita_test_multithreading/Number2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asmita_test_multithreading/ObjectX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asmita_test_multithreading/testing_now/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asmita_test_multithreading/testing_now/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asmita_test_multithreading/testing_now/printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Sum_Of_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Sum_Of_Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/MultiThreading/SeatBookingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/SeatBookingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/Questiones/Sum_Of_Digits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/Questiones/Sum_Of_Digits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/MultiThreading/BookTheaterSeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/MultiThreading/BookTheaterSeat.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +170,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sprngboot-tabbitMq-Demo/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/asmita_test_multithreading" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
@@ -168,19 +179,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\My WorkSpace\DSA\src\main\java\org\asmita_test_multithreading" />
       <recent name="C:\My WorkSpace\DSA\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sum_Of_Digits">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.MultiThreading.OddEvenExample.Client" />
+  <component name="RunManager" selected="Application.Number">
+    <configuration name="MultithreadingJOIN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.asmita_test_multithreading.MultithreadingJOIN" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.MultiThreading.OddEvenExample.*" />
+          <option name="PATTERN" value="org.asmita_test_multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParallelStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.streams.ParallelStreamExample" />
+    <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.asmita_test_multithreading.Number" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.streams.*" />
+          <option name="PATTERN" value="org.asmita_test_multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Paratntesis_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.DSA_Through_C.Questiones.Paratntesis_Check" />
+    <configuration name="SeatBookingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.MultiThreading.SeatBookingApp" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.DSA_Through_C.Questiones.*" />
+          <option name="PATTERN" value="org.MultiThreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.test.test" />
+    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.asmita_test_multithreading.testing_now.client" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.test.*" />
+          <option name="PATTERN" value="org.asmita_test_multithreading.testing_now.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number" />
+        <item itemvalue="Application.MultithreadingJOIN" />
+        <item itemvalue="Application.client" />
+        <item itemvalue="Application.SeatBookingApp" />
         <item itemvalue="Application.Sum_Of_Digits" />
-        <item itemvalue="Application.ParallelStreamExample" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Paratntesis_Check" />
       </list>
     </recent_temporary>
   </component>
@@ -450,23 +462,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Sum_Of_Digits.java</url>
-          <line>8</line>
+          <line>9</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Sum_Of_Digits.java</url>
-          <line>20</line>
+          <line>21</line>
           <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Sum_Of_Digits.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Sum_Of_Digits.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

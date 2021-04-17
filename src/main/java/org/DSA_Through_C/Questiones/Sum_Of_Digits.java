@@ -3,6 +3,7 @@ package org.DSA_Through_C.Questiones;
 public class Sum_Of_Digits {
 
     public static void main(String[] args) {
+        reverse(1234);
         int num = 10803;
         //1. approach
         /*int sum =0;
@@ -26,6 +27,18 @@ public class Sum_Of_Digits {
         System.out.println();
         baseConv(num2, 16);
         System.out.println();
+    }
+
+    private static int reverse(int i) {
+        if(i==0){
+            return 0;
+        }
+        int sum =0;
+        while(i == 0){
+            int rem = i%10;
+
+        }return 0;
+
     }
 
     private static void baseConv(int num, int base) {

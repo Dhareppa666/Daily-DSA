@@ -54,12 +54,4 @@ class BookTheaterSeat {
         }
         System.out.println("Total seats left :" + totalSeats);
     }
-
-    void m1(){
-        System.out.printf("I am m1()");
-    }
-
-    {
-        System.out.println("i am in Sync block");
-    }
 }
