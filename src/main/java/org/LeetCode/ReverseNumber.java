@@ -3,7 +3,14 @@ package org.LeetCode;
 public class ReverseNumber {
 
     public static void main(String[] args) {
-        System.out.println(reverse(-123));
+        //System.out.println(reverse(-123));
+
+        String cardBrand = "DEBITA";
+        if(cardBrand.compareTo("DEBIT") != 0) {
+            System.out.println("CARD is found");
+        } else {
+            System.out.println("CARD is not found");
+        }
     }
 
     public static int reverse(int x) {
