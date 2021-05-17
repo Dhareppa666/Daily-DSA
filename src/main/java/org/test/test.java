@@ -5,24 +5,27 @@ import javax.validation.constraints.NotNull;
 public class test {
     public static void main(String[] args) {
 
-        //int[] x = new int[2147483647]; // *4 == mem Locations
-        //System.out.println(x.length);
 
-        /*int[] a = new int[10];
-        System.out.println(a);
-        System.out.println(a[5]);
-
-        String[] a1 = new String[10];
-        System.out.println(a1);
-        System.out.println(a1[5]);*/
-
-        String a = m1("XYZ");
-        System.out.println(a);
-
+        System.out.println(isPalindrome(".a"));
     }
+    public static boolean isPalindrome(String s) {
+        boolean res = true;
+        StringBuilder sb = new StringBuilder();
+        for(int i=0; i<s.length(); i++){
+            if(s.charAt(i) == ' ' ||s.charAt(i) == ',' || s.charAt(i) == ':'){
 
-    static String m1(@NotNull String s){
-        StringBuilder sb = new StringBuilder("SBC");
-        return sb.toString();
+            } else {
+                sb.append(s.charAt(i));
+            }
+        }
+        s=sb.toString().toLowerCase();//a
+        int last=s.length()-1;//0
+        for(int i=0; i<s.length(); i++){//1
+            if(s.charAt(i) != s.charAt(last)){
+                return false;
+            }
+            last--;
+        }
+        return res;
     }
 }
