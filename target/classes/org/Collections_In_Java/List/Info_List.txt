@@ -1,2 +1,0 @@
-* Insertion Order is Preserved.
-* Duplicates are allowed.
