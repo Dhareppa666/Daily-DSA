@@ -1,0 +1,6 @@
+* Insertion Order Not Preserved.
+* Duplicates are not allowed.
+* Internal working of a HashSet: All the classes of Set interface internally backed up by Map.
+HashSet uses HashMap for storing its object internally.
+You must be wondering that to enter a value in HashMap we need a key-value pair,
+but in HashSet, we are passing only one value.
