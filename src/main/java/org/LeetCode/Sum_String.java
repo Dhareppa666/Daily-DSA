@@ -1,12 +1,25 @@
 package org.LeetCode;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Sum_String
 {
     public static void main(String[] args) {
         //System.out.println(addStrings("123", "11"));
         //System.out.println(addStrings("456", "77"));//533
 //        System.out.println(addStrings("1", "9"));//533
-        System.out.println(addStrings2("123", "11"));//533
+        //System.out.println(addStrings2("123", "11"));//533
+        HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(null, null);
+        map.put(null, null);
+        map.put(null, 55);
+        map.put(null, 26);
+        map.put(1, 11);
+        map.put(2, 22);
+        map.put(1, 111);
+
+        System.out.println(map);
     }
 
     public static String addStrings2(String num1, String num2) {
