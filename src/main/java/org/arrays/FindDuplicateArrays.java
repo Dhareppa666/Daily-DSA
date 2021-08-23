@@ -19,7 +19,7 @@ public class FindDuplicateArrays {
         System.out.println("********Hash Set*******");
         Set<String> set = new HashSet<>();
         for (String e : arr){
-            if(set.add(e) == false){
+            if(!set.add(e)){
                 System.out.println(e);
             }
         }

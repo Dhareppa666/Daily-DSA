@@ -6,12 +6,14 @@ import java.util.Set;
 public class abc {
 
     public static void main(String[] args) {
-        int[] arr = {557, 217, 627, 358, 527, 358, 338, 272, 870, 362, 897, 23, 618, 113, 718, 697, 586, 42,
-                424, 130, 230, 566, 560, 933
-        };
+//        int[] arr = {557, 217, 627, 358, 527, 358, 338, 272, 870, 362, 897, 23, 618, 113, 718, 697, 586, 42,
+//                424, 130, 230, 566, 560, 933
+//        };
+
+        int[] arr = {10,20,30,40,50};
 
         //System.out.println(find3Numbers(arr, arr.length, 986));
-        System.out.println(find3Numbers2(arr, arr.length, 986));
+        System.out.println(find3Numbers2(arr, arr.length, 60));
     }
 
     public static boolean find3Numbers(int A[], int n, int X) {

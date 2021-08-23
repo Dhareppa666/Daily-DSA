@@ -16,6 +16,12 @@ public class Hash_Map {
         // Create an empty hash map
         HashMap<String, Integer> map = new HashMap<>();
 
+        map.put(null, null);
+        map.put(null, 1);
+        map.put(null, 4);
+        System.out.println(map);
+
+
         // Add elements to the map
         map.put("vishal", 10);
         map.put("sachin", 30);

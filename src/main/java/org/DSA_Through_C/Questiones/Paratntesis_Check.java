@@ -1,5 +1,7 @@
 package org.DSA_Through_C.Questiones;
 
+import java.util.Stack;
+
 public class Paratntesis_Check {
 
     static char arr[];
@@ -17,8 +19,7 @@ public class Paratntesis_Check {
         String s = "[{()}]";
         new Paratntesis_Check(10);
         arr = new char[s.length()];
-        boolean res = check(s);
-        if (res) {
+        if (check(s)) {
             System.out.println("Balanced");
         } else {
             System.out.println("Not Balanced");
@@ -40,7 +41,7 @@ public class Paratntesis_Check {
                 if ((c == ')' && peek == '(') ||
                         (c == '}' && peek == '{') ||
                         (c == ']' && peek == '[')) {
-                    System.out.println("Poped : "+c);
+                    System.out.println("Popped : "+c);
                     pop(c);
                 } else {
                     System.out.println("Invalid Chars");
@@ -80,5 +81,37 @@ public class Paratntesis_Check {
         }
         top++;
         arr[top] = c;
+    }
+
+    private static boolean checkk(String s) {
+        Stack<Character> stack = new Stack();
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (c == '(' || c == '{' || c == '[') {
+                System.out.println("Pushed : "+c);
+                stack.push(c);
+            } else {
+                if (isEmpty()){
+                    System.out.println("Invaid Parathns..");
+                    return false;
+                }
+                char peek = stack.pop();
+                if ((c == ')' && peek == '(') ||
+                        (c == '}' && peek == '{') ||
+                        (c == ']' && peek == '[')) {
+                    System.out.println("Popped : "+c);
+                    pop(c);
+                } else {
+                    System.out.println("Invalid Chars");
+                    return false;
+                }
+            }
+
+        }
+        if (isEmpty()) {
+            return true;
+        } else {
+            return false;
+        }
     }
 }

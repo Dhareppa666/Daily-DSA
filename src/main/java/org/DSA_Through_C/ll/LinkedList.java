@@ -45,18 +45,19 @@ public class LinkedList {
         printLinkedList2(reverseLinkedList);
     }
 
-    private static Node reverseLinkedList(Node node) {
+    private static Node reverseLinkedList(Node node) {//   null<-1(current, prev) -- 2->3
         Node prev = null;
         Node current = node;
         Node next = null;
         while (current != null) {
             next = current.next;
+
             current.next = prev;
             prev = current;
+
             current = next;
         }
-        node = prev;
-        return node;
+        return prev;
     }
 
     //10, 20 , 30, 40, 50, 60
