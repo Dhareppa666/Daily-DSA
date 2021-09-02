@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/util/AllInOneUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KasService/DummyKas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KasService/DummyKas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/arrays/TargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrays/TargetSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$MyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$MyHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$MyHandlerwithAlias.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$MyHandlerwithAlias.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/ezetap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/ezetap02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/arrays/TargetSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/arrays/TargetSum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +166,7 @@
       <recent name="org.Tech.Dose.bit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
+  <component name="RunManager" selected="Application.InsertionSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.sorting.BubbleSort" />
       <module name="RestAPI_Basics" />
@@ -193,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Example" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.sorting.InsertionSort" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.*" />
+          <option name="PATTERN" value="org.Tech.Dose.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.arrays.TargetSum" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Test" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.arrays.*" />
+          <option name="PATTERN" value="org.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.TargetSum" />
-        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
@@ -630,13 +617,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/MergeSort.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="76" />
+          <line>27</line>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/MergeSort.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="77" />
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/InsertionSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/test/curse.java</url>
