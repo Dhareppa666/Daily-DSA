@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/ezetap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/ezetap02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/util/AllInOneUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/Papal/PayPal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/Papal/PayPal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/Papal/PayPal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/Papal/PayPal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/KasService/DummyKas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KasService/DummyKas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/arrays/TargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrays/TargetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$MyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$MyHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$MyHandlerwithAlias.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas$MyHandlerwithAlias.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/KasService/DummyKas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/ezetap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/ezetap02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/arrays/TargetSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/arrays/TargetSum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,13 +179,13 @@
       <recent name="org.Tech.Dose.bit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ezetap02">
-    <configuration name="Hash_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Collections_In_Java.Map.Hash_Map" />
+  <component name="RunManager" selected="Application.MergeSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.sorting.BubbleSort" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Collections_In_Java.Map.*" />
+          <option name="PATTERN" value="org.Tech.Dose.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PayPal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.Papal.PayPal" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Example" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.Papal.*" />
+          <option name="PATTERN" value="org.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Sample" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.sorting.MergeSort" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Tech.Dose.*" />
+          <option name="PATTERN" value="org.Tech.Dose.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ezetap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.ezetap" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.sorting.SelectionSort" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.*" />
+          <option name="PATTERN" value="org.Tech.Dose.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ezetap02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.ezetap02" />
+    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.arrays.TargetSum" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.*" />
+          <option name="PATTERN" value="org.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ezetap02" />
-        <item itemvalue="Application.ezetap" />
-        <item itemvalue="Application.PayPal" />
-        <item itemvalue="Application.Sample" />
-        <item itemvalue="Application.Hash_Map" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.TargetSum" />
+        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
@@ -603,14 +614,29 @@
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/ezetap.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/EzeTap/ezetap.java</url>
           <line>15</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/ezetap02.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/EzeTap/ezetap02.java</url>
           <line>9</line>
           <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/BubbleSort.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/MergeSort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/MergeSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/test/curse.java</url>
