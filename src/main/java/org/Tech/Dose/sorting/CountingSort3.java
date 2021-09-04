@@ -4,7 +4,8 @@ public class CountingSort3 {
 
     public static void main(String args[]) {
         char[] arr = {'a', 'b', 'a', 's', 'c', 's'};
-        printOccuranceOfCharacters(arr);
+//        printOccuranceOfCharacters(arr);
+        System.out.println(5 + 5 + "5" + 5);
     }
 
     public static void printOccuranceOfCharacters(char[] arr) {
