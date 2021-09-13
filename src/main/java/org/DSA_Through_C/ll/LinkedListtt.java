@@ -2,7 +2,7 @@ package org.DSA_Through_C.ll;
 
 public class LinkedListtt {
 
-    ListNode head;
+    static ListNode head;
 
     static class ListNode {
         int data;
@@ -30,6 +30,8 @@ public class LinkedListtt {
 
         ll = insertData(ll, 50);
         printData(ll);
+
+        System.out.println(isCyclic());
 
         ll = insertDataAtFirstPos(ll, 100);
         printData(ll);
@@ -124,5 +126,27 @@ public class LinkedListtt {
             last.next = newData;
         }
         return ll;
+    }
+
+    /*
+     * If singly LinkedList contains Cycle then following would be true
+     * 1) slow and fast will point to same node i.e. they meet
+     * On the other hand if fast will point to null or next node of
+     * fast will point to null then LinkedList does not contains cycle.
+     */
+    public static boolean isCyclic(){
+        ListNode fast = head;
+        ListNode slow = head;
+
+        while(fast!= null && fast.next != null){
+            fast = fast.next.next;
+            slow = slow.next;
+
+            //if fast and slow pointers are meeting then LinkedList is cyclic
+            if(fast == slow ){
+                return true;
+            }
+        }
+        return false;
     }
 }

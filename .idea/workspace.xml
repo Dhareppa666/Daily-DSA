@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/all_in_one/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/all_in_one/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/LIVE/CODING/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/LIVE/CODING/SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Trees/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/SortZeroOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/LIVE/CODING/Sample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/LIVE/CODING/SegmentTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/arrays/SortZeroOnes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/LinkedListtt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/LinkedListtt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/ll/LinkedListtt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/ll/LinkedListtt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,18 +174,19 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.Tech.Dose.LIVE.CODING" />
       <recent name="org.Tech.Dose.recursion" />
       <recent name="org.Tech.Dose.sorting" />
       <recent name="org.Tech.Dose.bit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainClass">
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.all_in_one.Employee" />
+  <component name="RunManager" selected="Application.BinarySearchTree">
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Trees.BinarySearchTree" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.all_in_one.*" />
+          <option name="PATTERN" value="org.Tech.Dose.Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.DASSAULT.Sample01" />
+    <configuration name="SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.LIVE.CODING.SegmentTree" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.DASSAULT.*" />
+          <option name="PATTERN" value="org.Tech.Dose.LIVE.CODING.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.Recro.Sample03" />
+    <configuration name="SortZeroOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.arrays.SortZeroOnes" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.Recro.*" />
+          <option name="PATTERN" value="org.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,19 +247,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Sample03" />
-      <item itemvalue="Application.Sample01 (1)" />
-      <item itemvalue="Application.Employee" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.MainClass" />
+      <item itemvalue="Application.SortZeroOnes" />
+      <item itemvalue="Application.SegmentTree" />
+      <item itemvalue="Application.BinarySearchTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchTree" />
+        <item itemvalue="Application.SegmentTree" />
+        <item itemvalue="Application.SortZeroOnes" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.Sample01 (1)" />
-        <item itemvalue="Application.Sample03" />
       </list>
     </recent_temporary>
   </component>
@@ -647,6 +655,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/QuickSort.java</url>
           <line>24</line>
           <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/arrays/SortZeroOnes.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/LIVE/CODING/SegmentTree.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/LIVE/CODING/SegmentTree.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/LIVE/CODING/SegmentTree.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/test/curse.java</url>
