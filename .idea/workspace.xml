@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Kth_Largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/MedianOf2Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS_Learn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/bit/SingleNo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Sort_0_1_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/sorting/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Trees/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Trees/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/sorting/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/sorting/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/sorting/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Graphs/Graph_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Graphs/Graph_BFS.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +174,7 @@
       <recent name="org.Tech.Dose.bit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Graph_BFS">
+  <component name="RunManager" selected="Application.TargetSum">
     <configuration name="Graph_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Graphs.Graph_BFS" />
       <module name="RestAPI_Basics" />
@@ -223,8 +214,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kth_Largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.Kth_Largest" />
+    <configuration name="Sort_0_1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.Sort_0_1_2" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -236,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.sorting.QuickSort" />
+    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.arrays.TargetSum" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Tech.Dose.sorting.*" />
+          <option name="PATTERN" value="org.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,19 +241,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.Kth_Largest" />
       <item itemvalue="Application.Graph_DFS" />
       <item itemvalue="Application.Graph_DFS_Learn" />
       <item itemvalue="Application.Graph_BFS" />
+      <item itemvalue="Application.Sort_0_1_2" />
+      <item itemvalue="Application.TargetSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TargetSum" />
+        <item itemvalue="Application.Sort_0_1_2" />
         <item itemvalue="Application.Graph_BFS" />
         <item itemvalue="Application.Graph_DFS" />
         <item itemvalue="Application.Graph_DFS_Learn" />
-        <item itemvalue="Application.Kth_Largest" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
