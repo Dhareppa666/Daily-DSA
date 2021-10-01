@@ -1,56 +1,53 @@
 package org.Tech.Dose.Graphs;
 
-// Java program to print DFS traversal from a given graph
-
 import java.util.Iterator;
 import java.util.LinkedList;
 
-// This class represents a directed graph using adjacency list representation
 public class Graph_DFS_Learn {
     private int V;
+    private LinkedList<Integer>[] adj;
 
-    private LinkedList<Integer> adj[];
-
-    public Graph_DFS_Learn(int v){
+    public Graph_DFS_Learn(int v) {
         this.V = v;
         adj = new LinkedList[v];
-        for(int i=0; i<v; i++)
-            adj[i] = new LinkedList<>();
+        for (int index = 0; index < v; index++)
+            adj[index] = new LinkedList<>();
+    }
+
+    public void addEdge(int v, int e) {
+        adj[v].add(e);
     }
 
     public static void main(String[] args) {
-        Graph_DFS_Learn graph = new Graph_DFS_Learn(4);
+        Graph_DFS_Learn g = new Graph_DFS_Learn(4);
 
-        graph.addEdge(0, 1);
-        graph.addEdge(0, 2);
-        graph.addEdge(1, 2);
-        graph.addEdge(2, 0);
-        graph.addEdge(2, 3);
-        graph.addEdge(3, 3);
+        g.addEdge(0, 1);
+        g.addEdge(0, 2);
+        g.addEdge(1, 2);
+        g.addEdge(2, 0);
+        g.addEdge(2, 3);
+        g.addEdge(3, 3);
 
-        System.out.println("Finding the DFS from 2");
+        System.out.println("Following is Depth First Traversal  (starting from vertex 2)");
 
-        graph.findDfs(2);
+        g.DFS(2);
     }
 
-    private void addEdge(int v, int w) {
-        adj[v].add(w);
-    }
-
-    private void findDfs(int v) {
+    private void DFS(int v) {
         boolean[] visited = new boolean[V];
-        DsfUtils(v, visited);
+
+        DFS_parse(v, visited);
     }
 
-    private void DsfUtils(int v, boolean[] visited) {
-        System.out.print(v);
+    private void DFS_parse(int v, boolean[] visited) {
         visited[v] = true;
+        System.out.print(v + " ");
 
         Iterator<Integer> itr = adj[v].listIterator();
-        while (itr.hasNext()){
-            int node = itr.next();
-            if(!visited[node])
-                DsfUtils(node, visited);
+        while (itr.hasNext()) {
+            int Node = itr.next();
+            if (!visited[Node])
+                DFS_parse(Node, visited);
         }
     }
 }

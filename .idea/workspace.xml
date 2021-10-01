@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Sort_0_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Majority_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Max_occurance_of_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Squares_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_BFS_Learn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Graphs/Graph_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Graphs/Graph_BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS_Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS_Learn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Graphs/Graph_DFS_Learn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Graphs/Graph_DFS_Learn.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,22 +178,9 @@
       <recent name="org.Tech.Dose.bit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TargetSum">
+  <component name="RunManager" selected="Application.Graph_DFS_Learn">
     <configuration name="Graph_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Graphs.Graph_BFS" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.Tech.Dose.Graphs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Graph_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Graphs.Graph_DFS" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -207,6 +198,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.Tech.Dose.Graphs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Max_occurance_of_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.Max_occurance_of_Number" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Tech.Dose.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,19 +245,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Graph_DFS" />
-      <item itemvalue="Application.Graph_DFS_Learn" />
       <item itemvalue="Application.Graph_BFS" />
       <item itemvalue="Application.Sort_0_1_2" />
       <item itemvalue="Application.TargetSum" />
+      <item itemvalue="Application.Max_occurance_of_Number" />
+      <item itemvalue="Application.Graph_DFS_Learn" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Graph_DFS_Learn" />
+        <item itemvalue="Application.Max_occurance_of_Number" />
         <item itemvalue="Application.TargetSum" />
         <item itemvalue="Application.Sort_0_1_2" />
         <item itemvalue="Application.Graph_BFS" />
-        <item itemvalue="Application.Graph_DFS" />
-        <item itemvalue="Application.Graph_DFS_Learn" />
       </list>
     </recent_temporary>
   </component>
@@ -694,6 +698,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS.java</url>
           <line>31</line>
           <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Max_occurance_of_Number.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/test/curse.java</url>
