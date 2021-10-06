@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Majority_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Max_occurance_of_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Squares_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_BFS_Learn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS_Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS_Learn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Graphs/Graph_DFS_Learn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Graphs/Graph_DFS_Learn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI_Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI_Basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/Vector_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/Vector_Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_BFS_Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_BFS_Learn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/arrays/FindDuplicateArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrays/FindDuplicateArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Sample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Sample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +151,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/finzy/main" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
@@ -178,13 +181,13 @@
       <recent name="org.Tech.Dose.bit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Graph_DFS_Learn">
-    <configuration name="Graph_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Graphs.Graph_BFS" />
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="ArrayList_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Collections_In_Java.List.ArrayList_Example" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Tech.Dose.Graphs.*" />
+          <option name="PATTERN" value="org.Collections_In_Java.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Graph_DFS_Learn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Graphs.Graph_DFS_Learn" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Example" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Tech.Dose.Graphs.*" />
+          <option name="PATTERN" value="org.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_occurance_of_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.Max_occurance_of_Number" />
+    <configuration name="Hash_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Collections_In_Java.Map.Hash_Map" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Tech.Dose.Arrays.*" />
+          <option name="PATTERN" value="org.Collections_In_Java.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort_0_1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.Sort_0_1_2" />
+    <configuration name="Hash_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Collections_In_Java.Set.Hash_Set" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Tech.Dose.Arrays.*" />
+          <option name="PATTERN" value="org.Collections_In_Java.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.arrays.TargetSum" />
+    <configuration name="from_1_to_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.LeDurga.Durga_Classes.from_1_to_10" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.arrays.*" />
+          <option name="PATTERN" value="org.LeDurga.Durga_Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,19 +248,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Graph_BFS" />
-      <item itemvalue="Application.Sort_0_1_2" />
-      <item itemvalue="Application.TargetSum" />
-      <item itemvalue="Application.Max_occurance_of_Number" />
-      <item itemvalue="Application.Graph_DFS_Learn" />
+      <item itemvalue="Application.ArrayList_Example" />
+      <item itemvalue="Application.Hash_Map" />
+      <item itemvalue="Application.Hash_Set" />
+      <item itemvalue="Application.from_1_to_10" />
+      <item itemvalue="Application.Example" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Graph_DFS_Learn" />
-        <item itemvalue="Application.Max_occurance_of_Number" />
-        <item itemvalue="Application.TargetSum" />
-        <item itemvalue="Application.Sort_0_1_2" />
-        <item itemvalue="Application.Graph_BFS" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.from_1_to_10" />
+        <item itemvalue="Application.Hash_Set" />
+        <item itemvalue="Application.Hash_Map" />
+        <item itemvalue="Application.ArrayList_Example" />
       </list>
     </recent_temporary>
   </component>
@@ -591,23 +594,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Sample.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Sample.java</url>
-          <line>12</line>
+          <line>20</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Sample.java</url>
-          <line>23</line>
+          <line>33</line>
           <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Sample.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/Papal/PayPal.java</url>
@@ -703,6 +696,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Max_occurance_of_Number.java</url>
           <line>20</line>
           <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Sample.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Sample.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/test/curse.java</url>

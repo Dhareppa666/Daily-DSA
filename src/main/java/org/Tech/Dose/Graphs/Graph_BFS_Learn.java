@@ -47,10 +47,11 @@ public class Graph_BFS_Learn {
         boolean[] visited = new boolean[V];
 
         visited[v] = true;
-        System.out.print(v+" ");
-
+        queue.add(v);
         while(queue.isEmpty()){
             int node = queue.poll();
+            System.out.print(v+" ");
+
             if (!visited[node]){
                 queue.add(node);
                 visited[node] = true;

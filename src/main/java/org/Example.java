@@ -10,6 +10,9 @@ public class Example {
 //        System.out.println(isValidParenthesis("({[]}("));
 //        System.out.println(getLargestString("azzzzz",2));
 //        System.out.println(abb("azzzzz",2));
+        int a =0;
+        a = a+++a++ - a++ + ++a;
+        System.out.println(a);
 
     }
 

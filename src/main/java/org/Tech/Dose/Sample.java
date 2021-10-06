@@ -1,12 +1,20 @@
 package org.Tech.Dose;
 
+
+import org.apache.commons.lang3.StringUtils;
+
 public class Sample {
 
     public static void main(String[] args) {
 //        System.out.println(1<<3);
         //System.out.println(hammingWeight(7));
         //System.out.println(majorityElement(new int[]{1,1,2,2,2,1,2, 9, 6,3}));
-        countBits(5);
+        //countBits(5);
+       // System.out.println(findSubString("GEEKSGEEKSFOR"));
+        System.out.println(StringUtils.leftPad("abcd", 8, '0'));
+        System.out.println(StringUtils.leftPad(StringUtils.right("123456", 9), 11, '0'));
+        System.out.println(StringUtils.right("123456", 9)); // Res: 123456 [string is lesser than the length so return same]
+        System.out.println(StringUtils.right("1234567890ABCDEFGHIJ", 9)); // Res: Last 9 Digits will be picked : BCDEFGHIJ
     }
 
     public static int hammingWeight(int n) {
@@ -15,6 +23,8 @@ public class Sample {
             n &=n-1;
             count++;
         }
+        
+        
         return count;
     }
 
@@ -41,5 +51,24 @@ public class Sample {
             System.out.println(i+":"+res[i]);
         }
         return res;
+    }
+
+    public static int findSubString(String str){
+        // Your code goes here
+        int max = 0;
+        int curr = 0;
+        char c = str.charAt(0);
+        for(int i=0; i<str.length(); i++){
+            if(str.charAt(i) != c){
+                curr++;
+                c = str.charAt(i);
+            } else {
+                curr = 1;
+                c = str.charAt(i);
+            }
+            if(curr>max)
+                max = curr;
+        }
+        return max;
     }
 }
