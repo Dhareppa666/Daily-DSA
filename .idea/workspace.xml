@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/PermutaionOfGivenString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/SubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/SubSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Stack_Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Sorted_subsequence_of_size_3_in_linear_time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/TripletSumORThreeSome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/PermutaionOfGivenString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/PermutaionOfGivenString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,20 +175,7 @@
       <recent name="org.Tech.Dose.bit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PermutaionOfGivenString">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Example" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TripletSumORThreeSome">
     <configuration name="PermutaionOfGivenString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.PermutaionOfGivenString" />
       <module name="RestAPI_Basics" />
@@ -242,20 +228,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TripletSumORThreeSome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.TripletSumORThreeSome" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Tech.Dose.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Example" />
       <item itemvalue="Application.Stack_Ex" />
       <item itemvalue="Application.SubSequence" />
       <item itemvalue="Application.SubSets" />
       <item itemvalue="Application.PermutaionOfGivenString" />
+      <item itemvalue="Application.TripletSumORThreeSome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TripletSumORThreeSome" />
         <item itemvalue="Application.PermutaionOfGivenString" />
         <item itemvalue="Application.SubSequence" />
         <item itemvalue="Application.SubSets" />
         <item itemvalue="Application.Stack_Ex" />
-        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
