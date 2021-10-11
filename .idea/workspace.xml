@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/PermutaionOfGivenString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/SubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/SubSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Stack_Ex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI_Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI_Basics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/Vector_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/List/Vector_Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_BFS_Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_BFS_Learn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/arrays/FindDuplicateArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrays/FindDuplicateArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Sample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Sample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,20 +176,7 @@
       <recent name="org.Tech.Dose.bit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example">
-    <configuration name="ArrayList_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Collections_In_Java.List.ArrayList_Example" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.Collections_In_Java.List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PermutaionOfGivenString">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Example" />
       <module name="RestAPI_Basics" />
@@ -208,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hash_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Collections_In_Java.Map.Hash_Map" />
+    <configuration name="PermutaionOfGivenString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.PermutaionOfGivenString" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Collections_In_Java.Map.*" />
+          <option name="PATTERN" value="org.Tech.Dose.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hash_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Collections_In_Java.Set.Hash_Set" />
+    <configuration name="Stack_Ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Wind_Explr_Program.Stack_Ex" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Collections_In_Java.Set.*" />
+          <option name="PATTERN" value="org.Wind_Explr_Program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +216,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="from_1_to_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.LeDurga.Durga_Classes.from_1_to_10" />
+    <configuration name="SubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.SubSequence" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.LeDurga.Durga_Classes.*" />
+          <option name="PATTERN" value="org.Tech.Dose.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.SubSets" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Tech.Dose.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,19 +243,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayList_Example" />
-      <item itemvalue="Application.Hash_Map" />
-      <item itemvalue="Application.Hash_Set" />
-      <item itemvalue="Application.from_1_to_10" />
       <item itemvalue="Application.Example" />
+      <item itemvalue="Application.Stack_Ex" />
+      <item itemvalue="Application.SubSequence" />
+      <item itemvalue="Application.SubSets" />
+      <item itemvalue="Application.PermutaionOfGivenString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PermutaionOfGivenString" />
+        <item itemvalue="Application.SubSequence" />
+        <item itemvalue="Application.SubSets" />
+        <item itemvalue="Application.Stack_Ex" />
         <item itemvalue="Application.Example" />
-        <item itemvalue="Application.from_1_to_10" />
-        <item itemvalue="Application.Hash_Set" />
-        <item itemvalue="Application.Hash_Map" />
-        <item itemvalue="Application.ArrayList_Example" />
       </list>
     </recent_temporary>
   </component>
@@ -706,6 +701,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Sample.java</url>
           <line>71</line>
           <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Stack_Ex.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/test/curse.java</url>
