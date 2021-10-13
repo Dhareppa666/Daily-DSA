@@ -3,9 +3,9 @@ package org.Tech.Dose.Arrays;
 public class Kth_Largest {
 
     public static void main(String[] args) {
-        int[] arr = {3, 6, 4, 5, 2, 1};
-        System.out.println(KthLargest(arr, 0, arr.length-1, 2));
-//        System.out.println(findKthLargest(arr, 0, arr.length-1, 2));
+        int[] arr = {3, 6, 4, 5, 50, 1};
+//        System.out.println(KthLargest(arr, 0, arr.length-1, 4));
+        System.out.println(findKthSmallest(arr, 0, arr.length-1, 1));
     }
 
     private static int KthLargest(int[] arr, int low, int high, int k) {
@@ -38,13 +38,14 @@ public class Kth_Largest {
         return i+1;
     }
 
-    public static int findKthLargest(int[] arr, int low, int high, int k) {// quick select: kth smallest
-        if (low > high) return Integer.MAX_VALUE;
+    public static int findKthSmallest(int[] arr, int low, int high, int k) {// quick select: kth smallest
+        if (low > high)
+            return Integer.MAX_VALUE;
 
         int pivot = arr[high];// Take A[high] as the pivot,
         int left = low;
         for (int i = low; i < high; i++) {
-            if (arr[i] <= pivot) // Put numbers < pivot to pivot's left
+            if (arr[i] >= pivot) // Put numbers < pivot to pivot's left
                 swap(arr, left++, i);
         }
         swap(arr, left, high);// Finally, swap A[high] with A[left]
@@ -52,9 +53,9 @@ public class Kth_Largest {
         if (left == k)// Found kth smallest number
             return arr[left];
         else if (left < k)// Check right part
-            return findKthLargest(arr, left + 1, high, k);
+            return findKthSmallest(arr, left + 1, high, k);
         else // Check left part
-            return findKthLargest(arr, low, left - 1, k);
+            return findKthSmallest(arr, low, left - 1, k);
     }
 
     private static void swap(int[] A, int i, int j) {

@@ -1,6 +1,9 @@
 package org;
 
+import javax.validation.constraints.Null;
+import java.lang.reflect.Array;
 import java.util.Stack;
+import java.util.TreeSet;
 
 public class Example {
 
@@ -10,10 +13,48 @@ public class Example {
 //        System.out.println(isValidParenthesis("({[]}("));
 //        System.out.println(getLargestString("azzzzz",2));
 //        System.out.println(abb("azzzzz",2));
-        int a =0;
-        a = a+++a++ - a++ + ++a;
-        System.out.println(a);
+//        int a =0;
+//        a = a+++a++ - a++ + ++a;
+//        System.out.println(a);
+//        something();
+//        display(null);
 
+//        System.out.println("is:"+(11<22<33));
+//        System.out.println("is:"+(11>22>33));
+
+//        TreeSet<Monkey> t = new TreeSet<Monkey>();
+//        t.add(new Monkey(1));
+//        t.add(new Monkey(2));
+//        t.add(new Monkey(1));
+//        System.out.println(t.size());
+
+        Enums e = Enums.E;
+
+    }
+    static class Monkey{
+        Monkey(int i){}
+    }
+
+
+    private static void display(Object o) {
+        System.out.println("In Obj");
+    }
+
+    private static void display(String o) {
+        System.out.println("In Str");
+    }
+
+    private static void display(StringBuffer o) {
+        System.out.println("In Buff");
+    }
+
+
+    private static boolean something() {
+        try {
+            throw new ClassCastException();
+        } catch (Exception e){
+            throw  new NullPointerException();
+        }
     }
 
     static String getLargestString(String s, int k) {
@@ -40,22 +81,22 @@ public class Example {
                 } else {
                     break;
                 }
-            } else if (countArray[i] > 0){
+            } else if (countArray[i] > 0) {
                 int count = countArray[i];
-                while(count > 0) {
+                while (count > 0) {
                     result = result.concat(getLetter(i));
                     count--;
                 }
                 countArray[i] = 0;
             } else {
-                i -=1;
+                i -= 1;
             }
         }
         return result;
     }
 
     private static String getLetter(int i) {
-        return (char)(i + 'a') + "";
+        return (char) (i + 'a') + "";
     }
 
     static String getLargestString2(String s, int k) {
@@ -86,8 +127,7 @@ public class Example {
                 } else {
                     break;
                 }
-            }
-            else if (frequency_array[i] > 0) {
+            } else if (frequency_array[i] > 0) {
                 int temp = frequency_array[i];
                 frequency_array[i] -= temp;
                 String st = String.valueOf((char) (i + 'a'));
@@ -103,7 +143,7 @@ public class Example {
         return ans;
     }
 
-    public static boolean isValidParenthesis(String s){ //{}()
+    public static boolean isValidParenthesis(String s) { //{}()
         Stack<Character> stack = new Stack();//({[]})
         if (s.length() < 2) {//1 ( {
             return false;
