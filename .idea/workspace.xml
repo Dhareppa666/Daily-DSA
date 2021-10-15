@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Enums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Merge_Intervals_LC_56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/productExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Utils/Lambdas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Sort_Characters_By_Frequency_451.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Kth_Largest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Kth_Largest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/Kth_Largest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/Kth_Largest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +173,7 @@
       <recent name="org.Tech.Dose.bit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example">
+  <component name="RunManager" selected="Application.Sort_Characters_By_Frequency_451">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Example" />
       <module name="RestAPI_Basics" />
@@ -207,8 +200,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutaionOfGivenString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.PermutaionOfGivenString" />
+    <configuration name="RecursionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.RecursionExample" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -220,8 +213,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.RecursionExample" />
+    <configuration name="Sort_Characters_By_Frequency_451" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.Sort_Characters_By_Frequency_451" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -247,19 +240,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PermutaionOfGivenString" />
       <item itemvalue="Application.RecursionExample" />
       <item itemvalue="Application.productExceptSelf" />
       <item itemvalue="Application.Kth_Largest" />
       <item itemvalue="Application.Example" />
+      <item itemvalue="Application.Sort_Characters_By_Frequency_451" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sort_Characters_By_Frequency_451" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.Kth_Largest" />
         <item itemvalue="Application.productExceptSelf" />
         <item itemvalue="Application.RecursionExample" />
-        <item itemvalue="Application.PermutaionOfGivenString" />
       </list>
     </recent_temporary>
   </component>
@@ -740,6 +733,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/productExceptSelf.java</url>
           <line>14</line>
           <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Sort_Characters_By_Frequency_451.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Sort_Characters_By_Frequency_451.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Sort_Characters_By_Frequency_451.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/test/curse.java</url>
