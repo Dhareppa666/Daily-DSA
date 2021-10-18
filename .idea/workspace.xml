@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational/Prototype/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational/Prototype/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational/Prototype/Profession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational/Prototype/ProfessionCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational/Prototype/ProtoTypePatternMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational/Prototype/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational/Singleton/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/LinkedIsCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/TEST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/Duplicate2Pointers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/Jumps_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/A_169_Majority_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/trapping_rain_water.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/LinkedListtt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/LinkedListtt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/arrays/Jumps_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrays/Jumps_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/arrays/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrays/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/ll/LinkedListtt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/ll/LinkedListtt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/Sort_Characters_By_Frequency_451.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/Sort_Characters_By_Frequency_451.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/arrays/Jumps_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/arrays/Jumps_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/arrays/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/arrays/test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,22 +176,9 @@
       <recent name="org.Tech.Dose.sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="Duplicate2Pointers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.arrays.Duplicate2Pointers" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedIsCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.LinkedIsCycle" />
+  <component name="RunManager" selected="Application.trapping_rain_water">
+    <configuration name="A_169_Majority_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.A_169_Majority_Element" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -255,20 +229,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="trapping_rain_water" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech.Dose.Arrays.trapping_rain_water" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Tech.Dose.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Duplicate2Pointers" />
-      <item itemvalue="Application.LinkedIsCycle" />
       <item itemvalue="Application.TEST" />
       <item itemvalue="Application.ProtoTypePatternMainClass" />
       <item itemvalue="Application.test" />
+      <item itemvalue="Application.A_169_Majority_Element" />
+      <item itemvalue="Application.trapping_rain_water" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.trapping_rain_water" />
+        <item itemvalue="Application.A_169_Majority_Element" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.ProtoTypePatternMainClass" />
         <item itemvalue="Application.TEST" />
-        <item itemvalue="Application.LinkedIsCycle" />
-        <item itemvalue="Application.Duplicate2Pointers" />
       </list>
     </recent_temporary>
   </component>
