@@ -3,7 +3,7 @@ package org.LeetCode;
 public class ArrayDiff {
 
     public static void main(String[] args) {
-        int x = findTheDistanceValue(new int[]{4,5,8}, new int[]{10,9,1,8}, 2);
+        int x = findTheDistanceValue(new int[]{4, 5, 8}, new int[]{10, 9, 1, 8}, 2);
         System.out.println(x);
     }
 

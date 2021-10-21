@@ -8,7 +8,7 @@ public class SubSequence {
     private static HashSet<String> al = new HashSet<>();
 
     public static void main(String[] args) {
-        String s = "cba";
+        String s = "abc";
         findsubsequences(s, ""); // Calling a function
         System.out.println(al);
         System.out.println(al.size());

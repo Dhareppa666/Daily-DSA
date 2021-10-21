@@ -4,9 +4,10 @@ package org.Tech.Dose.Arrays;
 public class Search_an_element_in_a_sorted_and_rotated_array {
 
     public static void main(String args[]) {
+//        int[] arr = {1,0,1,1,1};
         int[] arr = {4, 5, 6, 7, 8, 9, 1, 2, 3};
         int n = arr.length;
-        int key = 2;
+        int key = 6;
         int i = search(arr, 0, n - 1, key);
         if (i != -1)
             System.out.println("Index: " + i);

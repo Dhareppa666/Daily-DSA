@@ -3,7 +3,8 @@ package org.LeetCode;
 public class ReverseNumber {
 
     public static void main(String[] args) {
-        //System.out.println(reverse(-123));
+        System.out.println(reverse(-123));
+        System.out.println(reverse2(-123));
 
         String cardBrand = "DEBITA";
         if(cardBrand.compareTo("DEBIT") != 0) {
@@ -11,6 +12,18 @@ public class ReverseNumber {
         } else {
             System.out.println("CARD is not found");
         }
+    }
+
+    private static int reverse2(int i) {
+        int num = 0;
+        int x = (i<0)? -1:1;
+        i= Math.abs(i);
+        while (i>0){
+            int rem = i%10;
+            num = (num*10) + rem;
+            i/=10;
+        }
+        return num*x;
     }
 
     public static int reverse(int x) {

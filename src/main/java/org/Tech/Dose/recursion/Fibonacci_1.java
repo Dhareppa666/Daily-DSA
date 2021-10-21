@@ -12,7 +12,8 @@ public class Fibonacci_1 {
         if (i == 1 || i == 0) {
             return i;
         } else {
-            return fib(i - 1) + fib(i - 2);
+            int res = fib(i - 1) + fib(i - 2);
+            return res;
         }
     }
 }

@@ -9,12 +9,16 @@ abstract public class Abstr_Ex {
     static int y;
 
     //Constructors
-    Abstr_Ex(){ }
-    Abstr_Ex(int data){ this.x= data; }
+    Abstr_Ex() {
+    }
+
+    Abstr_Ex(int data) {
+        this.x = data;
+    }
 
     //Instance block
     {
-       int z;
+        int z;
     }
 
     //Static block

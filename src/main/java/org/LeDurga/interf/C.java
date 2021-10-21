@@ -22,6 +22,7 @@ abstract class C implements p1,p2{
     public void m1() {
 
     }
+
 }
 
 //class all extends C{

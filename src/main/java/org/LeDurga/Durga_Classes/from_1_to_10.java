@@ -2,9 +2,9 @@ package org.LeDurga.Durga_Classes;
 
 public class from_1_to_10 {
     public static void main(String[] args) {
-        //call01();
-        //call02();
-        //call03();
+        call01();
+        call02();
+        call03();
         call04();
     }
 

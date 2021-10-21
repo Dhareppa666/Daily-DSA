@@ -6,14 +6,8 @@ import java.util.Arrays;
 public class PayPal {
 
     public static void main(String[] args) {
-        //mostBalloons(6, new int[][]{{1,1}, {2,2}, {3,4}, {4,5}, {5,6}, {9,10}});
-        ArrayList<Integer> integers = new ArrayList<>();
-        integers.add(5);
-        integers.add(7);
-        integers.add(5);
-
-        System.out.println(integers);
-
+        int res = mostBalloons(6, new int[][]{{1,1}, {2,2}, {3,4}, {4,5}, {5,6}, {9,10}});
+        System.out.println(res);
     }
 
     public static int mostBalloons(int N, int arr[][]) {
@@ -42,7 +36,7 @@ public class PayPal {
             max = curr;
             res = arr2[N-1];
         }
-        System.out.println(max);
+//        System.out.println(max);
         return max;
     }
 }

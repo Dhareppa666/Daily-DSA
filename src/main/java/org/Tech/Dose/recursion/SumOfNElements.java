@@ -1,7 +1,7 @@
 package org.Tech.Dose.recursion;
 
 //3. Sum of Elements from 1 to N
-public class Fibonacci_3 {
+public class SumOfNElements {
 
     public static void main(String[] args) {//1,3,6,10,15
         System.out.println("The sum is :" + sum(2));

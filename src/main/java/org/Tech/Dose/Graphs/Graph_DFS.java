@@ -2,8 +2,8 @@ package org.Tech.Dose.Graphs;
 
 // Java program to print DFS traversal from a given graph
 
-import java.io.*;
-import java.util.*;
+import java.util.Iterator;
+import java.util.LinkedList;
 
 // This class represents a directed graph using adjacency list representation
 public class Graph_DFS {

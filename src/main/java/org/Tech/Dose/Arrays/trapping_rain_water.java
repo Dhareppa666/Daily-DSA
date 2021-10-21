@@ -43,4 +43,59 @@ public class trapping_rain_water {
         }
         return result;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    public int tapWater(int[] height){
+        if (height == null || height.length==0)
+            return 0;
+        int leftMax = Integer.MIN_VALUE;
+        int rightMax = Integer.MIN_VALUE;
+
+        int result = 0;
+        int left =0, right = height.length-1;
+        while (left<=right){
+            leftMax = Math.max(leftMax, height[left]);
+            rightMax = Math.max(rightMax, height[right]);
+
+            if(leftMax < rightMax){
+                result +=leftMax - height[left];
+                left++;
+            } else {
+                result += rightMax - height[right];
+                right--;
+            }
+        }
+        return result;
+    }
+
+
+
+
+
 }

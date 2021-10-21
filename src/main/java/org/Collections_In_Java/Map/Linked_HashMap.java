@@ -11,9 +11,9 @@ public class Linked_HashMap {
         Map<String, String> lhm = new LinkedHashMap<>();
 
         // Add mappings using put method
-        lhm.put("one", "practice.geeksforgeeks.org");
-        lhm.put("two", "code.geeksforgeeks.org");
-        lhm.put("four", "quiz.geeksforgeeks.org");
+        lhm.put("one", "practice");
+        lhm.put("two", "code");
+        lhm.put("four", "quiz");
 
         // It prints the elements in same order
         // as they were inserted
