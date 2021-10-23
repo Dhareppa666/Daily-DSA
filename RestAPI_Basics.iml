@@ -15,7 +15,6 @@
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/org/JUnit_By_ME" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/java/All_In_One/JUnit_By_ME" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/org/JUnit_By_ME" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/org/streams" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
