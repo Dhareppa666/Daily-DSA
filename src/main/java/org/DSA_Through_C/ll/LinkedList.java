@@ -80,18 +80,18 @@ public class LinkedList {
 
         Node newData = new Node(data);
 
-        Node isCurrent = linkedList.head;
+        Node curr = linkedList.head;
         Node prev = null;
         int counter = 1;
 
         while (counter != pos) {
-            prev = isCurrent;
-            isCurrent = isCurrent.next;
+            prev = curr;
+            curr = curr.next;
             counter++;
         }
 
         prev.next = newData;
-        newData.next = isCurrent;
+        newData.next = curr;
 
         return linkedList;
     }

@@ -5,19 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/InitStaticBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/basic/StreamsLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/basic/StreamsLearn_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/basic/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/Producer_Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/Producer_Consumer_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Cont_Sub_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/zee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lambda/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/online/coding/help/Except.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/online/coding/help/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/online/coding/help/ThreadTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI_Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI_Basics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Find_Minimum_in_Rotated_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Find_Minimum_in_Rotated_Sorted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/Find_Minimum_in_Rotated_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/Find_Minimum_in_Rotated_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/largest_sum_contiguous_subarray_KADANE_ALGO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/largest_sum_contiguous_subarray_KADANE_ALGO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/ll/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/ll/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/streams/basic/StreamsLearn_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/streams/basic/StreamsLearn_02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +150,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -165,6 +167,9 @@
     <option name="enabled" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.online.coding.help" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\My WorkSpace\DSA\src\main\java\org\Design_Pattern\Creational" />
       <recent name="C:\My WorkSpace\DSA\src\main\java\org\Design_Pattern\Creational\Prototype" />
@@ -177,20 +182,20 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.MultiThreading" />
       <recent name="org.streams.basic" />
       <recent name="org.Design_Pattern.Creational.Prototype" />
       <recent name="org.Tech.Dose.Graphs" />
       <recent name="org.Tech.Dose.LIVE.CODING" />
-      <recent name="org.Tech.Dose.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamsLearn_02">
-    <configuration name="InitStaticBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.streams.InitStaticBlocks" />
+  <component name="RunManager" selected="Application.Employee_Sort">
+    <configuration name="Employee_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.zee.Employee_Sort" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.streams.*" />
+          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.zee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.streams.Solution" />
+    <configuration name="Producer_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.MultiThreading.Producer_Consumer" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.streams.*" />
+          <option name="PATTERN" value="org.MultiThreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Solution1" />
+    <configuration name="Producer_Consumer_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.MultiThreading.Producer_Consumer_Test" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.*" />
+          <option name="PATTERN" value="org.MultiThreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.streams.basic.StreamsLearn" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lambda.test" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.streams.basic.*" />
+          <option name="PATTERN" value="org.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsLearn_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.streams.basic.StreamsLearn_02" />
+    <configuration name="zee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.zee.zee" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.streams.basic.*" />
+          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.zee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,19 +256,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution1" />
-      <item itemvalue="Application.InitStaticBlocks" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.StreamsLearn" />
-      <item itemvalue="Application.StreamsLearn_02" />
+      <item itemvalue="Application.Producer_Consumer" />
+      <item itemvalue="Application.Producer_Consumer_Test" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.zee" />
+      <item itemvalue="Application.Employee_Sort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamsLearn_02" />
-        <item itemvalue="Application.StreamsLearn" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.InitStaticBlocks" />
-        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.Employee_Sort" />
+        <item itemvalue="Application.zee" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Producer_Consumer_Test" />
+        <item itemvalue="Application.Producer_Consumer" />
       </list>
     </recent_temporary>
   </component>
@@ -381,6 +386,7 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ABC-001 commit-02" />
     <MESSAGE value="ABC-001 commit-03" />
     <MESSAGE value="ABC-001 commit-04" />
