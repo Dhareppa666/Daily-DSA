@@ -10,4 +10,11 @@ public class AllInOneUtils {
         System.out.println();
         System.out.println("-------------In Array Printing-------------------");
     }
+
+    public static void printArr(String[] arr){
+        for (int index=0; index <arr.length; index++){
+            System.out.print(arr[index]+",");
+        }
+        System.out.println();
+    }
 }

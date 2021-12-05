@@ -2,7 +2,7 @@ package org.REAL_TIME_COMP_QUES.zee;
 
 //@Getter
 //@Setter
-public class Employee implements Comparable {
+public class Employee {
 
     private String name;
     private String dept;
@@ -20,7 +20,7 @@ public class Employee implements Comparable {
         this.dept = dept;
     }
 
-    @Override
+    /*@Override
     public int compareTo(Object obj) {
         Employee emp = (Employee) obj;
         if (this.getDept().compareTo(emp.getDept()) == 0) {
@@ -28,7 +28,7 @@ public class Employee implements Comparable {
         } else {
             return this.getDept().compareTo(emp.getDept());
         }
-    }
+    }*/
 
     @Override
     public String toString() {

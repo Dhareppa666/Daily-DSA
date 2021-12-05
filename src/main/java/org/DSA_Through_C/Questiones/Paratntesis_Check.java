@@ -50,11 +50,7 @@ public class Paratntesis_Check {
             }
 
         }
-        if (isEmpty()) {
-            return true;
-        } else {
-            return false;
-        }
+        return isEmpty();
     }
 
     private static boolean isEmpty() {

@@ -5,20 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/Producer_Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/Producer_Consumer_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Cont_Sub_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/zee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lambda/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/online/coding/help/Except.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/online/coding/help/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/online/coding/help/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JAVA/Generics/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JAVA/Generics/MyGenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/nokia/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/nokia/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/nokia/TestException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Comparator_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/longestPalindromeSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/twoWaySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Testthrows1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Yodle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/Bijli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/test/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/test/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/util/FileReadWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/util/abc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/ll/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/ll/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Cropin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/Cropin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Paratntesis_Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Paratntesis_Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational/Prototype/Profession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational/Prototype/Profession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LeetCode/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LeetCode/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/MultiThreading/Producer_Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/Producer_Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Stack_Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Stack_Ex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/arrays/Jumps_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrays/Jumps_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lambda/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JAVA/lambda/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/streams/basic/StreamsLearn_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/streams/basic/StreamsLearn_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/util/AllInOneUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/util/AllInOneUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Cropin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/Questiones/Paratntesis_Check.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/Questiones/Paratntesis_Check.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Design_Pattern/Creational/Prototype/Profession.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Design_Pattern/Creational/Prototype/Profession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/LeetCode/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/LeetCode/ReverseNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/MultiThreading/Producer_Consumer$PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/MultiThreading/Producer_Consumer$PC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/zee/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/zee/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/zee/Employee_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/zee/Employee_Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Wind_Explr_Program/Stack_Ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Wind_Explr_Program/Stack_Ex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/lambda/test.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/streams/basic/StreamsLearn_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/streams/basic/StreamsLearn_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/util/AllInOneUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/util/AllInOneUtils.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +158,7 @@
     </treeState>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="952" />
@@ -156,7 +185,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-jwt-without-JPA/pom.xml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
@@ -182,20 +211,20 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.streams.test" />
       <recent name="org.MultiThreading" />
       <recent name="org.streams.basic" />
       <recent name="org.Design_Pattern.Creational.Prototype" />
       <recent name="org.Tech.Dose.Graphs" />
-      <recent name="org.Tech.Dose.LIVE.CODING" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Employee_Sort">
-    <configuration name="Employee_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.zee.Employee_Sort" />
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Cropin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.Cropin" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.zee.*" />
+          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Producer_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.MultiThreading.Producer_Consumer" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.streams.test.Main" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.MultiThreading.*" />
+          <option name="PATTERN" value="org.streams.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Producer_Consumer_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.MultiThreading.Producer_Consumer_Test" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.streams.test.Main2" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.MultiThreading.*" />
+          <option name="PATTERN" value="org.streams.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lambda.test" />
+    <configuration name="Prog01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.Prog01" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lambda.*" />
+          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.zee.zee" />
+    <configuration name="Yodle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Yodle" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.zee.*" />
+          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,19 +285,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Producer_Consumer" />
-      <item itemvalue="Application.Producer_Consumer_Test" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.zee" />
-      <item itemvalue="Application.Employee_Sort" />
+      <item itemvalue="Application.Prog01" />
+      <item itemvalue="Application.Yodle" />
+      <item itemvalue="Application.Cropin" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Employee_Sort" />
-        <item itemvalue="Application.zee" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Producer_Consumer_Test" />
-        <item itemvalue="Application.Producer_Consumer" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Cropin" />
+        <item itemvalue="Application.Yodle" />
+        <item itemvalue="Application.Prog01" />
       </list>
     </recent_temporary>
   </component>
@@ -492,21 +521,6 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/LeetCode/Solution.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/LeetCode/Solution.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/LeetCode/ReverseNumber.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/LeetCode/Test.java</url>
           <line>13</line>
           <option name="timeStamp" value="44" />
@@ -540,26 +554,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/arrays/SubsetOfAnArray.java</url>
           <line>25</line>
           <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/arrays/Interleaving_String.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/arrays/Interleaving_String.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/arrays/Interleaving_String.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/arrays/Interleaving_String.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/gfg/abc.java</url>
@@ -635,16 +629,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/LIVE/CODING/SegmentTree.java</url>
           <line>60</line>
           <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Kth_Largest.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Kth_Largest.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Graphs/Graph_DFS.java</url>
@@ -737,14 +721,29 @@
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/LinkedIsCycle.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/Papal/PayPal.java</url>
           <line>19</line>
           <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/LeetCode/ReverseNumber.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/LeetCode/ReverseNumber.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/longestPalindromeSubString.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/util/FileReadWrite.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/test/curse.java</url>

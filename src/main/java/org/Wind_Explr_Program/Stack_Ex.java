@@ -2,9 +2,9 @@ package org.Wind_Explr_Program;
 
 public class Stack_Ex {
 
-    public static int[] arr;
+    private static int[] arr;
 
-    public static int top=-1;
+    private static int top=-1;
 
     public Stack_Ex(int size){
         arr = new int[size];

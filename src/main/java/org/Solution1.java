@@ -5,6 +5,7 @@ import java.util.*;
 import java.lang.*;
 
 public class Solution1 {
+
     public static void main(String[] args) {
         List<Integer> list = Arrays.asList(4, 2, 1, 10, 3, 9, 5, 1, 1, 7, 6);
         sortOddEven(list);

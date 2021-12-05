@@ -1,4 +1,4 @@
-package org;
+package org.REAL_TIME_COMP_QUES;
 
 public class Cropin {
 
@@ -28,12 +28,11 @@ public class Cropin {
 
         for (int i = 0; i < n; i++) {
             int temp = arr[i];
-            sum += temp;
             max = Math.max(max, temp);
             min = Math.min(min, temp);
         }
-        System.out.println("The Minimum Sum is: " + (sum - max));
-        System.out.println("The Maximum Sum is: " + (sum - min));
+        System.out.println("The Minimum Sum is: " + min);
+        System.out.println("The Maximum Sum is: " + max);
     }
 
 }

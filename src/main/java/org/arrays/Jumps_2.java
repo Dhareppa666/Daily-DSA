@@ -13,7 +13,7 @@ public class Jumps_2 {
 
             farthest = Math.max(farthest, i+nums[i]);
 
-            if(i == end){
+            if(i == end) {
                 jumps++;
                 end = farthest;
             }

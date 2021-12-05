@@ -14,14 +14,12 @@ public class Employee_Sort {
 
         list1.add(new Employee("ABC", "Apx"));
 
-        //list.sort();
-// 		List<Employee> sortedEmpList = list.stream()
-// 		                                    .sorted(Comparator::compareTo)
-// 		                                    .collect(Collector.toList());
-
-
-        Collections.sort(list1);
+        Collections.sort(list1, new Comparator_Class());
 
         System.out.println("The Emp list is : " + list1);
+
+        System.out.println("B".compareTo("A"));
+        System.out.println("B".compareTo("B"));
+        System.out.println("B".compareTo("C"));
     }
 }

@@ -1,4 +1,4 @@
-package org.lambda;
+package org.JAVA.lambda;
 
 import java.util.*;
 import java.util.stream.Collectors;
