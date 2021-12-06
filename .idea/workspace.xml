@@ -5,49 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Collections_In_Java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JAVA/Generics/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JAVA/Generics/MyGenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/nokia/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/nokia/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/nokia/TestException2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Comparator_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/longestPalindromeSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/twoWaySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Testthrows1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Yodle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/Bijli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/test/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/test/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/util/FileReadWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/util/abc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Cropin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/Cropin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Paratntesis_Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Questiones/Paratntesis_Check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational/Prototype/Profession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Creational/Prototype/Profession.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LeetCode/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LeetCode/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/MultiThreading/Producer_Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/Producer_Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/REAL_TIME_COMP_QUES/zee/Employee_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Stack_Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Stack_Ex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/arrays/Jumps_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrays/Jumps_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lambda/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JAVA/lambda/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/streams/basic/StreamsLearn_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/streams/basic/StreamsLearn_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/util/AllInOneUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/util/AllInOneUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Cropin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/Questiones/Paratntesis_Check.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/DSA_Through_C/Questiones/Paratntesis_Check.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Design_Pattern/Creational/Prototype/Profession.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Design_Pattern/Creational/Prototype/Profession.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/LeetCode/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/LeetCode/ReverseNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/MultiThreading/Producer_Consumer$PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/MultiThreading/Producer_Consumer$PC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/zee/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/zee/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/zee/Employee_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/REAL_TIME_COMP_QUES/zee/Employee_Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Solution1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Wind_Explr_Program/Stack_Ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Wind_Explr_Program/Stack_Ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/lambda/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/streams/basic/StreamsLearn_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/streams/basic/StreamsLearn_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/util/AllInOneUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/util/AllInOneUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Yodle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Yodle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Yodle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Yodle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +178,7 @@
       <recent name="org.Tech.Dose.Graphs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.Yodle">
     <configuration name="Cropin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.Cropin" />
       <module name="RestAPI_Basics" />
@@ -293,10 +253,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Yodle" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Cropin" />
-        <item itemvalue="Application.Yodle" />
         <item itemvalue="Application.Prog01" />
       </list>
     </recent_temporary>

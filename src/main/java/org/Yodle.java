@@ -1,11 +1,19 @@
 package org;
 
+import java.util.*;
+
 public class Yodle {
 
     public static void main(String[] args) {
         String input = "bangalore";
         String reverseString = reverseString(input);
         System.out.println("The reverse String is: "+reverseString);
+
+        Map<String, Integer> map = new HashMap<>();
+        for(Map.Entry<String, Integer> m: map.entrySet()){
+            m.getKey();
+            m.getValue();
+        }
     }
 
     public static String reverseString(String str){
