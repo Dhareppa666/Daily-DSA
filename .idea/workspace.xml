@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JAVA/Garbage_Collection/TestGarbage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Yodle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Yodle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/Yodle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Yodle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,7 @@
       <recent name="org.Tech.Dose.Graphs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Yodle">
+  <component name="RunManager" selected="Application.TestGarbage">
     <configuration name="Cropin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.Cropin" />
       <module name="RestAPI_Basics" />
@@ -218,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prog01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.Prog01" />
+    <configuration name="TestGarbage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.JAVA.Garbage_Collection.TestGarbage" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.*" />
+          <option name="PATTERN" value="org.JAVA.Garbage_Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,19 +244,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Prog01" />
       <item itemvalue="Application.Yodle" />
       <item itemvalue="Application.Cropin" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.TestGarbage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestGarbage" />
         <item itemvalue="Application.Yodle" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Cropin" />
-        <item itemvalue="Application.Prog01" />
       </list>
     </recent_temporary>
   </component>
@@ -704,6 +703,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/util/FileReadWrite.java</url>
           <line>40</line>
           <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JAVA/Garbage_Collection/TestGarbage.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JAVA/Garbage_Collection/TestGarbage.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JAVA/Garbage_Collection/TestGarbage.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/JAVA/Garbage_Collection/TestGarbage.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/test/curse.java</url>
