@@ -5,8 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JAVA/Garbage_Collection/TestGarbage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LeDurga/Inheritance/Childu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Wind_Explr_Program/Test_Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wallmart/Queue_Using_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wallmart/Sample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/FINAL_450_DSA_Problems/Strings/String_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/FINAL_450_DSA_Problems/Strings/String_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LeDurga/Durga_Classes/ArrayList_65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LeDurga/Durga_Classes/ArrayList_65.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LeDurga/zzz/NewClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LeDurga/zzz/NewClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LeDurga/zzz/YouNullify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LeDurga/zzz/YouNullify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/MultiThreading/Producer_Consumer_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/Producer_Consumer_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/MultiThreading/SeatBookingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/MultiThreading/SeatBookingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Find_Minimum_in_Rotated_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Find_Minimum_in_Rotated_Sorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Merge_Intervals_LC_56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Merge_Intervals_LC_56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/asmita_test_multithreading/Number2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/asmita_test_multithreading/Number2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/online/coding/help/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/online/coding/help/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/streams/basic/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/streams/basic/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/streams/basic/StreamsLearn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/streams/basic/StreamsLearn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/streams/basic/StreamsLearn_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/streams/basic/StreamsLearn_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/FINAL_450_DSA_Problems/Strings/String_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/FINAL_450_DSA_Problems/Strings/String_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/LeDurga/Durga_Classes/ArrayList_65.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/LeDurga/Durga_Classes/ArrayList_65.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/LeDurga/zzz/NewClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/LeDurga/zzz/NewClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/LeDurga/zzz/YouNullify.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/LeDurga/zzz/YouNullify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/MultiThreading/Producer_Consumer_Test$PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/MultiThreading/Producer_Consumer_Test$PC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/MultiThreading/Producer_Consumer_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/MultiThreading/Producer_Consumer_Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/MultiThreading/SeatBookingApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/MultiThreading/SeatBookingApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/Find_Minimum_in_Rotated_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/Find_Minimum_in_Rotated_Sorted_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/Merge_Intervals_LC_56.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/Tech/Dose/Arrays/Merge_Intervals_LC_56.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/asmita_test_multithreading/MyNumber2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/asmita_test_multithreading/MyNumber2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/online/coding/help/ThreadTest$Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/online/coding/help/ThreadTest$Thread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/online/coding/help/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/online/coding/help/ThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/streams/basic/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/streams/basic/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/streams/basic/StreamsLearn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/streams/basic/StreamsLearn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/streams/basic/StreamsLearn_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/streams/basic/StreamsLearn_02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,12 +177,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-jwt-without-JPA/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Udaan-Demo-02" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
@@ -177,20 +210,7 @@
       <recent name="org.Tech.Dose.Graphs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestGarbage">
-    <configuration name="Cropin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.REAL_TIME_COMP_QUES.Cropin" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.streams.test.Main" />
       <module name="RestAPI_Basics" />
@@ -204,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.streams.test.Main2" />
+    <configuration name="Queue_Using_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.wallmart.Queue_Using_Stack" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.streams.test.*" />
+          <option name="PATTERN" value="org.wallmart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGarbage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.JAVA.Garbage_Collection.TestGarbage" />
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.wallmart.Sample" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.JAVA.Garbage_Collection.*" />
+          <option name="PATTERN" value="org.wallmart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +250,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Yodle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Yodle" />
+    <configuration name="Test_Ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Wind_Explr_Program.Test_Ex" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.REAL_TIME_COMP_QUES.*" />
+          <option name="PATTERN" value="org.Wind_Explr_Program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.test.test" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,19 +277,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Yodle" />
-      <item itemvalue="Application.Cropin" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.TestGarbage" />
+      <item itemvalue="Application.Sample" />
+      <item itemvalue="Application.Queue_Using_Stack" />
+      <item itemvalue="Application.Test_Ex" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestGarbage" />
-        <item itemvalue="Application.Yodle" />
-        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Test_Ex" />
+        <item itemvalue="Application.Queue_Using_Stack" />
+        <item itemvalue="Application.Sample" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Cropin" />
       </list>
     </recent_temporary>
   </component>
@@ -448,11 +481,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/DoublyLinkedList.java</url>
           <line>66</line>
           <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Stacks_Queues_Using_Array.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Queue22.java</url>
@@ -705,24 +733,14 @@
           <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/JAVA/Garbage_Collection/TestGarbage.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="148" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/JAVA/Garbage_Collection/TestGarbage.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Merge_Intervals_LC_56.java</url>
           <line>12</line>
-          <option name="timeStamp" value="149" />
+          <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/JAVA/Garbage_Collection/TestGarbage.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="150" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/JAVA/Garbage_Collection/TestGarbage.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="151" />
+          <url>file://$PROJECT_DIR$/src/main/java/org/Tech/Dose/Arrays/Merge_Intervals_LC_56.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/test/curse.java</url>

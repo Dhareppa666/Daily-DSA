@@ -31,7 +31,7 @@ public class String_01 {
             arr[h] = temp;
             l++; h--;
         }
-        return Arrays.toString(arr);
+        return String.valueOf(arr);
     }
 
     private static boolean isPalindrome(String s) {

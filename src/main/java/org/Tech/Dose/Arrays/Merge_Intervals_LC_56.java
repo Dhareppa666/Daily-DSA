@@ -9,10 +9,11 @@ import java.util.List;
 public class Merge_Intervals_LC_56 {
 
     public static void main(String[] args) {
-
+        int[][] arr = merge(new int[][]{{1,2},{1,3},{5,7}});
+        System.out.println(arr);
     }
 
-    public int[][] merge(int[][] intervals) {
+    public static int[][] merge(int[][] intervals) {
         if (intervals.length <= 1) {
             return intervals;
         }

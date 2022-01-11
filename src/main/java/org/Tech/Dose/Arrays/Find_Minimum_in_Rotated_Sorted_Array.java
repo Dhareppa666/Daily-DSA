@@ -4,7 +4,7 @@ package org.Tech.Dose.Arrays;
 public class Find_Minimum_in_Rotated_Sorted_Array {
 
     public static void main(String[] args) {
-        int[] arr = {4,5,1,2,3};
+        int[] arr = {5,1,2,3,4};
         System.out.println(findMin(arr));
     }
 

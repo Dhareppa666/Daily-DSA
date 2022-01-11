@@ -10,6 +10,7 @@ public class StreamsLearn {
     public static void main(String[] args) {
         //1.Mapping & Filter
         List<Integer> list = List.of(1,2,3,4,5,6,7);
+        list.forEach(x->System.out.println(x));
         List<Integer> addSomeData = list.stream().map(x-> x+10).collect(Collectors.toList());
         System.out.println(addSomeData);
 

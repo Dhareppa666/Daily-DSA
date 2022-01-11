@@ -1,9 +1,6 @@
 package org.streams.basic;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
-import java.util.OptionalInt;
+import java.util.*;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
@@ -16,7 +13,9 @@ public class Example {
             list.add(n);
             n--;
         }
-        configureTheStream(list);
+        //configureTheStream(list);
+        list.add(25);
+        list.add(13);
         processTheStream(list);
     }
 
@@ -25,7 +24,7 @@ public class Example {
         long count = list.stream().count();
         System.out.println("The total No of Elements in list: "+count);
 
-        OptionalInt max = list.stream().mapToInt(x -> x).max();
+        Optional<Integer> max = list.stream().max((a, b)->Integer.compare(a,b));
         System.out.println("The Max Element is: "+max);
 
     }

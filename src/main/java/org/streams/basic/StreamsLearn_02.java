@@ -19,8 +19,8 @@ public class StreamsLearn_02 {
         System.out.println("The size of list is :" + count2);
 
         System.out.println("--------------------------");
-        List<Integer> sorted = list.stream().sorted((a, b) -> a.compareTo(b)).collect(Collectors.toList());
-        List<Integer> sorted2 = list.stream().sorted((a, b) -> b.compareTo(a)).collect(Collectors.toList());
+        List<Integer> sorted = list.stream().sorted((a, b) -> Integer.compare(a, b)).collect(Collectors.toList());
+        List<Integer> sorted2 = list.stream().sorted((a, b) -> Integer.compare(b, a)).collect(Collectors.toList());
 
         System.out.println(sorted);
         System.out.println(sorted2);

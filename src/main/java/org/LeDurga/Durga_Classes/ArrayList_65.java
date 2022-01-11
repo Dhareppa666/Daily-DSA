@@ -12,7 +12,9 @@ public class ArrayList_65 {
         arr.add(1);
         arr.add(null);
         arr.add(2);
-        arr.remove(arr.size() - 1);
+        arr.add(null);
+
+        //arr.remove(arr.size() - 1);
         System.out.println(arr);
     }
 }

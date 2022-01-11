@@ -34,12 +34,15 @@ public class Producer_Consumer_Test {
 
         t1.join();
         t2.join();
+
+        Thread t3= new Thread(new Test(), "Thread-3");
+        t3.start();
     }
 
     public static class PC {
 
         LinkedList<Integer> list = new LinkedList<>();
-        int numberLimit = 100;
+        int numberLimit = 5;
         boolean produced = false;
 
         private int max_even = Integer.MIN_VALUE;

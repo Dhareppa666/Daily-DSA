@@ -1,8 +1,6 @@
 package org.online.coding.help;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 
 public class ThreadTest {
     static class Thread1 extends Thread {
@@ -15,7 +13,7 @@ public class ThreadTest {
         public void run() {
             FileWriter fw = null;
             BufferedWriter bw = null;
-            try {
+            try(BufferedReader br = new BufferedReader(new FileReader(""))) {
                 fw = new FileWriter("C:\\opt\\vcs\\settlement\\encryption_backup\\multi_thread_Test.txt");
                 bw = new BufferedWriter(fw);
                 String line = "";
