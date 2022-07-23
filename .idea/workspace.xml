@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Walmart/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Print_WIth_BackTrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Print_name_n_times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Sum_n_nums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/strings/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/strings/SwapStringChars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI_Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI_Basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Walmart/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +141,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/Fiserv/types" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
@@ -152,13 +159,13 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="SubsetOfAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.arrays.SubsetOfAnArray" />
+  <component name="RunManager" selected="Application.Sum_n_nums">
+    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Recursion.Basics" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.arrays.*" />
+          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TWOpower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.arrays.TWOpower" />
+    <configuration name="Print_WIth_BackTrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Recursion.Print_WIth_BackTrack" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.arrays.*" />
+          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Walmart.Test" />
+    <configuration name="Print_name_n_times" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Recursion.Print_name_n_times" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Walmart.*" />
+          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.test.test" />
+    <configuration name="Sum_n_nums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Recursion.Sum_n_nums" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.test.*" />
+          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Fiserv.test" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.array.Test3" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Fiserv.*" />
+          <option name="PATTERN" value="org.In_Walmart.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TWOpower" />
-        <item itemvalue="Application.test (1)" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.SubsetOfAnArray" />
+        <item itemvalue="Application.Sum_n_nums" />
+        <item itemvalue="Application.Print_WIth_BackTrack" />
+        <item itemvalue="Application.Print_name_n_times" />
+        <item itemvalue="Application.Basics" />
+        <item itemvalue="Application.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -526,6 +533,46 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/arrays/SubsetOfAnArray.java</url>
           <line>25</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test2.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test2.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test2.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test2.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test3.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test3.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
