@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Print_WIth_BackTrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Print_name_n_times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Sum_n_nums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/strings/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/strings/SwapStringChars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Walmart/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +146,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -426,7 +436,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/DSA_Through_C/Stacks_Queues/Stacks_Queues_Using_Array.java</url>
-          <line>12</line>
+          <line>10</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -466,7 +476,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/LeetCode/ReverseNumber.java</url>
-          <line>28</line>
+          <line>21</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

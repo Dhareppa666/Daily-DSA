@@ -5,10 +5,6 @@ public class Sum_n_nums {
     public static void main(String[] args) {
         sum(5, 0);
         System.out.println("the sum2 is: "+sum2(5));
-        System.out.println(1/2);
-        int x = 1;
-        int y=2;
-        System.out.println((Integer)x/y);
     }
 
     private static int sum2(int i) {
