@@ -1,12 +1,15 @@
 package org.FINAL_450_DSA_Problems.Strings;
 
+import java.util.Arrays;
+
 //1. Reverse a String.
 public class String_01 {
 
     public static void main(String[] args) {
         String s = "abcd";
-        String res1 = reverseAString1(s);
+        String res1 = reverseAString11(s);
         System.out.println(res1);
+        System.out.println(isPalindrome("abcba"));
 
         String res2 = reverseAString2(s);
         System.out.println(res2);
@@ -18,6 +21,29 @@ public class String_01 {
         String res4 = reverseAString4(arr);
         System.out.println(res4);
     }
+
+    private static String reverseAString11(String s) {
+        int l=0, h = s.length()-1;
+        char[] arr = s.toCharArray();
+        while (l<h){
+            char temp = arr[l];
+            arr[l] = arr[h];
+            arr[h] = temp;
+            l++; h--;
+        }
+        return String.valueOf(arr);
+    }
+
+    private static boolean isPalindrome(String s) {
+        int l=0, h = s.length()-1;
+        while (l<h){
+            if (s.charAt(l) != s.charAt(h))
+                return false;
+            l++; h--;
+        }
+        return true;
+    }
+
     private static String reverseAString1(String s) {
         return new StringBuilder(s).reverse().toString();
     }

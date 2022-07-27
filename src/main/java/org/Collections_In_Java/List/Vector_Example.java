@@ -1,7 +1,7 @@
 package org.Collections_In_Java.List;
 
 import java.util.Vector;
-// About vector is It is synchronized, one one thread is accessible at a time.
+// About vector is It is synchronized, one thread is accessible at a time.
 //In the case of concurrent modification, it fails and throws the ConcurrentModificationException.
 //If the increment is specified, Vector will expand according to it in each allocation cycle -
 // but if the increment is not specified then the vector’s capacity gets doubled in each allocation cycle.

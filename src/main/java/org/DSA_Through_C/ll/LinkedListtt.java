@@ -2,7 +2,7 @@ package org.DSA_Through_C.ll;
 
 public class LinkedListtt {
 
-    ListNode head;
+    static ListNode head;
 
     static class ListNode {
         int data;
@@ -30,6 +30,8 @@ public class LinkedListtt {
 
         ll = insertData(ll, 50);
         printData(ll);
+
+        System.out.println(isCyclic());
 
         ll = insertDataAtFirstPos(ll, 100);
         printData(ll);
@@ -66,7 +68,7 @@ public class LinkedListtt {
         int counter = 1;
         ListNode curr = ll.head;
         ListNode prev = null;
-        while (counter != pos){
+        while (counter != pos) {
             prev = curr;
             curr = curr.next;
             counter++;
@@ -80,7 +82,7 @@ public class LinkedListtt {
         int counter = 1;
         ListNode curr = ll.head;
         ListNode prev = null;
-        while (pos != counter){
+        while (pos != counter) {
             prev = curr;
             curr = curr.next;
             counter++;
@@ -105,7 +107,7 @@ public class LinkedListtt {
         System.out.print("The LL is :");
         ListNode curr = ll.head;
         while (curr != null) {
-            System.out.print(curr.data+" -> ");
+            System.out.print(curr.data + " -> ");
             curr = curr.next;
         }
         System.out.println();
@@ -124,5 +126,52 @@ public class LinkedListtt {
             last.next = newData;
         }
         return ll;
+    }
+
+    /*
+     * If singly LinkedList contains Cycle then following would be true
+     * 1) slow and fast will point to same node i.e. they meet
+     * On the other hand if fast will point to null or next node of
+     * fast will point to null then LinkedList does not contains cycle.
+     */
+    //Floyd’s Cycle Detection Algorithm
+    public static boolean isCyclic() {
+        ListNode fast = head;
+        ListNode slow = head;
+
+        while (fast != null && fast.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+
+            //if fast and slow pointers are meeting then LinkedList is cyclic
+            if (fast == slow) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public static boolean detectLoop(ListNode h) {
+
+        // If the head is null we will return false
+        if (head == null)
+            return false;
+        else {
+            // Traversing the linked list for detecting loop
+            while (head != null) {
+                // If loop found
+                if (head.data == -1) {
+                    return true;
+                }
+                // Changing the data of visited node to any value which is outside th given range
+                // here it is supposed the given range is (1 <= Data on Node <= 10^3)
+                else {
+                    head.data = -1;
+                    head = head.next;
+                }
+            }
+            // If loop not found return false
+            return false;
+        }
     }
 }

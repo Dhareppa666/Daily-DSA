@@ -4,7 +4,7 @@ public class SeatBookingApp extends Thread {
 
     static BookTheaterSeat bs;
 
-    String name;
+    private String name;
 
     int noOfSeats;
 

@@ -10,7 +10,7 @@ class MyNumber2 implements Runnable {
     }
 
     private void print(int x) {
-
+        System.out.println(x);
     }
 
 

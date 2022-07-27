@@ -1,7 +1,9 @@
 package org.DSA_Through_C.Stacks_Queues;
 
 public class Stacks_Queues_Using_Array {
+
     private static int MAX = 10;
+
     private static int[] arr = new int[MAX];
 
     private static int top = -1;

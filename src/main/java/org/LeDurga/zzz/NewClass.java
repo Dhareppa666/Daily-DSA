@@ -38,7 +38,7 @@ public class NewClass
                 numbers + symbols;
 
         // Using random method
-        Random rndm_method = new Random();
+        Random random = new Random();
 
         char[] password = new char[len];
 
@@ -46,8 +46,7 @@ public class NewClass
         {
             // Use of charAt() method : to get character value
             // Use of nextInt() as it is scanning the value as int
-            password[i] =
-                    values.charAt(rndm_method.nextInt(values.length()));
+            password[i] = values.charAt(random.nextInt(values.length()));
 
         }
         return password;
