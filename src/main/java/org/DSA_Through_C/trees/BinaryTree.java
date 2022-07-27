@@ -4,14 +4,20 @@ public class BinaryTree {
 
     static class Node {
         int data;
-        Node left;Node right;
+        Node left;
+        Node right;
 
-        Node(int d) { this.data = d;left = right = null; }
+        Node(int d) {
+            this.data = d;
+            left = right = null;
+        }
     }
 
     public Node root;
 
-    BinaryTree() {root = null;}
+    BinaryTree() {
+        root = null;
+    }
 
     public static void main(String[] args) {
         BinaryTree tree = new BinaryTree();

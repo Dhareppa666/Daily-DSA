@@ -15,6 +15,7 @@ public class Sorted_Set {
         // using add()
         ts.add("India");
         ts.add("Australia");
+        ts.add("abc");
         ts.add("South Africa");
         ts.add("A");
         ts.add("AB");
@@ -22,7 +23,7 @@ public class Sorted_Set {
         ts.add("9");
         ts.add("0");
         ts.add("0");
-        ts.add(null);
+        //ts.add(null);
 
         // Adding the duplicate
         // element

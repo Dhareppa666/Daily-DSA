@@ -1,8 +1,8 @@
 package org.MultiThreading.OddEvenExample;
 
-import lombok.extern.log4j.Log4j2;
+//import lombok.extern.log4j.Log4j2;
 
-@Log4j2
+//@Log4j2
 public class OddEvenEx {
 
     private int number = 1;

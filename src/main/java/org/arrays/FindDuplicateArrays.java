@@ -19,7 +19,7 @@ public class FindDuplicateArrays {
         System.out.println("********Hash Set*******");
         Set<String> set = new HashSet<>();
         for (String e : arr){
-            if(set.add(e) == false){
+            if(!set.add(e)){
                 System.out.println(e);
             }
         }
@@ -34,8 +34,9 @@ public class FindDuplicateArrays {
                 hashmap.put(e, ++count);
             }
         }
-        Set<Map.Entry<String, Integer>> entries = hashmap.entrySet();
-        for (Map.Entry<String, Integer> e: entries){
+        hashmap.entrySet().forEach(entry -> System.out.println(entry.getKey()+" : "+entry.getValue()));
+        //Set<Map.Entry<String, Integer>> entries = hashmap.entrySet();
+        for (Map.Entry<String, Integer> e: hashmap.entrySet()){
             if(e.getValue()>1){
                 System.out.println(e.getKey());
             }

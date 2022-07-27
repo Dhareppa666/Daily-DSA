@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/Move_Zeroes_at_End.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/Move_Zeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/Remove_nth_node_from_end_LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/Two_Sum_Array_Is_Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/Two_Sum_sorted_arr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Sum_n_nums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Sum_n_nums.java" afterDir="false" />
-    </list>
+    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
