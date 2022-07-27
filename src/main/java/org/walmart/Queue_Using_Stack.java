@@ -1,4 +1,4 @@
-package org.wallmart;
+package org.walmart;
 
 import java.util.Stack;
 
