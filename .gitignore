@@ -1,4 +1,5 @@
-/target
 /.idea
 /RestAPI_Basics.iml
 .idea/workspace.xml
+RestAPI_Basics.iml
+/.idea/workspace.xml
