@@ -16,6 +16,9 @@
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/java/All_In_One/JUnit_By_ME" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/org/JUnit_By_ME" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/org/streams" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/org/Wind_Explr_Program" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/org/Tech/Dose" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

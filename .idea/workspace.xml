@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/Move_Zeroes_at_End.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/Move_Zeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/Remove_nth_node_from_end_LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/Two_Sum_Array_Is_Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Study_Plan/Two_Sum_sorted_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/P_62_Unique_Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Weekly/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/String_is_pal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Sum_n_nums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Sum_n_nums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI_Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI_Basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,13 +156,13 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sum_n_nums">
-    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Recursion.Basics" />
+  <component name="RunManager" selected="Application.P_62_Unique_Paths">
+    <configuration name="P_62_Unique_Paths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.P_62_Unique_Paths" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Recursion.*" />
+          <option name="PATTERN" value="org.In_Walmart.LC.Daily.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,8 +183,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print_name_n_times" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Recursion.Print_name_n_times" />
+    <configuration name="String_is_pal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Recursion.String_is_pal" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -208,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.array.Test3" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Weekly.Test" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.array.*" />
+          <option name="PATTERN" value="org.In_Walmart.LC.Weekly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P_62_Unique_Paths" />
+        <item itemvalue="Application.String_is_pal" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Sum_n_nums" />
         <item itemvalue="Application.Print_WIth_BackTrack" />
-        <item itemvalue="Application.Print_name_n_times" />
-        <item itemvalue="Application.Basics" />
-        <item itemvalue="Application.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -569,6 +570,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/array/Test3.java</url>
           <line>20</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Weekly/Test.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Weekly/Test.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Weekly/Test.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="70" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
