@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/mera/man/Tree_Symmetric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Reverse_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/SubSequence_sum_is_K.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/SubSequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/vik/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/AmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/GCD_of_two_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/NoOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/vik/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/vik/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/vik/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/vik/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/vik/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/vik/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/P_62_Unique_Paths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/P_62_Unique_Paths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/vik/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/vik/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +53,13 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/SubSequences.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Print_WIth_BackTrack.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/String_is_pal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Print_WIth_BackTrack.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Print_name_n_times.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Basics.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/P_62_Unique_Paths.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/SubSequence_sum_is_K.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/P_62_Unique_Paths.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/SubSequences.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Reverse_String.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -164,9 +168,22 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.patterns.vik.Demo" />
+  <component name="RunManager" selected="Application.AmstrongNumber">
+    <configuration name="AmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.AmstrongNumber" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.patterns.Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.patterns.vik.Demo5" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -178,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P_62_Unique_Paths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.P_62_Unique_Paths" />
+    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.patterns.vik.Demo6" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="org.patterns.vik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Recursion.Reverse_String" />
+    <configuration name="GCD_of_two_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.GCD_of_two_numbers" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Recursion.*" />
+          <option name="PATTERN" value="org.patterns.Problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,25 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubSequence_sum_is_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Recursion.SubSequence_sum_is_K" />
+    <configuration name="NoOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.NoOfDigits" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubSequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Recursion.SubSequences" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Recursion.*" />
+          <option name="PATTERN" value="org.patterns.Problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.SubSequence_sum_is_K" />
-        <item itemvalue="Application.Reverse_String" />
-        <item itemvalue="Application.SubSequences" />
-        <item itemvalue="Application.P_62_Unique_Paths" />
+        <item itemvalue="Application.AmstrongNumber" />
+        <item itemvalue="Application.GCD_of_two_numbers" />
+        <item itemvalue="Application.NoOfDigits" />
+        <item itemvalue="Application.Demo6" />
+        <item itemvalue="Application.Demo5" />
       </list>
     </recent_temporary>
   </component>
@@ -608,6 +612,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Reverse_String.java</url>
           <line>13</line>
           <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/vik/Test.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
