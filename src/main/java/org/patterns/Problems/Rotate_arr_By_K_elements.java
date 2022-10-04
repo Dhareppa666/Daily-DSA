@@ -5,10 +5,10 @@ import java.util.Arrays;
 public class Rotate_arr_By_K_elements {
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(rotateArr(new int[]{1,2,3,4,5,6,7}, 1)));
-        System.out.println(Arrays.toString(rotateArr2(new int[]{1,2,3,4,5,6,7}, 1)));
+        System.out.println(Arrays.toString(rotateArr(new int[]{1,2,3,4,5,6,7}, 1)));//right
+        System.out.println(Arrays.toString(rotateArr2(new int[]{1,2,3,4,5,6,7}, 1)));//left
 
-        rotateMedium(new int[]{1,2,3,4,5,6,7}, 1);
+        rotateMedium(new int[]{1,2,3,4,5,6,7}, 1);//right. Leedcode medium
     }
 
     public static int[] rotateArr(int[] arr, int k) {
