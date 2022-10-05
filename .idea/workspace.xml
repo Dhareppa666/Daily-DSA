@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Union_of_two_sorted_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Longest_Subarray_with_given_Sum_K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Search_in_2D_Matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Rotate_arr_By_K_elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Rotate_arr_By_K_elements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,20 +169,7 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Intersection_of_two_arrays">
-    <configuration name="Array_is_sorted_and_rotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Array_is_sorted_and_rotated" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.patterns.Problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Longest_Subarray_with_given_Sum_K">
     <configuration name="Intersection_of_two_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Intersection_of_two_arrays" />
       <module name="RestAPI_Basics" />
@@ -196,8 +183,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Duplicates_from_sorted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Remove_Duplicates_from_sorted_array" />
+    <configuration name="Longest_Subarray_with_given_Sum_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Longest_Subarray_with_given_Sum_K" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -211,6 +198,19 @@
     </configuration>
     <configuration name="Rotate_arr_By_K_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Rotate_arr_By_K_elements" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.patterns.Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search_in_2D_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Search_in_2D_Matrix" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -237,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Longest_Subarray_with_given_Sum_K" />
+        <item itemvalue="Application.Search_in_2D_Matrix" />
         <item itemvalue="Application.Intersection_of_two_arrays" />
         <item itemvalue="Application.Union_of_two_sorted_arrays" />
         <item itemvalue="Application.Rotate_arr_By_K_elements" />
-        <item itemvalue="Application.Remove_Duplicates_from_sorted_array" />
-        <item itemvalue="Application.Array_is_sorted_and_rotated" />
       </list>
     </recent_temporary>
   </component>
@@ -658,6 +658,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Union_of_two_sorted_arrays.java</url>
           <line>25</line>
           <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Search_in_2D_Matrix.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Search_in_2D_Matrix.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Search_in_2D_Matrix.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Search_in_2D_Matrix.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="89" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
