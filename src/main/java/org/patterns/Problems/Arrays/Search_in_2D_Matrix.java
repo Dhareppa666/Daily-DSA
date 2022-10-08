@@ -1,4 +1,4 @@
-package org.patterns.Problems;
+package org.patterns.Problems.Arrays;
 
 //Search a 2D Matrix
 //https://leetcode.com/problems/search-a-2d-matrix/

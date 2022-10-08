@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Longest_Subarray_with_given_Sum_K.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Search_in_2D_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Binary/Search/Find_Floor_Element_in_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/AmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/AmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Array_is_sorted_and_rotated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Array_is_sorted_and_rotated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/GCD_of_two_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/GCD_of_two_numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Intersection_of_two_arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Intersection_of_two_arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Longest_Subarray_with_given_Sum_K.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Longest_Subarray_with_given_Sum_K.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/NoOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/NoOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Remove_Duplicates_from_sorted_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Remove_Duplicates_from_sorted_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Rotate_arr_By_K_elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Rotate_arr_By_K_elements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Search_in_2D_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Search_in_2D_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Union_of_two_sorted_arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Union_of_two_sorted_arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +54,21 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/AmstrongNumber.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/AmstrongNumber.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/String_is_pal.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Array_is_sorted_and_rotated.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Array_is_sorted_and_rotated.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Print_WIth_BackTrack.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Remove_Duplicates_from_sorted_array.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Remove_Duplicates_from_sorted_array.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Print_name_n_times.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Basics.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/SubSequence_sum_is_K.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/vik/Demo4.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/GCD_of_two_numbers.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/GCD_of_two_numbers.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/vik/Test.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/vik/Demo5.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/vik/Demo6.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/P_62_Unique_Paths.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/NoOfDigits.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/NoOfDigits.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/SubSequences.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Recursion/Reverse_String.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -169,13 +178,39 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Longest_Subarray_with_given_Sum_K">
-    <configuration name="Intersection_of_two_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Intersection_of_two_arrays" />
+  <component name="RunManager" selected="Application.Find_Floor_Element_in_Array">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Binary.Search.BinarySearch" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.patterns.Problems.*" />
+          <option name="PATTERN" value="org.patterns.Problems.Binary.Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Find_Floor_Element_in_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Binary.Search.Find_Floor_Element_in_Array" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.patterns.Problems.Binary.Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Intersection_of_two_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Arrays.Intersection_of_two_arrays" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.patterns.Problems.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,24 +219,11 @@
       </method>
     </configuration>
     <configuration name="Longest_Subarray_with_given_Sum_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Longest_Subarray_with_given_Sum_K" />
+      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Arrays.Longest_Subarray_with_given_Sum_K" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.patterns.Problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Rotate_arr_By_K_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Rotate_arr_By_K_elements" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.patterns.Problems.*" />
+          <option name="PATTERN" value="org.patterns.Problems.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,24 +232,11 @@
       </method>
     </configuration>
     <configuration name="Search_in_2D_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Search_in_2D_Matrix" />
+      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Arrays.Search_in_2D_Matrix" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.patterns.Problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Union_of_two_sorted_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.patterns.Problems.Union_of_two_sorted_arrays" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.patterns.Problems.*" />
+          <option name="PATTERN" value="org.patterns.Problems.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Find_Floor_Element_in_Array" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Longest_Subarray_with_given_Sum_K" />
         <item itemvalue="Application.Search_in_2D_Matrix" />
         <item itemvalue="Application.Intersection_of_two_arrays" />
-        <item itemvalue="Application.Union_of_two_sorted_arrays" />
-        <item itemvalue="Application.Rotate_arr_By_K_elements" />
       </list>
     </recent_temporary>
   </component>
@@ -620,64 +629,64 @@
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Array_is_sorted_and_rotated.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Array_is_sorted_and_rotated.java</url>
           <line>12</line>
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Array_is_sorted_and_rotated.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Array_is_sorted_and_rotated.java</url>
           <line>13</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Array_is_sorted_and_rotated.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Array_is_sorted_and_rotated.java</url>
           <line>16</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Union_of_two_sorted_arrays.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Union_of_two_sorted_arrays.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Union_of_two_sorted_arrays.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Union_of_two_sorted_arrays.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Union_of_two_sorted_arrays.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Search_in_2D_Matrix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Search_in_2D_Matrix.java</url>
           <line>14</line>
           <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Search_in_2D_Matrix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Search_in_2D_Matrix.java</url>
           <line>15</line>
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Search_in_2D_Matrix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Search_in_2D_Matrix.java</url>
           <line>16</line>
           <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Search_in_2D_Matrix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Arrays/Search_in_2D_Matrix.java</url>
           <line>18</line>
           <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Binary/Search/Find_Floor_Element_in_Array.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Binary/Search/Find_Floor_Element_in_Array.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Binary/Search/Find_Floor_Element_in_Array.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Binary/Search/Find_Floor_Element_in_Array.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/patterns/Problems/Binary/Search/Find_Floor_Element_in_Array.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
