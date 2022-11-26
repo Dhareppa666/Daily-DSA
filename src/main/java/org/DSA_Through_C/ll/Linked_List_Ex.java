@@ -17,18 +17,41 @@ public class Linked_List_Ex {
     public static void main(String[] args) {
         Linked_List_Ex linked_List = new Linked_List_Ex();
 
-        linked_List = insert(linked_List, 10);
-        linked_List = insert(linked_List, 20);
-        linked_List = insert(linked_List, 30);
-        linked_List = insert(linked_List, 40);
-        linked_List = insert(linked_List, 50);
-        linked_List = insert(linked_List, 60);
-        printLinked_List(linked_List);
+        linked_List = insert(linked_List, 1);
+        linked_List = insert(linked_List, 1);
+        linked_List = insert(linked_List, 2);
+        linked_List = insert(linked_List, 3);
+        linked_List = insert(linked_List, 3);
 
-        System.out.println();
-        linked_List = deleteByKey(linked_List, 60);
-        printLinked_List(linked_List);
+        Node res = deleteDuplicates(linked_List);
 
+
+        System.out.println(res);
+
+
+
+
+//        linked_List = insert(linked_List, 30);
+//        linked_List = insert(linked_List, 40);
+//        linked_List = insert(linked_List, 50);
+//        linked_List = insert(linked_List, 60);
+//        printLinked_List(linked_List);
+//
+//        System.out.println();
+//        linked_List = deleteByKey(linked_List, 60);
+//        printLinked_List(linked_List);
+
+    }
+
+    public static Node deleteDuplicates(Linked_List_Ex head) {
+        Node prev = head.head, curr = head.head;
+        while(curr!=null){
+            if(prev.data != curr.data){
+                prev.next = curr;
+            }
+            curr = curr.next;
+        }
+        return prev;
     }
 
     private static Linked_List_Ex deleteByKey(Linked_List_Ex linked_list, int key) {
