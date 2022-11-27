@@ -1,4 +1,7 @@
-package org.In_Walmart.Raj_Vik.Trees;
+package org.In_Walmart.Raj_Vik.Trees.Concepts;
+
+import org.In_Walmart.Raj_Vik.Trees.TreeNode;
+import org.In_Walmart.Raj_Vik.Trees.Utils;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -35,13 +38,13 @@ public class Traversal_Only_POST {
 
         stack.push(root);
         while (!stack.isEmpty()) {
-            TreeNode cur = stack.pop();
-            list.addFirst(cur.val);
-            if (cur.left != null) {
-                stack.push(cur.left);
+            TreeNode curr = stack.pop();
+            list.addFirst(curr.val);
+            if (curr.left != null) {
+                stack.push(curr.left);
             }
-            if (cur.right != null) {
-                stack.push(cur.right);
+            if (curr.right != null) {
+                stack.push(curr.right);
             }
         }
         return list;

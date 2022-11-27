@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Level_Order_Traversal_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Traversal_Only_IN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Traversal_Only_POST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Traversal_Only_PRE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Knight_Moves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/LC/weekly/Largest_Positive_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/LC/weekly/count_dist_nums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Linked/List/LL_With_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Linked/List/LL_with_Custom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Linked/List/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Linked/List/isPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/patterns/Problems/Test_Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Questions/Maximum_Depth_of_Binary_Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/Linked_List_Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DSA_Through_C/ll/Linked_List_Ex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Level_Order_Traversal_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Traversal_Only_IN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Concepts/Traversal_Only_IN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Traversal_Only_POST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Concepts/Traversal_Only_POST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Traversal_Only_PRE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Concepts/Traversal_Only_PRE.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,13 +175,26 @@
       <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Level_Order_Traversal_BFS">
+  <component name="RunManager" selected="Application.Maximum_Depth_of_Binary_Tree">
     <configuration name="Level_Order_Traversal_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Trees.Level_Order_Traversal_BFS" />
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Trees.Concepts.Level_Order_Traversal_BFS" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Trees.*" />
+          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Trees.Concepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maximum_Depth_of_Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Trees.Questions.Maximum_Depth_of_Binary_Tree" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Trees.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +203,11 @@
       </method>
     </configuration>
     <configuration name="Traversal_Only_IN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Trees.Traversal_Only_IN" />
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Trees.Concepts.Traversal_Only_IN" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Trees.*" />
+          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Trees.Concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,24 +216,11 @@
       </method>
     </configuration>
     <configuration name="Traversal_Only_POST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Trees.Traversal_Only_POST" />
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Trees.Concepts.Traversal_Only_POST" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Traversal_Only_PRE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.Raj_Vik.Trees.Traversal_Only_PRE" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Trees.*" />
+          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Trees.Concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,7 +233,7 @@
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Trees.*" />
+          <option name="PATTERN" value="org.In_Walmart.Raj_Vik.Trees.Concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maximum_Depth_of_Binary_Tree" />
         <item itemvalue="Application.Level_Order_Traversal_BFS" />
         <item itemvalue="Application.Traversal_Only_POST" />
         <item itemvalue="Application.Traversal_Only_IN" />
         <item itemvalue="Application._test" />
-        <item itemvalue="Application.Traversal_Only_PRE" />
       </list>
     </recent_temporary>
   </component>
@@ -797,37 +786,37 @@
           <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Level_Order_Traversal_BFS.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java</url>
           <line>18</line>
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Level_Order_Traversal_BFS.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java</url>
           <line>19</line>
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Level_Order_Traversal_BFS.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java</url>
           <line>21</line>
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Level_Order_Traversal_BFS.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java</url>
           <line>26</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Level_Order_Traversal_BFS.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java</url>
           <line>24</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Level_Order_Traversal_BFS.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java</url>
           <line>22</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Level_Order_Traversal_BFS.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java</url>
           <line>23</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
