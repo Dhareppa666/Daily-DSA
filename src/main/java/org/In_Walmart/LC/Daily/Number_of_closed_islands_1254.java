@@ -1,5 +1,6 @@
 package org.In_Walmart.LC.Daily;
 
+//1254.
 public class Number_of_closed_islands_1254 {
 
     public static void main(String[] args) {
