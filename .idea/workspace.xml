@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/Longest_Common_Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/Longest_Palindromic_Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/Validate_Stack_Sequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/Find_Kth_Bit_in_Nth_Binary_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/Number_of_closed_islands_1254.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/Number_of_closed_islands_1254.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,9 +179,9 @@
       <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Longest_Common_Subsequence">
-    <configuration name="Longest_Common_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.Longest_Common_Subsequence" />
+  <component name="RunManager" selected="Application.Find_Kth_Bit_in_Nth_Binary_String">
+    <configuration name="Find_Kth_Bit_in_Nth_Binary_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.Find_Kth_Bit_in_Nth_Binary_String" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -196,8 +193,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_of_closed_islands_1254" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.Number_of_closed_islands_1254" />
+    <configuration name="Longest_Common_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.Longest_Common_Subsequence" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -250,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Find_Kth_Bit_in_Nth_Binary_String" />
         <item itemvalue="Application.Longest_Common_Subsequence" />
         <item itemvalue="Application.Validate_Stack_Sequences" />
         <item itemvalue="Application.Simplify_Path" />
         <item itemvalue="Application.Rotten_Oranges" />
-        <item itemvalue="Application.Number_of_closed_islands_1254" />
       </list>
     </recent_temporary>
   </component>
@@ -941,6 +938,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/Longest_Common_Subsequence.java</url>
           <line>23</line>
           <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/Longest_ZigZag_Path_in_Binary_Tree.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="154" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
