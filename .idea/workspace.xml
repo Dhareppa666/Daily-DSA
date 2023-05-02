@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/Find_Kth_Bit_in_Nth_Binary_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Observer/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Observer/observable/IPhoneStockObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Observer/observable/StockObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Observer/observerr/MobileAlertObserverImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Observer/observerr/NotificationAlertObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/GoodsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/OffroadVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/SportyVehile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/Strategyy/NormalVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/Strategyy/SpecialVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/Strategyy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -179,7 +192,7 @@
       <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Find_Kth_Bit_in_Nth_Binary_String">
+  <component name="RunManager" selected="Application.Store">
     <configuration name="Find_Kth_Bit_in_Nth_Binary_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.Find_Kth_Bit_in_Nth_Binary_String" />
       <module name="RestAPI_Basics" />
@@ -206,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotten_Oranges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.Rotten_Oranges" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Design_Pattern.Behavioral.Strategy.Main" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="org.Design_Pattern.Behavioral.Strategy.Strategyy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Simplify_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.Simplify_Path" />
+    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Design_Pattern.Behavioral.Observer.Store" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="org.Design_Pattern.Behavioral.Observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Store" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Find_Kth_Bit_in_Nth_Binary_String" />
         <item itemvalue="Application.Longest_Common_Subsequence" />
         <item itemvalue="Application.Validate_Stack_Sequences" />
-        <item itemvalue="Application.Simplify_Path" />
-        <item itemvalue="Application.Rotten_Oranges" />
       </list>
     </recent_temporary>
   </component>
