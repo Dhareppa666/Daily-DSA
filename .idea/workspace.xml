@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Observer/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Observer/observable/IPhoneStockObservable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Observer/observable/StockObservable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Observer/observerr/MobileAlertObserverImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Observer/observerr/NotificationAlertObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/GoodsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/OffroadVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/SportyVehile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/Strategyy/NormalVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/Strategyy/SpecialVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/Strategyy/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Design_Pattern/Behavioral/Strategy/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/In_Walmart/interviews/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,22 +181,9 @@
       <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Store">
+  <component name="RunManager" selected="Application.SpiralMatrix">
     <configuration name="Find_Kth_Bit_in_Nth_Binary_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.Find_Kth_Bit_in_Nth_Binary_String" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.In_Walmart.LC.Daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Longest_Common_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.Longest_Common_Subsequence" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -232,6 +208,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.SpiralMatrix" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.In_Walmart.LC.Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Design_Pattern.Behavioral.Observer.Store" />
       <module name="RestAPI_Basics" />
@@ -245,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Validate_Stack_Sequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.LC.Daily.Validate_Stack_Sequences" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.interviews.Test" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="org.In_Walmart.interviews.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpiralMatrix" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Store" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Find_Kth_Bit_in_Nth_Binary_String" />
-        <item itemvalue="Application.Longest_Common_Subsequence" />
-        <item itemvalue="Application.Validate_Stack_Sequences" />
       </list>
     </recent_temporary>
   </component>
@@ -956,6 +945,76 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/Longest_ZigZag_Path_in_Binary_Tree.java</url>
           <line>15</line>
           <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/interviews/Test.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/interviews/Test.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/interviews/Test.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/interviews/Test.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="169" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
