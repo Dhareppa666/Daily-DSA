@@ -1,6 +1,4 @@
-package org.In_Walmart.nextLeap.Problems;
-
-import static org.In_Walmart.nextLeap.Problems.Main.PrintArray;
+package org.In_Walmart.nextLeap.arrays;
 
 public class Second_Largest_Element {
 

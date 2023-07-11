@@ -1,4 +1,4 @@
-package org.In_Walmart.nextLeap.Problems;
+package org.In_Walmart.nextLeap.arrays;
 
 import java.util.Arrays;
 import java.util.List;
