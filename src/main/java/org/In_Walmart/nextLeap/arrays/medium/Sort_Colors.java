@@ -1,4 +1,4 @@
-package org.In_Walmart.nextLeap.arrays;
+package org.In_Walmart.nextLeap.arrays.medium;
 
 import static org.In_Walmart.nextLeap.arrays.Main.PrintArray;
 
