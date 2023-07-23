@@ -9,6 +9,8 @@ public class Find_Anagrams {
     public static void main(String[] args) {
         List<Integer> list = findAnagrams("cbaebabacd", "abc");
         System.out.println(list);
+
+        System.out.println(7&1);
     }
 
     public static List<Integer> findAnagrams(String s, String p) {
