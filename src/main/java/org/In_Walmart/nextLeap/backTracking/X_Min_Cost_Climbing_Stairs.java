@@ -1,4 +1,4 @@
-package java.org.In_Walmart.backTracking;
+package java.org.In_Walmart.nextLeap.backTracking;
 
 public class X_Min_Cost_Climbing_Stairs {
 
