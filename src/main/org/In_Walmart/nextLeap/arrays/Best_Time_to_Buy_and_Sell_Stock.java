@@ -9,7 +9,7 @@ public class Best_Time_to_Buy_and_Sell_Stock {
 
     public static int maxProfit(int[] prices) {
         int min_stock = Integer.MAX_VALUE, max_profit=0;
-        for(int i=0; i<prices.length; i++){
+        for (int i=0; i<prices.length; i++) {
             min_stock = Math.min(min_stock, prices[i]);
             max_profit = Math.max(max_profit, prices[i]-min_stock);
         }

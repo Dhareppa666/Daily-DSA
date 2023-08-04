@@ -1,4 +1,4 @@
-package java.org.In_Walmart.nextLeap.backTracking;
+package org.In_Walmart.nextLeap.backTracking;
 
 import java.util.ArrayList;
 import java.util.List;

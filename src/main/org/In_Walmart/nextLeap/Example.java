@@ -1,9 +1,7 @@
-package org;
+package org.In_Walmart.nextLeap;
 
 //import javax.validation.constraints.Null;
-import java.lang.reflect.Array;
 import java.util.Stack;
-import java.util.TreeSet;
 
 public class Example {
 
@@ -28,7 +26,7 @@ public class Example {
 //        t.add(new Monkey(1));
 //        System.out.println(t.size());
 
-        Enums e = Enums.E;
+//        Enums e = Enums.E;
 
     }
     static class Monkey{

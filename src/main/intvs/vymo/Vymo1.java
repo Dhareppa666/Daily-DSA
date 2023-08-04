@@ -1,4 +1,4 @@
-package java.intvs.vymo;
+package intvs.vymo;
 
 import java.util.*;
 import java.lang.*;

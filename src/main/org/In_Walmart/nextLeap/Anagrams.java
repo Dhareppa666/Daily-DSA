@@ -1,4 +1,4 @@
-package org.In_Walmart.nextLeap.arrays;
+package org.In_Walmart.nextLeap;
 
 import java.util.ArrayList;
 import java.util.Arrays;
