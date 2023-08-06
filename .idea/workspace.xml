@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/backTracking/Queens_wala.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/LinkedIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LinkedIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/backTracking/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/backTracking/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/backTracking/X_Min_Cost_Climbing_Stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/backTracking/X_Min_Cost_Climbing_Stairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,12 +186,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Queens_wala">
-    <configuration name="Best_Time_to_Buy_and_Sell_Stock (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.Best_Time_to_Buy_and_Sell_Stock" />
+    <configuration name="Array_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.FINAL_450_DSA_Problems.Arrays.Array_01" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.*" />
+          <option name="PATTERN" value="org.FINAL_450_DSA_Problems.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.In_Walmart.nextLeap.backTracking.Test" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.Test" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.In_Walmart.nextLeap.backTracking.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,10 +254,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Queens_wala" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Array_01" />
         <item itemvalue="Application.X_Min_Cost_Climbing_Stairs" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Best_Time_to_Buy_and_Sell_Stock (1)" />
       </list>
     </recent_temporary>
   </component>

@@ -1,4 +1,4 @@
-package org.FINAL_450_DSA_Problems.Arrays;
+package main.finale.FINAL_450_DSA_Problems.Arrays;
 
 //1. Reverse the array.
 public class Array_01 {

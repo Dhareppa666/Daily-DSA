@@ -1,4 +1,4 @@
-package org.FINAL_450_DSA_Problems.Arrays;
+package main.finale.FINAL_450_DSA_Problems.Arrays;
 
 //2. Find the maximum and minimum element in an array.
 public class Array_02 {

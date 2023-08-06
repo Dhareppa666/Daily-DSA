@@ -1,4 +1,4 @@
-package org.In_Walmart;
+package main.finale.In_Walmart;
 
 //3(BC) => BCBCBC
 //2(A)B => AAB

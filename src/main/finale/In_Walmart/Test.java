@@ -1,11 +1,10 @@
-package org.In_Walmart;
+package main.finale.In_Walmart;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
 public class Test {
-
 
         public static void main(String[] args) {
             BufferedReader reader;

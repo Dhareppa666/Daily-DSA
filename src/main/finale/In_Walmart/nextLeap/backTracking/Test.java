@@ -56,17 +56,14 @@ public class Test {
                 return false;
             }
         }
-
         if (seats[i] == 'G') {
             if(index + 1 < seats.length && seats[index + 1] == 'G') {
                 return false;
             }
-            if(index - 1 >= 0 && seats[index - 1] == 'G') {
+            if (index - 1 >= 0 && seats[index - 1] == 'G') {
                 return false;
             }
         }
-
-
         return true;
     }
 
