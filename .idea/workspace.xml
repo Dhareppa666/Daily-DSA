@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/LinkedIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LinkedIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/backTracking/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/backTracking/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -171,6 +167,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.finale.In_Walmart.nextLeap.extras" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\My WorkSpace\DSA\src\main\java\org\Fiserv\types" />
       <recent name="C:\My WorkSpace\DSA\src\main\java\org\Fiserv" />
