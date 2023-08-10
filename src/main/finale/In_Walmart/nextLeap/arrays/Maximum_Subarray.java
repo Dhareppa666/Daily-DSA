@@ -1,9 +1,9 @@
-package org.In_Walmart.nextLeap.arrays;
+package main.finale.In_Walmart.nextLeap.arrays;
 
 public class Maximum_Subarray {
 
     public static void main(String[] args) {
-        int res = maxSubArray(new int[]{5,4,-1,7,4});
+        int res = maxSubArray2(new int[]{5,4,-1,7,4});
         System.out.println(res);
     }
 
@@ -17,6 +17,18 @@ public class Maximum_Subarray {
             }
             if(bag < 0 ) {
                 bag = 0;
+            }
+        }
+        return sum;
+    }
+
+    public static int maxSubArray2(int[] nums) {
+        int sum = 0, max = 0;
+        for(int i=0; i<nums.length; i++) {
+            sum+=nums[i];
+            max = Math.max(max, sum);
+            if(sum < 0 ) {
+                sum = 0;
             }
         }
         return sum;
