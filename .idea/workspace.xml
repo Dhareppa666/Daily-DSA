@@ -5,15 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/Single_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Search_an_element_in_a_sorted_and_rotated_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/backTracking/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/ProblemStatement/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/ProblemStatement/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/ProblemStatement/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/ArithmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/BalanceSheetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/ExpenseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/ExpenseSplitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Split/EqualExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Split/ExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Split/PercentageExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Split/Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Split/UnequalExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/SplitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Group/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Group/GroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Splitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/User/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/UserExpenseBalanceSheet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/Maximum_Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/Maximum_Subarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/find_missing_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/find_missing_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Sort_Colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Sort_Colors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Two_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Tech/Dose/Arrays/Search_an_element_in_a_sorted_and_rotated_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Tech/Dose/Arrays/Search_an_element_in_a_sorted_and_rotated_array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +189,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
@@ -179,10 +201,11 @@
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine" />
+      <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design" />
       <recent name="C:\My WorkSpace\DSA\src\main\java\org\Fiserv\types" />
       <recent name="C:\My WorkSpace\DSA\src\main\java\org\Fiserv" />
       <recent name="C:\My WorkSpace\DSA\src\main\java\org\asmita_test_multithreading" />
-      <recent name="C:\My WorkSpace\DSA\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
@@ -192,7 +215,7 @@
       <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Search_an_element_in_a_sorted_and_rotated_array">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Best_Time_to_Buy_and_Sell_Stock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.Best_Time_to_Buy_and_Sell_Stock" />
       <module name="RestAPI_Basics" />
@@ -206,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_an_element_in_a_sorted_and_rotated_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.medium.Search_an_element_in_a_sorted_and_rotated_array" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.System_Design_src_not_mine.DesignSplitwise.Main" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.medium.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.System_Design_src_not_mine.DesignSplitwise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Single_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.Single_Number" />
+    <configuration name="Search_an_element_in_a_sorted_and_rotated_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.medium.Search_an_element_in_a_sorted_and_rotated_array" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Search_an_element_in_a_sorted_and_rotated_array" />
         <item itemvalue="Application.Subsets" />
         <item itemvalue="Application.Best_Time_to_Buy_and_Sell_Stock" />
         <item itemvalue="Application.Sort_Colors" />
-        <item itemvalue="Application.Single_Number" />
       </list>
     </recent_temporary>
   </component>
