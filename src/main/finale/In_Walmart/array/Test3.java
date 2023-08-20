@@ -1,10 +1,9 @@
-package org.In_Walmart.array;
+package main.finale.In_Walmart.array;
 
 public class Test3 {
 
     public static void main(String[] args) {
         Test3 test = new Test3();
-
         System.out.println(test.maximumSum(new int[]{18,43,36,13,7}));
     }
 

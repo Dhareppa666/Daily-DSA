@@ -1,18 +1,20 @@
-package org.In_Walmart.core_java;
+package main.finale.In_Walmart.core_java;
+
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
+import org.In_Walmart.core_java.Employee;
 
 public class SimpleJdbcConnection {
 
     public static void main(String[] args) {
         try{
             Class.forName("com.mysql.jdbc.Driver");
-            Connection conn=DriverManager.getConnection(
+            Connection conn = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/prl","root","root");
-            Statement stmt=conn.createStatement();
-            ResultSet rs=stmt.executeQuery("select * from test");
-            while(rs.next())
+            Statement stmt = conn.createStatement();
+            ResultSet rs = stmt.executeQuery("select * from test");
+            while (rs.next())
                 System.out.println(rs.getInt(1)+"  "+rs.getString(2)+"  "+rs.getString(3));
             conn.close();
 

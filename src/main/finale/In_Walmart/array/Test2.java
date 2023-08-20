@@ -1,4 +1,4 @@
-package org.In_Walmart.array;
+package main.finale.In_Walmart.array;
 
 import java.util.Arrays;
 

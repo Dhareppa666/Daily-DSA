@@ -5,37 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/ProblemStatement/Directory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/ProblemStatement/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/ProblemStatement/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/FileSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/ArithmeticExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Balance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/BalanceSheetController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Expense.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/ExpenseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/ExpenseSplitType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Split/EqualExpenseSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Split/ExpenseSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Split/PercentageExpenseSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Split/Split.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/Split/UnequalExpenseSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Expense/SplitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Group/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Group/GroupController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/Splitwise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/User/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/User/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine/DesignSplitwise/UserExpenseBalanceSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/A2825_Make_String_a_Subsequence_Using_Cyclic_Increments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/A8013_Number_of_Beautiful_Integers_in_the_Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/removeSigleDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/core_java/SimpleJdbcConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/core_java/SimpleJdbcConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,13 +192,13 @@
       <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Best_Time_to_Buy_and_Sell_Stock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.Best_Time_to_Buy_and_Sell_Stock" />
+  <component name="RunManager" selected="Application.removeSigleDigit">
+    <configuration name="A2825_Make_String_a_Subsequence_Using_Cyclic_Increments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Weekly.A2825_Make_String_a_Subsequence_Using_Cyclic_Increments" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.LC.Weekly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.System_Design_src_not_mine.DesignSplitwise.Main" />
+    <configuration name="A8013_Number_of_Beautiful_Integers_in_the_Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Weekly.A8013_Number_of_Beautiful_Integers_in_the_Range" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.System_Design_src_not_mine.DesignSplitwise.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.LC.Weekly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_an_element_in_a_sorted_and_rotated_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.medium.Search_an_element_in_a_sorted_and_rotated_array" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.array.Test2" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.medium.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort_Colors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.medium.Sort_Colors" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.array.Test3" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.medium.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.backTracking.Subsets" />
+    <configuration name="removeSigleDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Weekly.removeSigleDigit" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.backTracking.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.LC.Weekly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Search_an_element_in_a_sorted_and_rotated_array" />
-        <item itemvalue="Application.Subsets" />
-        <item itemvalue="Application.Best_Time_to_Buy_and_Sell_Stock" />
-        <item itemvalue="Application.Sort_Colors" />
+        <item itemvalue="Application.removeSigleDigit" />
+        <item itemvalue="Application.A2825_Make_String_a_Subsequence_Using_Cyclic_Increments" />
+        <item itemvalue="Application.A8013_Number_of_Beautiful_Integers_in_the_Range" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -1049,6 +1026,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
           <line>24</line>
           <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/removeSigleDigit.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="180" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
