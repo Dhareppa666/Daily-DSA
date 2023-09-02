@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/A2825_Make_String_a_Subsequence_Using_Cyclic_Increments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/A8013_Number_of_Beautiful_Integers_in_the_Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/removeSigleDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/Shuffle_the_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Add_Two_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/strings/extra_characters_in_a_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/strings/repeated_substring_pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/array/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/core_java/SimpleJdbcConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/core_java/SimpleJdbcConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Find_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Find_Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Three_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Three_Sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,13 +193,13 @@
       <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.removeSigleDigit">
-    <configuration name="A2825_Make_String_a_Subsequence_Using_Cyclic_Increments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Weekly.A2825_Make_String_a_Subsequence_Using_Cyclic_Increments" />
+  <component name="RunManager" selected="Application.extra_characters_in_a_string">
+    <configuration name="Find_Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.medium.Find_Anagrams" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Weekly.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A8013_Number_of_Beautiful_Integers_in_the_Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Weekly.A8013_Number_of_Beautiful_Integers_in_the_Range" />
+    <configuration name="Shuffle_the_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.Shuffle_the_Array" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Weekly.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.array.Test2" />
+    <configuration name="Three_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.medium.Three_Sum" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.array.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.array.Test3" />
+    <configuration name="extra_characters_in_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.strings.extra_characters_in_a_string" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.array.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeSigleDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Weekly.removeSigleDigit" />
+    <configuration name="repeated_substring_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.strings.repeated_substring_pattern" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Weekly.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.removeSigleDigit" />
-        <item itemvalue="Application.A2825_Make_String_a_Subsequence_Using_Cyclic_Increments" />
-        <item itemvalue="Application.A8013_Number_of_Beautiful_Integers_in_the_Range" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.extra_characters_in_a_string" />
+        <item itemvalue="Application.repeated_substring_pattern" />
+        <item itemvalue="Application.Shuffle_the_Array" />
+        <item itemvalue="Application.Find_Anagrams" />
+        <item itemvalue="Application.Three_Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -1026,11 +1027,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/In_Walmart/LC/Daily/SpiralMatrix.java</url>
           <line>24</line>
           <option name="timeStamp" value="169" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/removeSigleDigit.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="180" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

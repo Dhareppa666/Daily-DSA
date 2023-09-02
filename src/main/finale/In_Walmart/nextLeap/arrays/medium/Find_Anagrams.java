@@ -1,4 +1,4 @@
-package org.In_Walmart.nextLeap.arrays.medium;
+package main.finale.In_Walmart.nextLeap.arrays.medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,7 +7,8 @@ import java.util.List;
 public class Find_Anagrams {
 
     public static void main(String[] args) {
-        List<Integer> list = findAnagrams("cbaebabacd", "abc");
+//        List<Integer> list = findAnagrams("cbaebabacd", "abc");
+        List<Integer> list = findAnagrams("abab", "ab");
         System.out.println(list);
 
         System.out.println(7&1);
