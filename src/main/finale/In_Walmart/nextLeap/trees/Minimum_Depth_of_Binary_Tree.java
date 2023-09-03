@@ -1,4 +1,4 @@
-package org.In_Walmart.nextLeap.trees;
+package main.finale.In_Walmart.nextLeap.trees;
 
 import org.In_Walmart.Raj_Vik.Trees.TreeNode;
 

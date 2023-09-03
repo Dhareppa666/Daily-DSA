@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/Shuffle_the_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Add_Two_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/strings/extra_characters_in_a_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/strings/repeated_substring_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/Blind_75/My_Calendar_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/SQL/Sql_Queries.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/_62_Unique_Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/_63_Unique_Paths_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/_980_Unique_Paths_III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/trees/_110_Balanced_Binary_Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Find_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Find_Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Three_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/medium/Three_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/trees/Minimum_Depth_of_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/trees/Minimum_Depth_of_Binary_Tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,20 +192,7 @@
       <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.extra_characters_in_a_string">
-    <configuration name="Find_Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.medium.Find_Anagrams" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._63_Unique_Paths_II">
     <configuration name="Shuffle_the_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.Shuffle_the_Array" />
       <module name="RestAPI_Basics" />
@@ -220,12 +206,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.arrays.medium.Three_Sum" />
+    <configuration name="_62_Unique_Paths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp._62_Unique_Paths" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.arrays.medium.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_63_Unique_Paths_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp._63_Unique_Paths_II" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._63_Unique_Paths_II" />
+        <item itemvalue="Application._62_Unique_Paths" />
         <item itemvalue="Application.extra_characters_in_a_string" />
         <item itemvalue="Application.repeated_substring_pattern" />
         <item itemvalue="Application.Shuffle_the_Array" />
-        <item itemvalue="Application.Find_Anagrams" />
-        <item itemvalue="Application.Three_Sum" />
       </list>
     </recent_temporary>
   </component>
