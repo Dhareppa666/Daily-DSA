@@ -1,8 +1,8 @@
-package main.finale.In_Walmart.LC.Daily._1282;
+package main.finale.In_Walmart.LC.Daily;
 
 import java.util.*;
 
-public class _Group_the_People_Given_the_Group_Size_They_Belong_To {
+public class _1282_Group_the_People_Given_the_Group_Size_They_Belong_To {
 
     public static void main(String[] args) {
         List<List<Integer>> res = groupThePeople2(new int[]{3, 3, 3, 3, 3, 1, 3});
