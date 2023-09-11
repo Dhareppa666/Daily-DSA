@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.Daily;
+package main.finale.In_Walmart.LC.Daily;
 
 public class SpiralMatrix {
 
@@ -12,16 +12,16 @@ public class SpiralMatrix {
         int index = 1;
         int start = 0, end = n-1, up =0, down = n-1;
         while(index <= n*n ){
-            for(int i=start; i<=end; i++){
+            for(int i=start; i<=end; i++) {
                 res[up][i] = index++;
             }
-            for(int i=up+1; i<=down-1; i++){
+            for(int i=up+1; i<=down-1; i++) {
                 res[i][end] = index++;
             }
-            for(int i=down; i>=start; i--){
+            for(int i=down; i>=start; i--) {
                 res[down][i] = index++;
             }
-            for(int i=down-1; i>=up+1; i--){
+            for(int i=down-1; i>=up+1; i--) {
                 res[i][start] = index++;
             }
             start++; end--; up++; down--;
