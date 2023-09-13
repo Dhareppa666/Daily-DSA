@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_135_Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Delete_Node_in_LL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1282/_Group_the_People_Given_the_Group_Size_They_Belong_To.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1282_Group_the_People_Given_the_Group_Size_They_Belong_To.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +191,7 @@
       <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._1282_Group_the_People_Given_the_Group_Size_They_Belong_To">
+  <component name="RunManager" selected="Application._135_Candy">
     <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily.SpiralMatrix" />
       <module name="RestAPI_Basics" />
@@ -200,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1071_Greatest_Common_Divisor_of_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.Blind_75._1071_Greatest_Common_Divisor_of_Strings" />
+    <configuration name="_1282_Group_the_People_Given_the_Group_Size_They_Belong_To" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._1282_Group_the_People_Given_the_Group_Size_They_Belong_To" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.Blind_75.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,8 +218,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1282_Group_the_People_Given_the_Group_Size_They_Belong_To" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._1282_Group_the_People_Given_the_Group_Size_They_Belong_To" />
+    <configuration name="_135_Candy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._135_Candy" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -239,26 +257,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_63_Unique_Paths_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp._63_Unique_Paths_II" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._135_Candy" />
+        <item itemvalue="Application._1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique" />
         <item itemvalue="Application._1282_Group_the_People_Given_the_Group_Size_They_Belong_To" />
         <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application._605_Can_Place_Flowers" />
-        <item itemvalue="Application._1071_Greatest_Common_Divisor_of_Strings" />
-        <item itemvalue="Application._63_Unique_Paths_II" />
       </list>
     </recent_temporary>
   </component>
@@ -1050,6 +1055,31 @@
           <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1282_Group_the_People_Given_the_Group_Size_They_Belong_To.java</url>
           <line>20</line>
           <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="183" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
