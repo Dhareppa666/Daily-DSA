@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_135_Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Delete_Node_in_LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Binary_to_Decimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Linked_ListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Palindrome_Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/stack/example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Concepts/Level_Order_Traversal_BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Concepts/Traversal_Only_IN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Concepts/Traversal_Only_IN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Concepts/Traversal_Only_POST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Concepts/Traversal_Only_POST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Concepts/Traversal_Only_PRE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Concepts/Traversal_Only_PRE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Questions/Maximum_Depth_of_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Trees/Questions/Maximum_Depth_of_Binary_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/_138_Copy_List_with_Random_Pointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/_138_Copy_List_with_Random_Pointer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,9 +194,9 @@
       <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._135_Candy">
-    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily.SpiralMatrix" />
+  <component name="RunManager" selected="Application.Find_the_difference">
+    <configuration name="Find_the_difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily.Find_the_difference" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -244,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_605_Can_Place_Flowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.Blind_75._605_Can_Place_Flowers" />
+    <configuration name="example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.stack.example" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.Blind_75.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Find_the_difference" />
+        <item itemvalue="Application.example" />
         <item itemvalue="Application._135_Candy" />
         <item itemvalue="Application._1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique" />
         <item itemvalue="Application._1282_Group_the_People_Given_the_Group_Size_They_Belong_To" />
-        <item itemvalue="Application.SpiralMatrix" />
-        <item itemvalue="Application._605_Can_Place_Flowers" />
       </list>
     </recent_temporary>
   </component>

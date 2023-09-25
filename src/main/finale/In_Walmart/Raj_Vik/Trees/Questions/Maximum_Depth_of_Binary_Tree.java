@@ -1,8 +1,7 @@
-package org.In_Walmart.Raj_Vik.Trees.Questions;
+package main.finale.In_Walmart.Raj_Vik.Trees.Questions;
 
+import main.finale.In_Walmart.Raj_Vik.Trees.Utils;
 import org.In_Walmart.Raj_Vik.Trees.TreeNode;
-import org.In_Walmart.Raj_Vik.Trees.Utils;
-
 import java.util.*;
 
 //https://leetcode.com/problems/maximum-depth-of-binary-tree/
