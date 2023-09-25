@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/Find_the_difference.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Binary_to_Decimal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Linked_ListCycle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/linkedlist/Palindrome_Linked_List.java" afterDir="false" />
@@ -1083,6 +1084,21 @@
           <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique.java</url>
           <line>24</line>
           <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/Find_the_difference.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/Find_the_difference.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/Find_the_difference.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="189" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
