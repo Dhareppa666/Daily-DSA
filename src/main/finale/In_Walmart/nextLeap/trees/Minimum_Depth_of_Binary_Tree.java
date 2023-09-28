@@ -38,4 +38,18 @@ public class Minimum_Depth_of_Binary_Tree {
         }
         return depth;
     }
+
+    public int minDepth2(TreeNode root) {
+        // Your code goes here
+        if(root == null) {
+            return 0;
+        }
+        if(root.left ==null) {
+            return 1+ minDepth(root.right);
+        }
+        if(root.right == null) {
+            return 1+ minDepth(root.left);
+        }
+        return 1+Math.min(minDepth(root.right), minDepth(root.left));
+    }
 }
