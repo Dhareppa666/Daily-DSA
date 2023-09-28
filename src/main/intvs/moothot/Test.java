@@ -21,17 +21,22 @@ public class Test {
 
     public static void main(String[] args) {
         String input = "abbeaccddc";
-        if(input==null || input.length()<=1) {
+        Q2(input);
+    }
+
+    public static void Q2(String input) {
+        if (input == null || input.length() <= 1) {
             //return input;
+            return;
         }
         Stack<Character> stack = new Stack<>();
-        for(int index = 0; index< input.length(); index++) {
+        for (int index = 0; index < input.length(); index++) {
             char currentChar = input.charAt(index);
-            if(stack.isEmpty()) {
+            if (stack.isEmpty()) {
                 stack.push(currentChar);
             } else {
                 char peekElement = stack.peek();
-                if(currentChar == peekElement) {
+                if (currentChar == peekElement) {
                     stack.pop();
                 } else {
                     stack.push(currentChar);
@@ -39,7 +44,7 @@ public class Test {
             }
         }
         StringBuilder sb = new StringBuilder();
-        while(!stack.isEmpty()) {
+        while (!stack.isEmpty()) {
             char currentChar = (Character) stack.pop();
             sb.append(currentChar);
         }

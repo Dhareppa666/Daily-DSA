@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/trees/searchBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/trees/Pre_In_Post_Order_Traversal_Iterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/trees/Pre_In_Post_Order_Traversal_Iterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/moothot/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/moothot/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +187,7 @@
       <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pre_In_Post_Order_Traversal_Iterative">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Pre_In_Post_Order_Traversal_Iterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.trees.Pre_In_Post_Order_Traversal_Iterative" />
       <module name="RestAPI_Basics" />
@@ -215,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_316_Remove_Duplicate_Letters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._316_Remove_Duplicate_Letters" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.intvs.moothot.Test" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="main.intvs.moothot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Pre_In_Post_Order_Traversal_Iterative" />
         <item itemvalue="Application._880_Decoded_String_at_Index" />
         <item itemvalue="Application._543_Diameter_of_Binary_Tree" />
         <item itemvalue="Application.Pre_In_Post_Order_Traversal_Recursion" />
-        <item itemvalue="Application._316_Remove_Duplicate_Letters" />
       </list>
     </recent_temporary>
   </component>
