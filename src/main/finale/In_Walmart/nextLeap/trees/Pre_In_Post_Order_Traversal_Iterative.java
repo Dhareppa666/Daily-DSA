@@ -1,5 +1,6 @@
 package main.finale.In_Walmart.nextLeap.trees;
 
+import java.util.ArrayList;
 import java.util.Stack;
 
 public class Pre_In_Post_Order_Traversal_Iterative {
@@ -30,6 +31,10 @@ public class Pre_In_Post_Order_Traversal_Iterative {
 
         System.out.print("Postorder Traversal: ");
         traversal.postorderTraversal(root);
+        System.out.println();
+
+        System.out.print("Postorder Traversal: ");
+        traversal.postorderTraversal2(root);
         System.out.println();
     }
 }
@@ -94,6 +99,38 @@ class IterativeTreeTraversal {
             TreeNode current = stack2.pop();
             System.out.print(current.data + " ");
         }
+    }
+
+    // Iterative Postorder Traversal
+    void postorderTraversal2(TreeNode root) {
+        if (root == null) return;
+
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+        ArrayList<Integer> list = new ArrayList<>();
+
+        while (!stack.isEmpty()) {
+            TreeNode current = stack.peek();
+            if(current.left !=null) {
+                TreeNode leftTree = current.left;
+                TreeNode peek = stack.pop();
+                peek.left = null;
+                stack.push(peek);
+                stack.push(leftTree);
+            } else if( current.right !=null) {
+                TreeNode leftTree = current.right;
+                TreeNode peek = stack.pop();
+                peek.right = null;
+                stack.push(peek);
+                stack.push(leftTree);
+            } else {
+                Integer value = stack.pop().data;
+                System.out.print(value+ " ");
+                list.add(value);
+            }
+        }
+//        System.out.println();
+//        System.out.println(list);
     }
 }
 
