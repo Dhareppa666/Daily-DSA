@@ -1,8 +1,5 @@
 package main.finale.In_Walmart.nextLeap.trees;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
 public class Pre_In_Post_Order_Traversal_Recursion {
 
     public static void main(String[] args) {
@@ -17,10 +14,6 @@ public class Pre_In_Post_Order_Traversal_Recursion {
 
         System.out.print("Inorder Traversal: ");
         inorderTraversal(root);
-        System.out.println();
-
-        System.out.print("Inorder Traversal: ");
-        inorderTraversal_Iterative(root);
         System.out.println();
 
         System.out.print("Preorder Traversal: ");
@@ -40,23 +33,6 @@ public class Pre_In_Post_Order_Traversal_Recursion {
         inorderTraversal(root.left);
         System.out.print(root.data + " ");
         inorderTraversal(root.right);
-    }
-    public static void inorderTraversal_Iterative(TreeNode root) {
-        if (root == null)
-            return;
-
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
-        while (!queue.isEmpty()) {
-            TreeNode node = queue.poll();
-            if(node.left!=null) {
-                queue.offer(root.left);
-            }
-            if(node.right!=null) {
-                queue.offer(root.right);
-                continue;
-            }
-        }
     }
 
     // Preorder Traversal
