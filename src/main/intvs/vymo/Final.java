@@ -1,4 +1,4 @@
-package intvs.vymo;
+package main.intvs.vymo;
 
 public class Final {
 }
