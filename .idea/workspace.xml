@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100/Kth_Largest_Element_in_a_Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100/Meeting_Rooms_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100/Merge_Intervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/Kth_Largest_Element_in_a_Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/Meeting_Rooms_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/Merge_Intervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/GraphEdgeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/GraphExample_AdjList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/GraphExample_AdjMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/Graph_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/Graph_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/InwardAdjacencyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Count_Distinct_Substrings_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Count_Distinct_Substrings_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/FileSystem_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/FileSystem_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Longest_Common_Prefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/_421_Maximum_XOR_of_Two_Numbers_in_an_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/Graph_BFS_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Implement_Trie_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Implement_Trie_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Implement_Trie_Prefix_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Implement_Trie_Prefix_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/TrieExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/util/TrieNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/TrieNodeExt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/util/TrieNodeExt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,9 +190,9 @@
       <recent name="main.finale.In_Walmart.nextLeap.arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Graph_DFS">
-    <configuration name="GraphEdgeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.GraphEdgeList" />
+  <component name="RunManager" selected="Application.Graph_BFS_2">
+    <configuration name="Graph_BFS$Graph_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.Graph_BFS$Graph_DFS" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -225,21 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.GraphExample" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GraphExample_AdjList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.GraphExample_AdjList" />
+    <configuration name="Graph_BFS_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.Graph_BFS_2" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -277,13 +243,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_34_Find_First_and_Last_Position_of_Element_in_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._34_Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Graph_BFS_2" />
+        <item itemvalue="Application.Graph_BFS$Graph_DFS" />
+        <item itemvalue="Application._34_Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
         <item itemvalue="Application.Graph_DFS" />
         <item itemvalue="Application.InwardAdjacencyList" />
-        <item itemvalue="Application.GraphEdgeList" />
-        <item itemvalue="Application.GraphExample_AdjList" />
-        <item itemvalue="Application.GraphExample" />
       </list>
     </recent_temporary>
   </component>
