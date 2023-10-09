@@ -1,6 +1,6 @@
 package main.finale.In_Walmart.nextLeap.tries;
 
-;
+import main.finale.In_Walmart.nextLeap.tries.util.TrieNodeExt;
 
 class Implement_Trie_II {
 

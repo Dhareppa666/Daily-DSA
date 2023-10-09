@@ -5,18 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1512_Number_of_Good_Pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_343_Integer_Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100/Find_Median_from_Data_Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/Find_Median_from_Data_Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/MaxHeapEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Implement_Trie_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Implement_Trie_Prefix_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/TrieNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/TrieNodeExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100/Kth_Largest_Element_in_a_Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100/Meeting_Rooms_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100/Merge_Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/Kth_Largest_Element_in_a_Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/Meeting_Rooms_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/Merge_Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/GraphEdgeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/GraphExample_AdjList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/GraphExample_AdjMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/Graph_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/Graph_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/InwardAdjacencyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Count_Distinct_Substrings_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Count_Distinct_Substrings_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/FileSystem_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/FileSystem_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Longest_Common_Prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/_421_Maximum_XOR_of_Two_Numbers_in_an_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Implement_Trie_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Implement_Trie_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Implement_Trie_Prefix_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Implement_Trie_Prefix_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/TrieExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/util/TrieNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/TrieNodeExt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/util/TrieNodeExt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +182,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
@@ -182,29 +194,30 @@
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100" />
+      <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs" />
       <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine" />
       <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design" />
       <recent name="C:\My WorkSpace\DSA\src\main\java\org\Fiserv\types" />
-      <recent name="C:\My WorkSpace\DSA\src\main\java\org\Fiserv" />
-      <recent name="C:\My WorkSpace\DSA\src\main\java\org\asmita_test_multithreading" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.finale.In_Walmart.nextLeap.graphs" />
       <recent name="main.finale.In_Walmart.Top100" />
+      <recent name="main.finale.In_Walmart.nextLeap.tries" />
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
       <recent name="main.finale.In_Walmart.nextLeap.arrays" />
-      <recent name="org.In_Walmart.Raj_Vik.Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Trie">
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.HeapAndQueue.HeapSort" />
+  <component name="RunManager" selected="Application.Graph_DFS">
+    <configuration name="GraphEdgeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.GraphEdgeList" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.HeapAndQueue.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxHeapEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.HeapAndQueue.MaxHeapEx" />
+    <configuration name="GraphExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.GraphExample" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.HeapAndQueue.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.tries.Trie" />
+    <configuration name="GraphExample_AdjList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.GraphExample_AdjList" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.tries.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1512_Number_of_Good_Pairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._1512_Number_of_Good_Pairs" />
+    <configuration name="Graph_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.Graph_DFS" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_343_Integer_Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._343_Integer_Break" />
+    <configuration name="InwardAdjacencyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.InwardAdjacencyList" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Trie" />
-        <item itemvalue="Application.MaxHeapEx" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application._343_Integer_Break" />
-        <item itemvalue="Application._1512_Number_of_Good_Pairs" />
+        <item itemvalue="Application.Graph_DFS" />
+        <item itemvalue="Application.InwardAdjacencyList" />
+        <item itemvalue="Application.GraphEdgeList" />
+        <item itemvalue="Application.GraphExample_AdjList" />
+        <item itemvalue="Application.GraphExample" />
       </list>
     </recent_temporary>
   </component>

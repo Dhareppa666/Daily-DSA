@@ -1,16 +1,18 @@
 package main.finale.In_Walmart.nextLeap.tries;
 
+import main.finale.In_Walmart.nextLeap.tries.util.TrieNode;
+
 import java.util.*;
 
-public class Trie {
+public class TrieExample {
     TrieNode root;
 
-    Trie() {
+    TrieExample() {
         root = new TrieNode();
     }
 
     public static void main(String[] args) {
-        Trie trie = new Trie();
+        TrieExample trie = new TrieExample();
 
         // Inserting words into the trie
         trie.insert("apple");

@@ -1,5 +1,7 @@
 package main.finale.In_Walmart.nextLeap.tries;
 
+import main.finale.In_Walmart.nextLeap.tries.util.TrieNode;
+
 class Implement_Trie_Prefix_Tree {
     TrieNode root;
 
