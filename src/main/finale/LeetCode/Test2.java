@@ -1,4 +1,4 @@
-package org.LeetCode;
+package main.finale.LeetCode;
 
 public class Test2 {
 

@@ -1,4 +1,4 @@
-package org.patterns.Problems.Linked.List;
+package main.finale.patterns.Problems.Linked.List;
 
 import java.util.Iterator;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package org.In_Walmart.nextLeap.arrays.medium;
+package main.finale.In_Walmart.nextLeap.arrays.medium;
 
 public class Sum_of_Square_Numbers {
 

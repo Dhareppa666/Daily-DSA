@@ -1,4 +1,4 @@
-package org.REAL_TIME_COMP_QUES.epam;
+package main.finale.REAL_TIME_COMP_QUES.epam;
 
 import java.util.ArrayList;
 import java.util.List;

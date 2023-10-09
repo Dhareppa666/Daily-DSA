@@ -1,6 +1,6 @@
-package org.In_Walmart.LC.Daily;
+package main.finale.In_Walmart.LC.Daily;
 
-import org.In_Walmart.Raj_Vik.Trees.TreeNode;
+import main.finale.In_Walmart.Raj_Vik.Trees.TreeNode;
 
 // 1372. Longest ZigZag Path in a Binary Tree
 public class Longest_ZigZag_Path_in_Binary_Tree {

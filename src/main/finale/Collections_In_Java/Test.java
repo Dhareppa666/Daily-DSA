@@ -1,4 +1,4 @@
-package org.Collections_In_Java;
+package main.finale.Collections_In_Java;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.Study_Plan;
+package main.finale.In_Walmart.LC.Study_Plan;
 
 public class ListNode {
 

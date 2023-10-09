@@ -1,4 +1,4 @@
-package org.patterns.Problems.Binary.Search;
+package main.finale.patterns.Problems.Binary.Search;
 
 public class BinarySearch {
 

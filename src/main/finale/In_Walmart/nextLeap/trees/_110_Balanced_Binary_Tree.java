@@ -4,12 +4,12 @@ public class _110_Balanced_Binary_Tree {
 
     private boolean result = true;
 
-    public boolean isBalanced(org.In_Walmart.Raj_Vik.Trees.TreeNode root) {
+    public boolean isBalanced(main.finale.In_Walmart.Raj_Vik.Trees.TreeNode root) {
         isBal(root);
         return result;
     }
 
-    public int isBal(org.In_Walmart.Raj_Vik.Trees.TreeNode root) {
+    public int isBal(main.finale.In_Walmart.Raj_Vik.Trees.TreeNode root) {
         if (root == null || !result) {
             return 0;
         }

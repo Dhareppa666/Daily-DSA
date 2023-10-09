@@ -1,4 +1,4 @@
-package org.patterns.Problems.Arrays;
+package main.finale.patterns.Problems.Arrays;
 
 public class Longest_Subarray_with_given_Sum_K {
 

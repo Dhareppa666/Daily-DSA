@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.Study_Plan;
+package main.finale.In_Walmart.LC.Study_Plan;
 // 167. https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 public class Two_Sum_sorted_arr {
 

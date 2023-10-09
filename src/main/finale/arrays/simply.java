@@ -1,4 +1,4 @@
-package org.arrays;
+package main.finale.arrays;
 
 import java.util.Scanner;
 import java.util.UUID;

@@ -1,4 +1,4 @@
-package org.Design_Pattern.Behavioral.Strategy;
+package main.finale.Design_Pattern.Behavioral.Strategy;
 
 public class Main {
 

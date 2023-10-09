@@ -1,4 +1,4 @@
-package org.patterns.Problems.Linked.List;
+package main.finale.patterns.Problems.Linked.List;
 
 class ListNode {
       int val;

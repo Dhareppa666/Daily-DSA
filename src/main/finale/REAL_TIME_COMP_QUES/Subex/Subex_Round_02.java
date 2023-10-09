@@ -1,4 +1,4 @@
-package org.REAL_TIME_COMP_QUES.Subex;
+package main.finale.REAL_TIME_COMP_QUES.Subex;
 
 final class Employee_Immutable {
     private final String name;

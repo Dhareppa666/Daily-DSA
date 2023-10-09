@@ -1,4 +1,4 @@
-package org.Tech.Dose.Trees;
+package main.finale.Tech.Dose.Trees;
 
 public class BinarySearchTree {
 

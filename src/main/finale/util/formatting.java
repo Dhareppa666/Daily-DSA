@@ -1,4 +1,4 @@
-package org.util;
+package main.finale.util;
 
 public class formatting {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.arrays;
+package main.finale.arrays;
 
 public class Jumps_1 {
 

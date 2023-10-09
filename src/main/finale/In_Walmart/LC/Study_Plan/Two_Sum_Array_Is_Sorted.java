@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.Study_Plan;
+package main.finale.In_Walmart.LC.Study_Plan;
 
 //167. Two Sum II - Input Array Is Sorted
 public class Two_Sum_Array_Is_Sorted {

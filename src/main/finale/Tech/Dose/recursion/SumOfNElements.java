@@ -1,4 +1,4 @@
-package org.Tech.Dose.recursion;
+package main.finale.Tech.Dose.recursion;
 
 //3. Sum of Elements from 1 to N
 public class SumOfNElements {

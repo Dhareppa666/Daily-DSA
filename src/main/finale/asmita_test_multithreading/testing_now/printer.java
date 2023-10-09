@@ -1,4 +1,4 @@
-package org.asmita_test_multithreading.testing_now;
+package main.finale.asmita_test_multithreading.testing_now;
 
 public class printer {
 

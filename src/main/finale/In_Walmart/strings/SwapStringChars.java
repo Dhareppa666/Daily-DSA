@@ -1,4 +1,4 @@
-package org.In_Walmart.strings;
+package main.finale.In_Walmart.strings;
 
 public class SwapStringChars {
     private static String s = "Justin";

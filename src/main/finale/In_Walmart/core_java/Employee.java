@@ -1,4 +1,4 @@
-package org.In_Walmart.core_java;
+package main.finale.In_Walmart.core_java;
 
 public class Employee {
     private int id;

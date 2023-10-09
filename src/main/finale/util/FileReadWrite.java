@@ -1,11 +1,11 @@
-package org.util;
+package main.finale.util;
 
 import java.io.*;
 import java.util.Scanner;
 
 public class FileReadWrite {
 
-    private static File file = new File("C:\\My WorkSpace\\DSA\\src\\main\\java\\org\\util\\abc.txt");
+    private static File file = new File("C:\\My WorkSpace\\DSA\\src\\main\\java\\main.finale\\util\\abc.txt");
 
 
     public static void main(String[] args) throws Exception {

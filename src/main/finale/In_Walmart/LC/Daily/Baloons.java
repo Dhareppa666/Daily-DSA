@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.Daily;
+package main.finale.In_Walmart.LC.Daily;
 
 import java.util.ArrayList;
 import java.util.List;

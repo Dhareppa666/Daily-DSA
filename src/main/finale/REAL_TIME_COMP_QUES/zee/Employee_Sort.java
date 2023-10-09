@@ -1,4 +1,4 @@
-package org.REAL_TIME_COMP_QUES.zee;
+package main.finale.REAL_TIME_COMP_QUES.zee;
 
 import java.util.ArrayList;
 import java.util.Collections;

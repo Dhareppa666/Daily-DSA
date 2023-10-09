@@ -1,4 +1,4 @@
-package org.test;
+package main.finale.test;
 
 import java.util.Arrays;
 import java.util.List;

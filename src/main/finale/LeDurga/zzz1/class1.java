@@ -1,4 +1,4 @@
-package org.LeDurga.zzz1;
+package main.finale.LeDurga.zzz1;
 
 import java.text.ParseException;
 import java.util.HashMap;

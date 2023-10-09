@@ -1,4 +1,4 @@
-package org.In_Walmart.nextLeap.arrays.medium;
+package main.finale.In_Walmart.nextLeap.arrays.medium;
 
 // https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
 // 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold

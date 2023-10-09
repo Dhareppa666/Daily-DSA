@@ -1,4 +1,4 @@
-package org.DSA_Through_C.trees;
+package main.finale.DSA_Through_C.trees;
 
 public class BinaryTree {
 

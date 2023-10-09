@@ -1,4 +1,4 @@
-package org.FINAL_450_DSA_Problems.Strings;
+package main.finale.FINAL_450_DSA_Problems.Strings;
 
 import java.util.Arrays;
 

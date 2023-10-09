@@ -1,4 +1,4 @@
-package org.MultiThreading.OddEvenExample;
+package main.finale.MultiThreading.OddEvenExample;
 
 public class Generator implements Runnable {
 

@@ -1,4 +1,4 @@
-package org.patterns.vik;
+package main.finale.patterns.vik;
 
 import java.util.HashSet;
 

@@ -1,8 +1,8 @@
-package org.searching;
+package main.finale.searching;
 /*
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import main.finale.apache.logging.log4j.LogManager;
+import main.finale.apache.logging.log4j.Logger;
 */
 
 public class Linear_Search {

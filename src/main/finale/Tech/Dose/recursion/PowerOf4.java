@@ -1,4 +1,4 @@
-package org.Tech.Dose.recursion;
+package main.finale.Tech.Dose.recursion;
 
 public class PowerOf4 {
 

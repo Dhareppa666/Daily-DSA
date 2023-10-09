@@ -1,4 +1,4 @@
-package org.patterns;
+package main.finale.patterns;
 
 public class DiamondShape {
 

@@ -1,4 +1,4 @@
-package org.util;
+package main.finale.util;
 
 public class AllInOneUtils {
 

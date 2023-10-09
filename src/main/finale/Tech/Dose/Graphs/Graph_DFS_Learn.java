@@ -1,4 +1,4 @@
-package org.Tech.Dose.Graphs;
+package main.finale.Tech.Dose.Graphs;
 
 import java.util.Iterator;
 import java.util.LinkedList;

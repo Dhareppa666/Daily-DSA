@@ -1,4 +1,4 @@
-package org.searching;
+package main.finale.searching;
 
 public class Binary_Search {
 

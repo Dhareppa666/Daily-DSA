@@ -1,4 +1,4 @@
-package org.In_Walmart.nextLeap.arrays;
+package main.finale.In_Walmart.nextLeap.arrays;
 
 
 public class isArmstrongNumber {
@@ -10,12 +10,12 @@ public class isArmstrongNumber {
 
     public static boolean isAmNumber(int n) {
         int length = String.valueOf(n).length();
-        int sum = 0, org = n;
+        int sum = 0, main.finale = n;
         while (n>0) {
             int rem = n %10;
             sum += Math.pow(rem, length);
             n= n/10;
         }
-        return sum == org;
+        return sum == main.finale;
     }
 }

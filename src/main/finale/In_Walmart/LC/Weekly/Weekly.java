@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.Weekly;
+package main.finale.In_Walmart.LC.Weekly;
 
 import java.util.Arrays;
 

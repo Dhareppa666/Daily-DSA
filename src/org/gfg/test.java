@@ -1,4 +1,4 @@
-package org.gfg;
+package main.finale.gfg;
 
 public class test {
 

@@ -1,4 +1,4 @@
-package org.patterns.Problems.Arrays;
+package main.finale.patterns.Problems.Arrays;
 
 //TODO:
 public class Array_is_sorted_and_rotated {

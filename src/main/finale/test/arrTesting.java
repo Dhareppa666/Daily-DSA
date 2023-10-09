@@ -1,4 +1,4 @@
-package org.test;
+package main.finale.test;
 
 public class arrTesting {
     public static void main(String[] args) {

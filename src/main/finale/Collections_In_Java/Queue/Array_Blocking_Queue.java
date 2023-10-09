@@ -1,4 +1,4 @@
-package org.Collections_In_Java.Queue;
+package main.finale.Collections_In_Java.Queue;
 // ArrayBlockingQueue class is a bounded blocking queue backed by an array.
 // By bounded, it means that the size of the Queue is fixed. Once created,
 // the capacity cannot be changed. Attempts to put an element into a full queue

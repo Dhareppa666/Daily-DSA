@@ -1,4 +1,4 @@
-package org.REAL_TIME_COMP_QUES.all_in_one;
+package main.finale.REAL_TIME_COMP_QUES.all_in_one;
 
 // Employee.java
 final class Employee {

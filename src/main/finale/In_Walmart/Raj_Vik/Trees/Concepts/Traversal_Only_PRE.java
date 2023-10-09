@@ -1,7 +1,7 @@
 package main.finale.In_Walmart.Raj_Vik.Trees.Concepts;
 
 import main.finale.In_Walmart.Raj_Vik.Trees.Utils;
-import org.In_Walmart.Raj_Vik.Trees.TreeNode;
+import main.finale.In_Walmart.Raj_Vik.Trees.TreeNode;
 
 import java.util.*;
 

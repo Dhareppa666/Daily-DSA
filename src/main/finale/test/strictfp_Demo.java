@@ -1,4 +1,4 @@
-package org.test;
+package main.finale.test;
 
 public class strictfp_Demo {
     public strictfp static void main(String[] args) {

@@ -1,6 +1,6 @@
-package org.Design_Pattern.Behavioral.Strategy;
+package main.finale.Design_Pattern.Behavioral.Strategy;
 
-import org.Design_Pattern.Behavioral.Strategy.Strategyy.NormalVehicle;
+import main.finale.Design_Pattern.Behavioral.Strategy.Strategyy.NormalVehicle;
 
 public class GoodsVehicle extends Vehicle{
     public GoodsVehicle() {

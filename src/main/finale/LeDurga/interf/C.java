@@ -1,4 +1,4 @@
-package org.LeDurga.interf;
+package main.finale.LeDurga.interf;
 
 interface p1{
     default void m1(){

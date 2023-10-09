@@ -1,4 +1,4 @@
-package org.LeetCode;
+package main.finale.LeetCode;
 
 class Solution {
     public static void main(String[] args) {

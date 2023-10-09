@@ -1,4 +1,4 @@
-package org.REAL_TIME_COMP_QUES;
+package main.finale.REAL_TIME_COMP_QUES;
 
 
 //Find palindrom in the given file.

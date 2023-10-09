@@ -1,4 +1,4 @@
-package org.walmart;
+package main.finale.walmart;
 
 //Given an array A of N elements.
 // Find the majority element in the array.

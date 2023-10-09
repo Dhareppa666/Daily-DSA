@@ -1,4 +1,4 @@
-package org.REAL_TIME_COMP_QUES.Recro;
+package main.finale.REAL_TIME_COMP_QUES.Recro;
 
 import java.util.List;
 import java.util.stream.Collectors;

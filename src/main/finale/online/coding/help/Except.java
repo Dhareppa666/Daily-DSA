@@ -1,4 +1,4 @@
-package org.online.coding.help;
+package main.finale.online.coding.help;
 
 public class Except {
     public static boolean checkArgs(String[] args) throws Exception {

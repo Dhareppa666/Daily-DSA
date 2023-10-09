@@ -1,4 +1,4 @@
-package org.Tech.Dose.LIVE.CODING;
+package main.finale.Tech.Dose.LIVE.CODING;
 
 public class Sample {
 

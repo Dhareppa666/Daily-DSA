@@ -1,4 +1,4 @@
-package org.Tech.Dose.Arrays;
+package main.finale.Tech.Dose.Arrays;
 
 public class Majority_Element {
     public static void main(String[] args) {

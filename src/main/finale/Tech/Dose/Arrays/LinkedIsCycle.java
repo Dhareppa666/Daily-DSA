@@ -1,6 +1,6 @@
-package org.Tech.Dose.Arrays;
+package main.finale.Tech.Dose.Arrays;
 
-import org.DSA_Through_C.ll.LinkedListtt;
+import main.finale.DSA_Through_C.ll.LinkedListtt;
 
 public class LinkedIsCycle {
 

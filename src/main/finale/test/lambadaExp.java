@@ -1,4 +1,4 @@
-package org.test;
+package main.finale.test;
 
 //import arrays.test;
 //import com.sun.tools.javac.util.StringUtils;

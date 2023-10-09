@@ -1,6 +1,6 @@
-package org.arrays;
+package main.finale.arrays;
 
-import org.util.AllInOneUtils;
+import main.finale.util.AllInOneUtils;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package org.In_Walmart.Raj_Vik.Recursion;
+package main.finale.In_Walmart.Raj_Vik.Recursion;
 
 public class String_is_pal {
     public static void main(String[] args) {

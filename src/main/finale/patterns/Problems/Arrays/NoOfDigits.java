@@ -1,4 +1,4 @@
-package org.patterns.Problems.Arrays;
+package main.finale.patterns.Problems.Arrays;
 
 public class NoOfDigits {
     public static void main(String args[])

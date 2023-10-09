@@ -1,4 +1,4 @@
-package org.patterns.Problems.Arrays;
+package main.finale.patterns.Problems.Arrays;
 
 public class GCD_of_two_numbers {
 
