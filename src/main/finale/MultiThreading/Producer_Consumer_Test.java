@@ -1,4 +1,4 @@
-package org.MultiThreading;
+package main.finale.MultiThreading;
 
 import java.util.LinkedList;
 

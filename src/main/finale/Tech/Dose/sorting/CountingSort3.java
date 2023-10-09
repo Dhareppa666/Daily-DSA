@@ -1,4 +1,4 @@
-package org.Tech.Dose.sorting;
+package main.finale.Tech.Dose.sorting;
 
 public class CountingSort3 {
 

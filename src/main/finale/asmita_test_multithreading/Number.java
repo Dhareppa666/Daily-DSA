@@ -1,4 +1,4 @@
-package org.asmita_test_multithreading;
+package main.finale.asmita_test_multithreading;
 
 class MyNumber implements Runnable {
     public synchronized void run() {

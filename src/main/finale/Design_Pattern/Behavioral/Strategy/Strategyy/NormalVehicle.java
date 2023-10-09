@@ -1,4 +1,4 @@
-package org.Design_Pattern.Behavioral.Strategy.Strategyy;
+package main.finale.Design_Pattern.Behavioral.Strategy.Strategyy;
 
 public class NormalVehicle implements Strategy{
     @Override

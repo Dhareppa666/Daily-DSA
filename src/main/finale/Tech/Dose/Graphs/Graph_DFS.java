@@ -1,4 +1,4 @@
-package org.Tech.Dose.Graphs;
+package main.finale.Tech.Dose.Graphs;
 
 // Java program to print DFS traversal from a given graph
 

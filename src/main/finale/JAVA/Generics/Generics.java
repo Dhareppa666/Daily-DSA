@@ -1,4 +1,4 @@
-package org.JAVA.Generics;
+package main.finale.JAVA.Generics;
 
 import java.util.*;
 

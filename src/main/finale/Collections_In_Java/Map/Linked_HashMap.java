@@ -1,4 +1,4 @@
-package org.Collections_In_Java.Map;
+package main.finale.Collections_In_Java.Map;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -33,9 +33,9 @@ public class Linked_HashMap {
 
         System.out.println(
                 "Contains value 'practice.geeks"
-                        + "forgeeks.org'? "
+                        + "fmain.finaleeeks.main.finale'? "
                         + lhm.containsValue("practice"
-                        + ".geeksforgeeks.org"));
+                        + ".geeksfmain.finaleeeks.main.finale"));
 
         System.out.println("delete element 'one': "
                 + lhm.remove("one"));

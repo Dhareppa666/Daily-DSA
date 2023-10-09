@@ -1,4 +1,4 @@
-package org.Tech.Dose.Arrays;
+package main.finale.Tech.Dose.Arrays;
 
 public class trapping_rain_water {
 
@@ -33,7 +33,7 @@ public class trapping_rain_water {
 
             //how much can current position trap depends on the shorter bar (木桶原理)
             if (leftMax < rightMax) {
-                //DO NOT FORGET to subtract bar height of current position
+                //DO NOT Fmain.finaleET to subtract bar height of current position
                 result += leftMax - height[left];
                 left++;
             } else {

@@ -1,4 +1,4 @@
-package org.MultiThreading.OddEvenExample;
+package main.finale.MultiThreading.OddEvenExample;
 
 //import lombok.extern.log4j.Log4j2;
 

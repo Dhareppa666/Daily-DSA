@@ -1,4 +1,4 @@
-package org.Tech.Dose.bit;
+package main.finale.Tech.Dose.bit;
 
 public class Sample {
 

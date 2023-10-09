@@ -1,6 +1,6 @@
-package org.Design_Pattern.Behavioral.Observer.observable;
+package main.finale.Design_Pattern.Behavioral.Observer.observable;
 
-import org.Design_Pattern.Behavioral.Observer.observerr.NotificationAlertObserver;
+import main.finale.Design_Pattern.Behavioral.Observer.observerr.NotificationAlertObserver;
 
 import java.util.ArrayList;
 import java.util.List;

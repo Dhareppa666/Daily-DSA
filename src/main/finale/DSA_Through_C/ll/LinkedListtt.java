@@ -1,4 +1,4 @@
-package org.DSA_Through_C.ll;
+package main.finale.DSA_Through_C.ll;
 
 public class LinkedListtt {
 

@@ -1,4 +1,4 @@
-package org.FINAL_450_DSA_Problems.Arrays;
+package main.finale.FINAL_450_DSA_Problems.Arrays;
 
 //3. Find the "Kth" max and min element of an array (It is given that all array elements are distinct.)
 public class Array_03 {

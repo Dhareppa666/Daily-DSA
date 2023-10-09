@@ -1,4 +1,4 @@
-package org.Tech.Dose.Utils;
+package main.finale.Tech.Dose.Utils;
 
 public class Lambdas {
 

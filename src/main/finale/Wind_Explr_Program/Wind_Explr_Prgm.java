@@ -1,4 +1,4 @@
-package org.Wind_Explr_Program;
+package main.finale.Wind_Explr_Program;
 
 public class Wind_Explr_Prgm {
 

@@ -1,4 +1,4 @@
-package org.Collections_In_Java.List;
+package main.finale.Collections_In_Java.List;
 
 import java.util.Vector;
 // About vector is It is synchronized, one thread is accessible at a time.

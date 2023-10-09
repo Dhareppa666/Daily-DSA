@@ -1,4 +1,4 @@
-package org.patterns.Problems;
+package main.finale.patterns.Problems;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package org.LeDurga.zzz;
+package main.finale.LeDurga.zzz;
 
 
 // Java code to explain how to generate random

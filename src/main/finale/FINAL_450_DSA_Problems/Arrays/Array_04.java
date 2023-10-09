@@ -1,4 +1,4 @@
-package org.FINAL_450_DSA_Problems.Arrays;
+package main.finale.FINAL_450_DSA_Problems.Arrays;
 
 //Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
 public class Array_04 {

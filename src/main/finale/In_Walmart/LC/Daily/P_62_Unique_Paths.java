@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.Daily;
+package main.finale.In_Walmart.LC.Daily;
 
 //https://leetcode.com/problems/unique-paths/
 public class P_62_Unique_Paths {

@@ -1,4 +1,4 @@
-package org.LeDurga.Durga_Classes;
+package main.finale.LeDurga.Durga_Classes;
 
 import java.util.ArrayList;
 

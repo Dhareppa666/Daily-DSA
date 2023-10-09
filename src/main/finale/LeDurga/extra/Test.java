@@ -1,4 +1,4 @@
-package org.LeDurga.extra;
+package main.finale.LeDurga.extra;
 
 public class Test {
     public static void main(String[] args) {

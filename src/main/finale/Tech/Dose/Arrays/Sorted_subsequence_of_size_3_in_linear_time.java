@@ -1,8 +1,8 @@
-package org.Tech.Dose.Arrays;
+package main.finale.Tech.Dose.Arrays;
 
 //Tc->O(n)
 //Sc->O(1)
-//https://www.geeksforgeeks.org/find-a-sorted-subsequence-of-size-3-in-linear-time/
+//https://www.geeksfmain.finaleeeks.main.finale/find-a-sorted-subsequence-of-size-3-in-linear-time/
 public class Sorted_subsequence_of_size_3_in_linear_time {
 
     public static void main(String[] args) {

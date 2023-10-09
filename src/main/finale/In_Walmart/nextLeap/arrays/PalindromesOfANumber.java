@@ -1,4 +1,4 @@
-package org.In_Walmart.nextLeap.arrays;
+package main.finale.In_Walmart.nextLeap.arrays;
 
 public class PalindromesOfANumber {
 

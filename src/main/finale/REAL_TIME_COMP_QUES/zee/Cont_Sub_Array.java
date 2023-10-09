@@ -1,4 +1,4 @@
-package org.REAL_TIME_COMP_QUES.zee;
+package main.finale.REAL_TIME_COMP_QUES.zee;
 
 public class Cont_Sub_Array {
 

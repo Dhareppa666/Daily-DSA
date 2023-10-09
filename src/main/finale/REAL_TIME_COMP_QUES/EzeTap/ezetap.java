@@ -1,4 +1,4 @@
-package org.REAL_TIME_COMP_QUES.EzeTap;
+package main.finale.REAL_TIME_COMP_QUES.EzeTap;
 
 import java.util.Scanner;
 

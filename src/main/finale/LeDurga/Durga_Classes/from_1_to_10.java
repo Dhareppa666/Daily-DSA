@@ -1,4 +1,4 @@
-package org.LeDurga.Durga_Classes;
+package main.finale.LeDurga.Durga_Classes;
 
 public class from_1_to_10 {
     public static void main(String[] args) {

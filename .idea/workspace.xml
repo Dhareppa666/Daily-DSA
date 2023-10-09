@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/Graph_BFS_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Strings/String_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Strings/String_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Duplicate2Pointers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Duplicate2Pointers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/FindDuplicateArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/FindDuplicateArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Interleaving_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Interleaving_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/duplicateZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/duplicateZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/gfg/abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/gfg/abc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/gfg/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/gfg/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

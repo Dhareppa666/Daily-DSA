@@ -1,4 +1,4 @@
-package org.Collections_In_Java.Queue;
+package main.finale.Collections_In_Java.Queue;
 
 import java.util.PriorityQueue;
 //The PriorityBlockingQueue is an unbounded blocking queue that uses the same ordering rules

@@ -1,6 +1,6 @@
 package main.finale.Tech.Dose.Arrays;
 
-//https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+//https://www.geeksfmain.finaleeeks.main.finale/search-an-element-in-a-sorted-and-pivoted-array/
 public class Search_an_element_in_a_sorted_and_rotated_array {
 
     public static void main(String args[]) {

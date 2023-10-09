@@ -1,4 +1,4 @@
-package org.LeetCode;
+package main.finale.LeetCode;
 
 // Java program toto generate all possible subarrays/subArrays
 // Complexity- O(n^3) */

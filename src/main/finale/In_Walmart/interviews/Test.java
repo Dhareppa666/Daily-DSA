@@ -1,4 +1,4 @@
-package org.In_Walmart.interviews;
+package main.finale.In_Walmart.interviews;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.KasService;
+package main.finale.KasService;
 
 import com.sun.net.httpserver.BasicAuthenticator;
 import com.sun.net.httpserver.HttpExchange;

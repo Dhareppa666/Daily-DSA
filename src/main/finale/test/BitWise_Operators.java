@@ -1,4 +1,4 @@
-package org.test;
+package main.finale.test;
 
 public class BitWise_Operators {
 

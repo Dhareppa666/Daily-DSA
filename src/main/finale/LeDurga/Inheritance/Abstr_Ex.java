@@ -1,4 +1,4 @@
-package org.LeDurga.Inheritance;
+package main.finale.LeDurga.Inheritance;
 
 abstract public class Abstr_Ex {
 

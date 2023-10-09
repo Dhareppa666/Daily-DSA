@@ -1,4 +1,4 @@
-package org.sorting;
+package main.finale.sorting;
 
 public class InsertionSort {
 

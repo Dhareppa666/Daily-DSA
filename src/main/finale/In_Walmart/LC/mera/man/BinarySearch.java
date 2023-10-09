@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.mera.man;
+package main.finale.In_Walmart.LC.mera.man;
 
 public class BinarySearch {
 

@@ -1,4 +1,4 @@
-package org.LeDurga.Inheritance;
+package main.finale.LeDurga.Inheritance;
 
 //If main class is present in child class, then child class main method execute, else parent class main().
 // -> this is called method hiding

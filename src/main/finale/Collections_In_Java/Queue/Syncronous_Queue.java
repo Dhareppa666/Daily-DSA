@@ -1,4 +1,4 @@
-package org.Collections_In_Java.Queue;
+package main.finale.Collections_In_Java.Queue;
 // SynchronousQueue is a special kind of BlockingQueue in which each insert
 // operation must wait for a corresponding remove operation by another thread
 // and vice versa.

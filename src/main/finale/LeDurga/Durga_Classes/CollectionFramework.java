@@ -1,4 +1,4 @@
-package org.LeDurga.Durga_Classes;
+package main.finale.LeDurga.Durga_Classes;
 
 public class CollectionFramework {
     public static void main(String[] args) {

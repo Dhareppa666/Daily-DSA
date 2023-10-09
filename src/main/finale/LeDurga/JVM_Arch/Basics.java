@@ -1,4 +1,4 @@
-package org.LeDurga.JVM_Arch;
+package main.finale.LeDurga.JVM_Arch;
 
 public class Basics {
     public static void main(String[] args) {

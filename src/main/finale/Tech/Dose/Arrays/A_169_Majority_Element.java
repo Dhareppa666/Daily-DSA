@@ -1,4 +1,4 @@
-package org.Tech.Dose.Arrays;
+package main.finale.Tech.Dose.Arrays;
 
 public class A_169_Majority_Element {
 

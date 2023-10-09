@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.Daily;
+package main.finale.In_Walmart.LC.Daily;
 
 //1545. Find Kth Bit in Nth Binary String
 public class Find_Kth_Bit_in_Nth_Binary_String {

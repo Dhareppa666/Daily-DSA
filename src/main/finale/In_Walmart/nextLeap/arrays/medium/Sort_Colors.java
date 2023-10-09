@@ -1,6 +1,6 @@
 package main.finale.In_Walmart.nextLeap.arrays.medium;
 
-import static org.In_Walmart.nextLeap.arrays.Main.PrintArray;
+import static main.finale.In_Walmart.nextLeap.arrays.Main.PrintArray;
 
 public class Sort_Colors {
 

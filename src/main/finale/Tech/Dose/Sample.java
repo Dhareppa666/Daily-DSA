@@ -1,7 +1,7 @@
-package org.Tech.Dose;
+package main.finale.Tech.Dose;
 
 
-import org.apache.commons.lang3.StringUtils;
+import main.finale.apache.commons.lang3.StringUtils;
 
 public class Sample {
 

@@ -1,4 +1,4 @@
-package org.patterns.vik;
+package main.finale.patterns.vik;
 
 public class Demo2 {
     public static void main(String[] args) {

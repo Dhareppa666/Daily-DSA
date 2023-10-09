@@ -1,5 +1,5 @@
 /*
-package org.test;
+package main.finale.test;
 
 public class varulla {
     public static void main(String[] args) {

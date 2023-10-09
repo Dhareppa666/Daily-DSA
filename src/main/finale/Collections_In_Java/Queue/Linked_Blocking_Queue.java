@@ -1,4 +1,4 @@
-package org.Collections_In_Java.Queue;
+package main.finale.Collections_In_Java.Queue;
 
 import java.util.concurrent.LinkedBlockingQueue;
 

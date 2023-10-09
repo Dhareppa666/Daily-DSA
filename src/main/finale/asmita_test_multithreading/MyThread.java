@@ -1,4 +1,4 @@
-package org.asmita_test_multithreading;
+package main.finale.asmita_test_multithreading;
 
 public class MyThread extends Thread {
 

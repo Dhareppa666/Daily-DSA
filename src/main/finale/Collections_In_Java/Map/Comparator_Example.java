@@ -1,4 +1,5 @@
-package org.Collections_In_Java.Map;
+package main.finale.Collections_In_Java.Map;
+
 // Java program to demonstrate working of Comparator
 // interface
 import java.util.*;

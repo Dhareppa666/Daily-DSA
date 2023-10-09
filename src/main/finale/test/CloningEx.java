@@ -1,4 +1,4 @@
-package org.test;
+package main.finale.test;
 
 public class CloningEx {
     public static void main(String[] args) {

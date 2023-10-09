@@ -1,4 +1,4 @@
-package org.In_Walmart.Raj_Vik.Trees;
+package main.finale.In_Walmart.Raj_Vik.Trees;
 
 public class TreeNode {
     public int val;

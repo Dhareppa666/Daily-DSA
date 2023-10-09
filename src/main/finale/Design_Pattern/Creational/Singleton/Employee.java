@@ -1,4 +1,4 @@
-package org.Design_Pattern.Creational.Singleton;
+package main.finale.Design_Pattern.Creational.Singleton;
 
 public class Employee {
 

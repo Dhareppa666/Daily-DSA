@@ -1,4 +1,4 @@
-package org.MultiThreading;
+package main.finale.MultiThreading;
 
 public class MultiThread_Demo_By_Extd {
 

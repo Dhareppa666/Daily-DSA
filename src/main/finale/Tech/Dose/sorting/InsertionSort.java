@@ -1,6 +1,6 @@
-package org.Tech.Dose.sorting;
+package main.finale.Tech.Dose.sorting;
 
-import org.util.AllInOneUtils;
+import main.finale.util.AllInOneUtils;
 
 public class InsertionSort {
     public static void main(String[] args) {

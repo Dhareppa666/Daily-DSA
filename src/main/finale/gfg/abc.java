@@ -1,4 +1,4 @@
-package org.gfg;
+package main.finale.gfg;
 
 import java.util.HashSet;
 import java.util.Set;

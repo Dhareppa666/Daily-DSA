@@ -1,4 +1,4 @@
-package org.Design_Pattern.Creational.Factory;
+package main.finale.Design_Pattern.Creational.Factory;
 
 public class ProfessionFactory {
 

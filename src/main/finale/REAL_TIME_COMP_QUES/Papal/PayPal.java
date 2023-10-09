@@ -1,4 +1,4 @@
-package org.REAL_TIME_COMP_QUES.Papal;
+package main.finale.REAL_TIME_COMP_QUES.Papal;
 
 import java.util.ArrayList;
 import java.util.Arrays;

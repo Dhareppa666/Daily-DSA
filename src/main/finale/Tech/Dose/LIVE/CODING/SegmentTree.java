@@ -1,6 +1,6 @@
-package org.Tech.Dose.LIVE.CODING;
+package main.finale.Tech.Dose.LIVE.CODING;
 
-import org.util.AllInOneUtils;
+import main.finale.util.AllInOneUtils;
 
 public class SegmentTree {
 

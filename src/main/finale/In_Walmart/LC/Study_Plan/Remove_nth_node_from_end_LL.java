@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.Study_Plan;
+package main.finale.In_Walmart.LC.Study_Plan;
 
 //https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 //19. Remove Nth Node From End of List

@@ -1,4 +1,4 @@
-package org.patterns.Problems.LC.weekly;
+package main.finale.patterns.Problems.LC.weekly;
 
 import java.util.Arrays;
 

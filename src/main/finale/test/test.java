@@ -1,4 +1,4 @@
-package org.test;
+package main.finale.test;
 
 //import javax.validation.constraints.NotNull;
 

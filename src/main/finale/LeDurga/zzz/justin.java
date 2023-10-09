@@ -1,10 +1,10 @@
-package org.LeDurga.zzz;
+package main.finale.LeDurga.zzz;
 
-////import com.sun.org.slf4j.internal.Logger;
-////import com.sun.org.slf4j.internal.LoggerFactory;
+////import com.sun.main.finale.slf4j.internal.Logger;
+////import com.sun.main.finale.slf4j.internal.LoggerFactory;
 //
-//import org.slf4j.Logger;
-//import org.slf4j.LoggerFactory;
+//import main.finale.slf4j.Logger;
+//import main.finale.slf4j.LoggerFactory;
 //
 //public class justin {
 //    private static final Logger LOGGER = LoggerFactory

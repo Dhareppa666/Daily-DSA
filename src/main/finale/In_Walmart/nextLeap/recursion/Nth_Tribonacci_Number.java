@@ -1,4 +1,4 @@
-package org.In_Walmart.nextLeap.recursion;
+package main.finale.In_Walmart.nextLeap.recursion;
 
 public class Nth_Tribonacci_Number {
 

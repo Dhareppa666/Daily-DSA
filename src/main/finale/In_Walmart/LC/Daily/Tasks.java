@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.Daily;
+package main.finale.In_Walmart.LC.Daily;
 import java.util.*;
 
 //https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/

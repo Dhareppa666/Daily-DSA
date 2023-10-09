@@ -1,4 +1,4 @@
-package org.REAL_TIME_COMP_QUES.DASSAULT;
+package main.finale.REAL_TIME_COMP_QUES.DASSAULT;
 
 public class Sample01 {
     public static void main(String[] args) {

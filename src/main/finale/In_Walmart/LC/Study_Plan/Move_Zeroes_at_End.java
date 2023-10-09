@@ -1,4 +1,4 @@
-package org.In_Walmart.LC.Study_Plan;
+package main.finale.In_Walmart.LC.Study_Plan;
 //283. https://leetcode.com/problems/move-zeroes/
 public class Move_Zeroes_at_End {
 

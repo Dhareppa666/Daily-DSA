@@ -1,4 +1,4 @@
-package org.REAL_TIME_COMP_QUES.Recro;
+package main.finale.REAL_TIME_COMP_QUES.Recro;
 
 class Parent{
     void msg(){

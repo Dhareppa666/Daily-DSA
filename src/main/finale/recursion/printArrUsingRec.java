@@ -1,4 +1,4 @@
-package org.recursion;
+package main.finale.recursion;
 
 public class printArrUsingRec {
 

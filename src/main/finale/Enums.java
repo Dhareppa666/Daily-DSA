@@ -1,4 +1,4 @@
-package org;
+package main.finale;
 
 enum Enums {
     D,E,S;

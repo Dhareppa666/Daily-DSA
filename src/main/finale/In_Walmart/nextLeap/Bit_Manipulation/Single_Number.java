@@ -1,4 +1,4 @@
-package org.In_Walmart.nextLeap.Bit_Manipulation;
+package main.finale.In_Walmart.nextLeap.Bit_Manipulation;
 
 public class Single_Number {
 

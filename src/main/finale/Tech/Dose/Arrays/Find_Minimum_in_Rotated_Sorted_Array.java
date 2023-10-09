@@ -1,4 +1,4 @@
-package org.Tech.Dose.Arrays;
+package main.finale.Tech.Dose.Arrays;
 
 //Find Minimum in Rotated Sorted Array
 public class Find_Minimum_in_Rotated_Sorted_Array {

@@ -1,4 +1,4 @@
-package org.DSA_Through_C.Questiones;
+package main.finale.DSA_Through_C.Questiones;
 
 public class Sum_Of_Digits {
 

@@ -3,7 +3,7 @@ package main.finale.In_Walmart.core_java;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-import org.In_Walmart.core_java.Employee;
+import main.finale.In_Walmart.core_java.Employee;
 
 public class SimpleJdbcConnection {
 

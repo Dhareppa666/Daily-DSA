@@ -1,4 +1,4 @@
-package org.LeDurga.Inheritance;
+package main.finale.LeDurga.Inheritance;
 
 public class Childu extends Abstr_Ex{
     @Override

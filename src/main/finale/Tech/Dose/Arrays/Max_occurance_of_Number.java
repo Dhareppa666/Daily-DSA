@@ -1,6 +1,6 @@
-package org.Tech.Dose.Arrays;
+package main.finale.Tech.Dose.Arrays;
 
-import org.util.AllInOneUtils;
+import main.finale.util.AllInOneUtils;
 
 public class Max_occurance_of_Number {
 

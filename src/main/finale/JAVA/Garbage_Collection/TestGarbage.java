@@ -1,4 +1,4 @@
-package org.JAVA.Garbage_Collection;
+package main.finale.JAVA.Garbage_Collection;
 
 public class TestGarbage {
 
