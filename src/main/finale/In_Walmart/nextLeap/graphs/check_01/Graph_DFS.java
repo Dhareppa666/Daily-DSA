@@ -1,4 +1,4 @@
-package main.finale.In_Walmart.nextLeap.graphs;
+package main.finale.In_Walmart.nextLeap.graphs.check_01;
 
 import java.util.*;
 

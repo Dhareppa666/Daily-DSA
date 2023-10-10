@@ -1,7 +1,7 @@
 package main.finale.Tech.Dose;
 
 
-import main.finale.apache.commons.lang3.StringUtils;
+//import main.finale.apache.commons.lang3.StringUtils;
 
 public class Sample {
 
@@ -11,10 +11,10 @@ public class Sample {
         //System.out.println(majorityElement(new int[]{1,1,2,2,2,1,2, 9, 6,3}));
         //countBits(5);
        // System.out.println(findSubString("GEEKSGEEKSFOR"));
-        System.out.println(StringUtils.leftPad("abcd", 8, '0'));
-        System.out.println(StringUtils.leftPad(StringUtils.right("123456", 9), 11, '0'));
-        System.out.println(StringUtils.right("123456", 9)); // Res: 123456 [string is lesser than the length so return same]
-        System.out.println(StringUtils.right("1234567890ABCDEFGHIJ", 9)); // Res: Last 9 Digits will be picked : BCDEFGHIJ
+//        System.out.println(StringUtils.leftPad("abcd", 8, '0'));
+//        System.out.println(StringUtils.leftPad(StringUtils.right("123456", 9), 11, '0'));
+//        System.out.println(StringUtils.right("123456", 9)); // Res: 123456 [string is lesser than the length so return same]
+//        System.out.println(StringUtils.right("1234567890ABCDEFGHIJ", 9)); // Res: Last 9 Digits will be picked : BCDEFGHIJ
     }
 
     public static int hammingWeight(int n) {

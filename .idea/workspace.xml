@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_02/Max_Area_of_Island.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Strings/String_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Strings/String_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Duplicate2Pointers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Duplicate2Pointers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/FindDuplicateArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/FindDuplicateArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Interleaving_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Interleaving_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/duplicateZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/duplicateZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/gfg/abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/gfg/abc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/gfg/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/gfg/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/isArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/arrays/isArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/GraphEdgeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_01/GraphEdgeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/GraphExample_AdjList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_01/GraphExample_AdjList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/GraphExample_AdjMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_01/GraphExample_AdjMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/Graph_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_01/Graph_BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/Graph_BFS_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_01/Graph_BFS_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/Graph_DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_01/Graph_DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/InwardAdjacencyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_01/InwardAdjacencyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Tech/Dose/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Tech/Dose/Sample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,13 +198,13 @@
       <recent name="main.finale.In_Walmart.nextLeap.arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Graph_BFS_2">
+  <component name="RunManager" selected="Application.Max_Area_of_Island">
     <configuration name="Graph_BFS$Graph_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.Graph_BFS$Graph_DFS" />
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.check_01.Graph_BFS$Graph_DFS" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.check_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,11 +213,11 @@
       </method>
     </configuration>
     <configuration name="Graph_BFS_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.Graph_BFS_2" />
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.check_01.Graph_BFS_2" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.check_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,11 +226,11 @@
       </method>
     </configuration>
     <configuration name="Graph_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.Graph_DFS" />
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.check_01.Graph_DFS" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.check_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InwardAdjacencyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.InwardAdjacencyList" />
+    <configuration name="Max_Area_of_Island" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.check_02.Max_Area_of_Island" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.check_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Max_Area_of_Island" />
         <item itemvalue="Application.Graph_BFS_2" />
         <item itemvalue="Application.Graph_BFS$Graph_DFS" />
         <item itemvalue="Application._34_Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
         <item itemvalue="Application.Graph_DFS" />
-        <item itemvalue="Application.InwardAdjacencyList" />
       </list>
     </recent_temporary>
   </component>
