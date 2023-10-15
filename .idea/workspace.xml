@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/_23_Merge_k_Sorted_Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/Find_Median_from_Data_Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/Find_Median_from_Data_Stream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,11 +182,11 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.finale.In_Walmart.nextLeap.HeapAndQueue" />
       <recent name="main.finale.In_Walmart.nextLeap.graphs" />
       <recent name="main.finale.In_Walmart.Top100" />
       <recent name="main.finale.In_Walmart.nextLeap.tries" />
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
-      <recent name="main.finale.In_Walmart.nextLeap.arrays" />
     </key>
   </component>
   <component name="RunManager" selected="Application.HeapSort">
