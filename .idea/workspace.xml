@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_2251_Number_of_Flowers_in_Full_Bloom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_02/Island_Perimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_02/_1254_Number_of_Closed_Islands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_02/_1971_Find_if_Path_Exists_in_Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_02/_733_Flood_Fill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1095_Find_in_Mountain_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_2742_Painting_the_Walls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_02/Word_Ladder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/check_02/snakesAndLadders.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Count_Distinct_Substrings_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/tries/Count_Distinct_Substrings_II.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,33 +193,7 @@
       <recent name="main.finale.In_Walmart.nextLeap.arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._994_Rotting_Oranges">
-    <configuration name="Graph_BFS$Graph_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.check_01.Graph_BFS$Graph_DFS" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.check_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Graph_BFS_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.check_01.Graph_BFS_2" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.check_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._2742_Painting_the_Walls">
     <configuration name="Max_Area_of_Island" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.check_02.Max_Area_of_Island" />
       <module name="RestAPI_Basics" />
@@ -233,8 +207,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_34_Find_First_and_Last_Position_of_Element_in_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._34_Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
+    <configuration name="Word_Ladder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.check_02.Word_Ladder" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.check_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2742_Painting_the_Walls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._2742_Painting_the_Walls" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
@@ -259,13 +246,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="snakesAndLadders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.check_02.snakesAndLadders" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.check_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._2742_Painting_the_Walls" />
+        <item itemvalue="Application.Word_Ladder" />
+        <item itemvalue="Application.snakesAndLadders" />
         <item itemvalue="Application._994_Rotting_Oranges" />
         <item itemvalue="Application.Max_Area_of_Island" />
-        <item itemvalue="Application.Graph_BFS_2" />
-        <item itemvalue="Application.Graph_BFS$Graph_DFS" />
-        <item itemvalue="Application._34_Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
       </list>
     </recent_temporary>
   </component>

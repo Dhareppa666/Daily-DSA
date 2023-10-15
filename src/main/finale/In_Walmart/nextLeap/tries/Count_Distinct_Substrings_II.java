@@ -19,6 +19,24 @@ public class Count_Distinct_Substrings_II {
         }
     }
 
+    public int countDistinctSubstrings(String s) {
+        int n = s.length();
+
+        //    Intialize the root of  the trie.
+        TrieNode head = new TrieNode();
+
+        //    Insert all suffixes into the trie.
+        for (int i = 0; i < n; i++) {
+            insert(s, i, head);
+        }
+
+        //    Count the total number of nodes in the trie.
+        int totalNodes = countNodes(head);
+
+        //    Return the number of distinct substrings.
+        return totalNodes;
+    }
+
     //    Function to insert a string into the trie.
     private void insert(String s, int i, TrieNode head) {
         TrieNode temp = head;
@@ -56,23 +74,6 @@ public class Count_Distinct_Substrings_II {
         return subTreeNodes;
     }
 
-    public int countDistinctSubstrings(String s) {
-        int n = s.length();
-
-        //    Intialize the root of  the trie.
-        TrieNode head = new TrieNode();
-
-        //    Insert all suffixes into the trie.
-        for (int i = 0; i < n; i++) {
-            insert(s, i, head);
-        }
-
-        //    Count the total number of nodes in the trie.
-        int totalNodes = countNodes(head);
-
-        //    Return the number of distinct substrings.
-        return totalNodes;
-    }
 }
 
 //Time complexity: O(N2).
