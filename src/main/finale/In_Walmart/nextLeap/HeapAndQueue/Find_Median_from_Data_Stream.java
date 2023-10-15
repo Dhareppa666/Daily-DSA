@@ -12,7 +12,7 @@ class Find_Median_from_Data_Stream {
     }
 
     public void addNum(int num) {
-        if (maxHeap.size() == 0 || maxHeap.peek() >= num) {
+        if (maxHeap.size() == 0 || num <= maxHeap.peek()) {
             maxHeap.add(num);
         } else {
             minHeap.add(num);
