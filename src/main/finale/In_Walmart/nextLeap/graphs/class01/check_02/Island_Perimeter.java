@@ -1,4 +1,4 @@
-package main.finale.In_Walmart.nextLeap.graphs.check_02;
+package main.finale.In_Walmart.nextLeap.graphs.class01.check_02;
 
 //The perimeter is the 16 yellow stripes in the image above
 public class Island_Perimeter {

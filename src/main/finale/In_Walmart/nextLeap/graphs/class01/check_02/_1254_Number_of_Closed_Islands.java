@@ -1,4 +1,4 @@
-package main.finale.In_Walmart.nextLeap.graphs.check_02;
+package main.finale.In_Walmart.nextLeap.graphs.class01.check_02;
 
 public class _1254_Number_of_Closed_Islands {
 
