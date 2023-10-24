@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class02/Connecting_Cities_With_Minimum_Cost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Fractional_Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Kruskals_algo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Prims_Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/shortest_path/Dijkstras_Algorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
