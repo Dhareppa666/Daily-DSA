@@ -1,4 +1,4 @@
-package main.finale.In_Walmart.nextLeap.graphs;
+package main.finale.In_Walmart.nextLeap.graphs.class01.check_01;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class02/Connecting_Cities_With_Minimum_Cost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Fractional_Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Kruskals_algo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Prims_Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/shortest_path/Dijkstras_Algorithm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Arrays/Array_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Strings/String_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/FINAL_450_DSA_Problems/Strings/String_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Duplicate2Pointers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Duplicate2Pointers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/FindDuplicateArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/FindDuplicateArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Interleaving_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Interleaving_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/Jumps_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/arrays/duplicateZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/arrays/duplicateZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/gfg/abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/gfg/abc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/gfg/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/gfg/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,20 +187,20 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.finale.In_Walmart.nextLeap.HeapAndQueue" />
       <recent name="main.finale.In_Walmart.nextLeap.graphs" />
       <recent name="main.finale.In_Walmart.Top100" />
       <recent name="main.finale.In_Walmart.nextLeap.tries" />
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
-      <recent name="main.finale.In_Walmart.nextLeap.arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Graph_BFS_2">
-    <configuration name="Graph_BFS$Graph_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.Graph_BFS$Graph_DFS" />
+  <component name="RunManager" selected="Application.Zero_One_Knapsack">
+    <configuration name="Dijkstras_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.shortest_path.Dijkstras_Algorithm" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.shortest_path.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Graph_BFS_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.Graph_BFS_2" />
+    <configuration name="Fractional_Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.Fractional_Knapsack" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Graph_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.Graph_DFS" />
+    <configuration name="Kruskals_algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.Kruskals_algo" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InwardAdjacencyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.InwardAdjacencyList" />
+    <configuration name="Prims_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.Prims_Algorithm" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_34_Find_First_and_Last_Position_of_Element_in_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._34_Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
+    <configuration name="Zero_One_Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.Zero_One_Knapsack" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Graph_BFS_2" />
-        <item itemvalue="Application.Graph_BFS$Graph_DFS" />
-        <item itemvalue="Application._34_Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
-        <item itemvalue="Application.Graph_DFS" />
-        <item itemvalue="Application.InwardAdjacencyList" />
+        <item itemvalue="Application.Zero_One_Knapsack" />
+        <item itemvalue="Application.Dijkstras_Algorithm" />
+        <item itemvalue="Application.Fractional_Knapsack" />
+        <item itemvalue="Application.Prims_Algorithm" />
+        <item itemvalue="Application.Kruskals_algo" />
       </list>
     </recent_temporary>
   </component>
@@ -1128,6 +1123,16 @@
           <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/trees/Pre_In_Post_Order_Traversal_Iterative.java</url>
           <line>58</line>
           <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/HeapSort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/HeapSort.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="216" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
