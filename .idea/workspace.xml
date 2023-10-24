@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class02/_2050_Parallel_Courses_III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class02/Connecting_Cities_With_Minimum_Cost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Fractional_Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Kruskals_algo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Prims_Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/shortest_path/Dijkstras_Algorithm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/recursion/Climbing_Stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/recursion/Climbing_Stairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,13 +194,13 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._2050_Parallel_Courses_III">
-    <configuration name="DSU_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class02.DSU_Example" />
+  <component name="RunManager" selected="Application.Zero_One_Knapsack">
+    <configuration name="Dijkstras_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.shortest_path.Dijkstras_Algorithm" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class02.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.shortest_path.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.HeapAndQueue.HeapSort" />
+    <configuration name="Fractional_Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.Fractional_Knapsack" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.HeapAndQueue.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopologicalSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class02.TopologicalSort" />
+    <configuration name="Kruskals_algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.Kruskals_algo" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class02.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_119_Pascals_Triangle_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._119_Pascals_Triangle_II" />
+    <configuration name="Prims_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.Prims_Algorithm" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2050_Parallel_Courses_III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class02._2050_Parallel_Courses_III" />
+    <configuration name="Zero_One_Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.Zero_One_Knapsack" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class02.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._2050_Parallel_Courses_III" />
-        <item itemvalue="Application.TopologicalSort" />
-        <item itemvalue="Application.DSU_Example" />
-        <item itemvalue="Application._119_Pascals_Triangle_II" />
-        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.Zero_One_Knapsack" />
+        <item itemvalue="Application.Dijkstras_Algorithm" />
+        <item itemvalue="Application.Fractional_Knapsack" />
+        <item itemvalue="Application.Prims_Algorithm" />
+        <item itemvalue="Application.Kruskals_algo" />
       </list>
     </recent_temporary>
   </component>
