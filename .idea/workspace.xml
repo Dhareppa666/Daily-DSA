@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05" />
+    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_779_K_th_Symbol_in_Grammar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_823_Binary_Trees_With_Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/class01/Longest_Common_Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/class01/bottom_up/Coin_Change_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/class01/bottom_up/Fibonacci_Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/class01/top_down/Fibonacci_Series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,13 +194,13 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zero_One_Knapsack">
-    <configuration name="Dijkstras_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.shortest_path.Dijkstras_Algorithm" />
+  <component name="RunManager" selected="Application.Longest_Common_Subsequence">
+    <configuration name="Coin_Change_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.Coin_Change_Problem" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.shortest_path.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fractional_Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.Fractional_Knapsack" />
+    <configuration name="DP_Bottom_UP_Fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.DP_Bottom_UP_Fib" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kruskals_algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.Kruskals_algo" />
+    <configuration name="Fibonacci_Series (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.Fibonacci_Series" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +234,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prims_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.Prims_Algorithm" />
+    <configuration name="Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.Fibonacci_Series" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.class01.top_down.Fibonacci_Series" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Longest_Common_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.class01.Longest_Common_Subsequence" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.class01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zero_One_Knapsack" />
-        <item itemvalue="Application.Dijkstras_Algorithm" />
-        <item itemvalue="Application.Fractional_Knapsack" />
-        <item itemvalue="Application.Prims_Algorithm" />
-        <item itemvalue="Application.Kruskals_algo" />
+        <item itemvalue="Application.Longest_Common_Subsequence" />
+        <item itemvalue="Application.Coin_Change_Problem" />
+        <item itemvalue="Application.Fibonacci_Series (1)" />
+        <item itemvalue="Application.Fibonacci_Series" />
+        <item itemvalue="Application.Fibonacci_Series" />
       </list>
     </recent_temporary>
   </component>
