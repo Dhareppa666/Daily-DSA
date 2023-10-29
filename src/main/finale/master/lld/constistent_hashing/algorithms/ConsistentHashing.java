@@ -33,7 +33,7 @@ public class ConsistentHashing implements Router {
         nodePositions.put(node, new CopyOnWriteArrayList<>());
         for (int i = 0; i < pointMultiplier; i++) {
             for (int j = 0; j < node.getWeight(); j++) {
-                final Object point = hashFunction.apply((i * pointMultiplier + j) + node.getId());
+                Long point = hashFunction.apply((i * pointMultiplier + j) + node.getId());
                 nodePositions.get(node).add(point);
                 nodeMappings.put(point, node);
             }
@@ -48,7 +48,7 @@ public class ConsistentHashing implements Router {
 
     public Node getAssignedNode(Request request) {
         final Long key = hashFunction.apply(request.getId());
-        final Object entry = nodeMappings.higherEntry(key);
+        final Map.Entry<Long, Node> entry = nodeMappings.higherEntry(key);
         if (entry == null) {
             return nodeMappings.firstEntry().getValue();
         } else {
