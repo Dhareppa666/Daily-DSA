@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_779_K_th_Symbol_in_Grammar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_823_Binary_Trees_With_Factors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/class01/Longest_Common_Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/class01/bottom_up/Coin_Change_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/class01/bottom_up/Fibonacci_Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/class01/top_down/Fibonacci_Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_1220_Count_Vowels_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_5_Longest_Palindromic_Substring_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/master/lld/constistent_hashing/LoadBalancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/master/lld/constistent_hashing/algorithms/ConsistentHashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/master/lld/constistent_hashing/algorithms/Router.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/master/lld/constistent_hashing/algorithms/WeightedRoundRobin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/master/lld/constistent_hashing/models/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/master/lld/constistent_hashing/models/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/master/lld/constistent_hashing/models/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/fedEx/Round_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/fedEx/Round_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/makeMyTrip/Round_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/oracle/Round_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/samsung/Round_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI_Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI_Basics.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +177,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/finale/master/lld2/constistent_hashing" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
@@ -177,11 +189,11 @@
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/finale/master/lld2/constistent_hashing" />
+      <recent name="$PROJECT_DIR$/src/main/finale/master/lld" />
+      <recent name="$PROJECT_DIR$/src/main/finale/master" />
       <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100" />
       <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs" />
-      <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine" />
-      <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design" />
-      <recent name="C:\My WorkSpace\DSA\src\main\java\org\Fiserv\types" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
@@ -194,7 +206,7 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Longest_Common_Subsequence">
+  <component name="RunManager" selected="Application._1220_Count_Vowels_Permutation">
     <configuration name="Coin_Change_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.Coin_Change_Problem" />
       <module name="RestAPI_Basics" />
@@ -208,33 +220,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP_Bottom_UP_Fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.DP_Bottom_UP_Fib" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Fibonacci_Series (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.Fibonacci_Series" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.class01.bottom_up.Fibonacci_Series" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
@@ -273,12 +259,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zero_One_Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.Zero_One_Knapsack" />
+    <configuration name="_1220_Count_Vowels_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._1220_Count_Vowels_Permutation" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_5_Longest_Palindromic_Substring_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._5_Longest_Palindromic_Substring_01" />
+      <module name="RestAPI_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._1220_Count_Vowels_Permutation" />
+        <item itemvalue="Application._5_Longest_Palindromic_Substring_01" />
         <item itemvalue="Application.Longest_Common_Subsequence" />
         <item itemvalue="Application.Coin_Change_Problem" />
         <item itemvalue="Application.Fibonacci_Series (1)" />
-        <item itemvalue="Application.Fibonacci_Series" />
-        <item itemvalue="Application.Fibonacci_Series" />
       </list>
     </recent_temporary>
   </component>
