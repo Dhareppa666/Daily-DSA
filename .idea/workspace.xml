@@ -8,11 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/Best_Time_to_Buy_and_Sell_Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/Coin_Change_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/_198_House_Robber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/makeMyTrip/Round_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/samsung/Round_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/master/lld/constistent_hashing/algorithms/ConsistentHashing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/master/lld/constistent_hashing/algorithms/ConsistentHashing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/_62_Unique_Paths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/_62_Unique_Paths.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1134,11 +1133,6 @@
           <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/HeapSort.java</url>
           <line>22</line>
           <option name="timeStamp" value="216" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/dp/_198_House_Robber.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="218" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
