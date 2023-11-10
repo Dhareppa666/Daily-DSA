@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class02/Connecting_Cities_With_Minimum_Cost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Fractional_Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Kruskals_algo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/mst/Prims_Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/shortest_path/Dijkstras_Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_2265_Count_Nodes_Equal_to_Average_of_Subtree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +163,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/finale/master/lld2/constistent_hashing" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
@@ -177,11 +175,11 @@
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/finale/master/lld2/constistent_hashing" />
+      <recent name="$PROJECT_DIR$/src/main/finale/master/lld" />
+      <recent name="$PROJECT_DIR$/src/main/finale/master" />
       <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/Top100" />
       <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs" />
-      <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine" />
-      <recent name="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design" />
-      <recent name="C:\My WorkSpace\DSA\src\main\java\org\Fiserv\types" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
@@ -194,13 +192,13 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zero_One_Knapsack">
-    <configuration name="Dijkstras_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.shortest_path.Dijkstras_Algorithm" />
+  <component name="RunManager" selected="Application._1759_Count_Number_of_Homogenous_Substrings">
+    <configuration name="Best_Time_to_Buy_and_Sell_Stock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.Best_Time_to_Buy_and_Sell_Stock" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.shortest_path.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fractional_Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.Fractional_Knapsack" />
+    <configuration name="Coin_Change_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.Coin_Change_II" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kruskals_algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.Kruskals_algo" />
+    <configuration name="_1220_Count_Vowels_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._1220_Count_Vowels_Permutation" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prims_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.Prims_Algorithm" />
+    <configuration name="_1759_Count_Number_of_Homogenous_Substrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._1759_Count_Number_of_Homogenous_Substrings" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.mst.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zero_One_Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.Zero_One_Knapsack" />
+    <configuration name="_198_House_Robber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp._198_House_Robber" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class03.knapsack.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zero_One_Knapsack" />
-        <item itemvalue="Application.Dijkstras_Algorithm" />
-        <item itemvalue="Application.Fractional_Knapsack" />
-        <item itemvalue="Application.Prims_Algorithm" />
-        <item itemvalue="Application.Kruskals_algo" />
+        <item itemvalue="Application._1759_Count_Number_of_Homogenous_Substrings" />
+        <item itemvalue="Application._198_House_Robber" />
+        <item itemvalue="Application.Coin_Change_II" />
+        <item itemvalue="Application.Best_Time_to_Buy_and_Sell_Stock" />
+        <item itemvalue="Application._1220_Count_Vowels_Permutation" />
       </list>
     </recent_temporary>
   </component>

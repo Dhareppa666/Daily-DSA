@@ -1,4 +1,3 @@
 /target
-/.idea
+.idea
 /RestAPI_Basics.iml
-.idea/workspace.xml

@@ -22,6 +22,8 @@
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/org/Tech/Dose" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/streams" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/JUnit_By_ME" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/finale/master/lld/service-orchestrator/src/test/java" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/finale/master/lld/service-orchestrator/src" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
