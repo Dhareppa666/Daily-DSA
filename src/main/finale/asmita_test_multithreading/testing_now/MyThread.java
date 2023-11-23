@@ -6,6 +6,8 @@ public class MyThread extends Thread{
 
     printer printer;
 
+    int counter;
+
     public MyThread(String name, printer printer){
         super();
         this.name = name;
