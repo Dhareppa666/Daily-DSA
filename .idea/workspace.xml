@@ -8,10 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/uniqus/Round_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/_100139_Matrix_Similarity_After_Cyclic_Shifts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Collections_In_Java/Queue/Linked_Blocking_Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Collections_In_Java/Queue/Linked_Blocking_Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/asmita_test_multithreading/testing_now/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/asmita_test_multithreading/testing_now/MyThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,13 +192,13 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Coin_Change_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.Coin_Change_II" />
+  <component name="RunManager" selected="Application._100139_Matrix_Similarity_After_Cyclic_Shifts">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Collections_In_Java.Test" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.*" />
+          <option name="PATTERN" value="main.finale.Collections_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Collections_In_Java.Test" />
+    <configuration name="_100139_Matrix_Similarity_After_Cyclic_Shifts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Weekly._100139_Matrix_Similarity_After_Cyclic_Shifts" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Collections_In_Java.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.LC.Weekly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._100139_Matrix_Similarity_After_Cyclic_Shifts" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.client" />
         <item itemvalue="Application._1759_Count_Number_of_Homogenous_Substrings" />
         <item itemvalue="Application._198_House_Robber" />
-        <item itemvalue="Application.Coin_Change_II" />
       </list>
     </recent_temporary>
   </component>
@@ -1133,6 +1131,11 @@
           <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/HeapSort.java</url>
           <line>22</line>
           <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/_100139_Matrix_Similarity_After_Cyclic_Shifts.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="217" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
