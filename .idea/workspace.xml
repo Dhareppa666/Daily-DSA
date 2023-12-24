@@ -8,8 +8,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/_100139_Matrix_Similarity_After_Cyclic_Shifts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_Mine/Parking_Lot_System.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/handson/Graph_BFS_DFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_01/Graph_BFS_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_01/InwardAdjacencyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_01/InwardAdjacencyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/Island_Perimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/Island_Perimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/Max_Area_of_Island.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/Max_Area_of_Island.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_1254_Number_of_Closed_Islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_1254_Number_of_Closed_Islands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_1971_Find_if_Path_Exists_in_Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_1971_Find_if_Path_Exists_in_Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_733_Flood_Fill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_733_Flood_Fill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_994_Rotting_Oranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_994_Rotting_Oranges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Fractional_Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Fractional_Knapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Zero_One_Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Zero_One_Knapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/shortest_path/Dijkstras_Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/shortest_path/Dijkstras_Algorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +175,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/finale/master/lld2/constistent_hashing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23164557" />
@@ -185,20 +197,20 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.finale.In_Walmart.nextLeap.graphs.class01.check_02" />
       <recent name="main.finale.In_Walmart.nextLeap.HeapAndQueue" />
       <recent name="main.finale.In_Walmart.nextLeap.graphs" />
       <recent name="main.finale.In_Walmart.Top100" />
       <recent name="main.finale.In_Walmart.nextLeap.tries" />
-      <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._100139_Matrix_Similarity_After_Cyclic_Shifts">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Collections_In_Java.Test" />
+  <component name="RunManager" selected="Application.Max_Area_of_Island_02">
+    <configuration name="GraphExample_AdjList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.GraphExample_AdjList" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Collections_In_Java.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_100139_Matrix_Similarity_After_Cyclic_Shifts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Weekly._100139_Matrix_Similarity_After_Cyclic_Shifts" />
+    <configuration name="GraphExample_AdjMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.GraphExample_AdjMatrix" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Weekly.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1759_Count_Number_of_Homogenous_Substrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._1759_Count_Number_of_Homogenous_Substrings" />
+    <configuration name="InwardAdjacencyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.InwardAdjacencyList" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_198_House_Robber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp._198_House_Robber" />
+    <configuration name="Max_Area_of_Island" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_02.Max_Area_of_Island" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +257,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.asmita_test_multithreading.testing_now.client" />
+    <configuration name="Max_Area_of_Island_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_02.Max_Area_of_Island_02" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.asmita_test_multithreading.testing_now.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._100139_Matrix_Similarity_After_Cyclic_Shifts" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.client" />
-        <item itemvalue="Application._1759_Count_Number_of_Homogenous_Substrings" />
-        <item itemvalue="Application._198_House_Robber" />
+        <item itemvalue="Application.Max_Area_of_Island_02" />
+        <item itemvalue="Application.Max_Area_of_Island" />
+        <item itemvalue="Application.InwardAdjacencyList" />
+        <item itemvalue="Application.GraphExample_AdjMatrix" />
+        <item itemvalue="Application.GraphExample_AdjList" />
       </list>
     </recent_temporary>
   </component>
