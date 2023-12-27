@@ -8,20 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_Mine/Parking_Lot_System.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/handson/Graph_BFS_DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_01/Graph_BFS_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_01/InwardAdjacencyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_01/InwardAdjacencyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/Island_Perimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/Island_Perimeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/Max_Area_of_Island.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/Max_Area_of_Island.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_1254_Number_of_Closed_Islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_1254_Number_of_Closed_Islands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_1971_Find_if_Path_Exists_in_Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_1971_Find_if_Path_Exists_in_Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_733_Flood_Fill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_733_Flood_Fill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_994_Rotting_Oranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class01/check_02/_994_Rotting_Oranges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Fractional_Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Fractional_Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Zero_One_Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/knapsack/Zero_One_Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/shortest_path/Dijkstras_Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/graphs/class03/shortest_path/Dijkstras_Algorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +141,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="952" />
     <option name="width" value="975" />
@@ -169,19 +162,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/finale/In_Walmart/System_Design_src_not_mine" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.23164557" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
@@ -204,20 +192,7 @@
       <recent name="main.finale.In_Walmart.nextLeap.tries" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Max_Area_of_Island_02">
-    <configuration name="GraphExample_AdjList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.GraphExample_AdjList" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="GraphExample_AdjMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.GraphExample_AdjMatrix" />
       <module name="RestAPI_Basics" />
@@ -240,6 +215,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Daily-DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -270,15 +252,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Max_Area_of_Island_02" />
         <item itemvalue="Application.Max_Area_of_Island" />
         <item itemvalue="Application.InwardAdjacencyList" />
         <item itemvalue="Application.GraphExample_AdjMatrix" />
-        <item itemvalue="Application.GraphExample_AdjList" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-liberica-11.0.21-249ae16d76d6-3adecf9f" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
