@@ -1,8 +1,6 @@
 package main.finale.In_Walmart.nextLeap.graphs.class03.knapsack;
 
-
 import java.util.*;
-
 
 class Fractional_Knapsack {
 

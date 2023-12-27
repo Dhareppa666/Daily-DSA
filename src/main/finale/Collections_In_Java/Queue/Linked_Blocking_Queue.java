@@ -3,6 +3,7 @@ package main.finale.Collections_In_Java.Queue;
 import java.util.concurrent.LinkedBlockingQueue;
 
 public class Linked_Blocking_Queue {
+    
     public static void main(String[] args) {
         // define capacity of LinkedBlockingQueue
         int capacityOfQueue = 7;

@@ -8,7 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/_2265_Count_Nodes_Equal_to_Average_of_Subtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,6 +141,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="952" />
     <option name="width" value="975" />
@@ -157,19 +162,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/finale/master/lld2/constistent_hashing" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.23164557" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
@@ -185,20 +185,20 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.finale.In_Walmart.nextLeap.graphs.class01.check_02" />
       <recent name="main.finale.In_Walmart.nextLeap.HeapAndQueue" />
       <recent name="main.finale.In_Walmart.nextLeap.graphs" />
       <recent name="main.finale.In_Walmart.Top100" />
       <recent name="main.finale.In_Walmart.nextLeap.tries" />
-      <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._1759_Count_Number_of_Homogenous_Substrings">
-    <configuration name="Best_Time_to_Buy_and_Sell_Stock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.Best_Time_to_Buy_and_Sell_Stock" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GraphExample_AdjMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.GraphExample_AdjMatrix" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Coin_Change_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp.Coin_Change_II" />
+    <configuration name="InwardAdjacencyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.InwardAdjacencyList" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +219,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1220_Count_Vowels_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._1220_Count_Vowels_Permutation" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Daily-DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Max_Area_of_Island" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_02.Max_Area_of_Island" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1759_Count_Number_of_Homogenous_Substrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.LC.Daily._1759_Count_Number_of_Homogenous_Substrings" />
+    <configuration name="Max_Area_of_Island_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_02.Max_Area_of_Island_02" />
       <module name="RestAPI_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.LC.Daily.*" />
+          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.graphs.class01.check_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,28 +252,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_198_House_Robber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.In_Walmart.nextLeap.dp._198_House_Robber" />
-      <module name="RestAPI_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.In_Walmart.nextLeap.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._1759_Count_Number_of_Homogenous_Substrings" />
-        <item itemvalue="Application._198_House_Robber" />
-        <item itemvalue="Application.Coin_Change_II" />
-        <item itemvalue="Application.Best_Time_to_Buy_and_Sell_Stock" />
-        <item itemvalue="Application._1220_Count_Vowels_Permutation" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Max_Area_of_Island_02" />
+        <item itemvalue="Application.Max_Area_of_Island" />
+        <item itemvalue="Application.InwardAdjacencyList" />
+        <item itemvalue="Application.GraphExample_AdjMatrix" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-liberica-11.0.21-249ae16d76d6-3adecf9f" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -1131,6 +1143,11 @@
           <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/nextLeap/HeapAndQueue/HeapSort.java</url>
           <line>22</line>
           <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Weekly/_100139_Matrix_Similarity_After_Cyclic_Shifts.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="217" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

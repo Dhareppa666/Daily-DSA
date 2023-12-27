@@ -1,11 +1,10 @@
 package main.finale.In_Walmart.nextLeap.graphs.class01.check_01;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 class InwardAdjacencyList {
-    List<List<Integer>> inwardEdges;
     int vertices;
+    List<List<Integer>> inwardEdges;
 
     public InwardAdjacencyList(int vertices) {
         this.vertices = vertices;

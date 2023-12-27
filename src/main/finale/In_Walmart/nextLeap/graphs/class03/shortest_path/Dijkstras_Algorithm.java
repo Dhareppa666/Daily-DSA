@@ -57,7 +57,7 @@ public class Dijkstras_Algorithm {
 
         System.out.println("Shortest Distances from Source:");
         for (int i = 0; i < V; i++) {
-            System.out.println("Source to " + i + ": " + distance[i]);
+            System.out.println("Source from "+source+" to " + i + "-> " + distance[i]);
         }
     }
 }

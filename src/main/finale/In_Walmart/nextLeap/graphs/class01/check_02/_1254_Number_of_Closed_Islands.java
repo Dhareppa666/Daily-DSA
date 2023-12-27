@@ -1,5 +1,6 @@
 package main.finale.In_Walmart.nextLeap.graphs.class01.check_02;
 
+//https://leetcode.com/problems/number-of-closed-islands/description/
 public class _1254_Number_of_Closed_Islands {
 
     public int closedIsland(int[][] grid) {

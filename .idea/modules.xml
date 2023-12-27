@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RestAPI_Basics.iml" filepath="$PROJECT_DIR$/RestAPI_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Daily-DSA.iml" filepath="$PROJECT_DIR$/Daily-DSA.iml" />
     </modules>
   </component>
 </project>
