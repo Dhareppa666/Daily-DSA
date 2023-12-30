@@ -1,6 +1,8 @@
 package main.finale.Design_Pattern.Creational.Prototype;
 
-public class Doctor extends Profession{
+import main.finale.aa.Design_Pattern.Creational.Prototype.Profession;
+
+public class Doctor extends Profession {
 
 	@Override
 	public void print() {

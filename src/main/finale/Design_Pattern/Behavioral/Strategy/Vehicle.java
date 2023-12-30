@@ -1,6 +1,6 @@
 package main.finale.Design_Pattern.Behavioral.Strategy;
 
-import main.finale.Design_Pattern.Behavioral.Strategy.Strategyy.Strategy;
+import main.finale.aa.Design_Pattern.Behavioral.Strategy.Strategyy.Strategy;
 
 public class Vehicle {
 

@@ -1,6 +1,8 @@
 package main.finale.Design_Pattern.Creational.Prototype;
 
-public class Teacher extends Profession{
+import main.finale.aa.Design_Pattern.Creational.Prototype.Profession;
+
+public class Teacher extends Profession {
 
 	@Override
 	public void print() {

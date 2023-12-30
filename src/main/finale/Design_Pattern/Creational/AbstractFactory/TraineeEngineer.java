@@ -1,6 +1,8 @@
 package main.finale.Design_Pattern.Creational.AbstractFactory;
 
-public class TraineeEngineer implements Profession{
+import main.finale.aa.Design_Pattern.Creational.AbstractFactory.Profession;
+
+public class TraineeEngineer implements Profession {
 
     @Override
     public void print() {

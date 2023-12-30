@@ -1,5 +1,8 @@
 package main.finale.Design_Pattern.Creational.Prototype;
 
+import main.finale.aa.Design_Pattern.Creational.Prototype.Profession;
+import main.finale.aa.Design_Pattern.Creational.Prototype.ProfessionCache;
+
 public class ProtoTypePatternMainClass {
 
     public static void main(String[] args) {

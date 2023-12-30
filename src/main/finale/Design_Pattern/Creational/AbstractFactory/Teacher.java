@@ -1,5 +1,7 @@
 package main.finale.Design_Pattern.Creational.AbstractFactory;
 
+import main.finale.aa.Design_Pattern.Creational.AbstractFactory.Profession;
+
 public class Teacher implements Profession {
 
     @Override

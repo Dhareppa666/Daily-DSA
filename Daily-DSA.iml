@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/JUnit_By_ME" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/streams" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/finale/aa/Java/streams" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/finale/aa/Java/unit_testing" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

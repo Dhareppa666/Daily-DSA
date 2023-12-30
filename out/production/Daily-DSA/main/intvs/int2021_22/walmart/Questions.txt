@@ -1,0 +1,8 @@
+[WALLMART] - 9th July 2021 06:28PM
+1. Design a stack with push, pop and min operations
+2. find one triplet such that indexes are in increasing order so as values at index
+3. WAP for power of x [if one val is null, or infinity]
+4. Find pivot in sorted rotated array
+
+--
+project detailed discussion

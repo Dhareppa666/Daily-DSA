@@ -1,7 +1,12 @@
 package main.finale.Design_Pattern.Creational.AbstractFactory;
 
 
-public class TraineeProfessionAbstractFactory extends AbstractFactory{
+import main.finale.aa.Design_Pattern.Creational.AbstractFactory.AbstractFactory;
+import main.finale.aa.Design_Pattern.Creational.AbstractFactory.Profession;
+import main.finale.aa.Design_Pattern.Creational.AbstractFactory.TraineeEngineer;
+import main.finale.aa.Design_Pattern.Creational.AbstractFactory.TraineeTeacher;
+
+public class TraineeProfessionAbstractFactory extends AbstractFactory {
 
     @Override
     public Profession getProfession(String typeOfProfession){
