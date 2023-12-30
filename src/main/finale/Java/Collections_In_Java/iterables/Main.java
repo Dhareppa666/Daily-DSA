@@ -1,6 +1,6 @@
 package main.finale.Java.Collections_In_Java.iterables;
 
-import main.finale.aa.Java.Collections_In_Java.iterables.OurGenericList;
+import main.finale.Java.Collections_In_Java.iterables.OurGenericList;
 
 public class Main {
 

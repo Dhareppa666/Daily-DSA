@@ -1,6 +1,6 @@
 package main.finale.Java.file_handling;
 
-import main.finale.aa.Java.file_handling.AllInOneUtils;
+import main.finale.Java.file_handling.AllInOneUtils;
 
 import java.io.*;
 import java.util.Scanner;

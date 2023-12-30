@@ -1,7 +1,7 @@
 package main.finale.Design_Pattern.Creational.AbstractFactory;
 
 
-import main.finale.aa.Design_Pattern.Creational.AbstractFactory.Profession;
+import main.finale.Design_Pattern.Creational.AbstractFactory.Profession;
 
 public abstract class AbstractFactory {
 

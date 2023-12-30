@@ -1,6 +1,6 @@
 package main.finale.Java.multi_threading.OddEvenExample;
 
-import main.finale.aa.Java.multi_threading.OddEvenExample.OddEvenEx;
+import main.finale.Java.multi_threading.OddEvenExample.OddEvenEx;
 
 public class Generator implements Runnable {
 

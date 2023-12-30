@@ -8,6 +8,8 @@
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/streams" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/aa/Java/streams" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/aa/Java/unit_testing" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/finale/Java/streams" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/finale/Java/unit_testing" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

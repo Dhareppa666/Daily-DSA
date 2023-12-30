@@ -4,11 +4,11 @@ public class MyThread extends Thread{
 
     String name;
 
-    main.finale.aa.Java.multi_threading.testing_now.printer printer;
+    main.finale.Java.multi_threading.testing_now.printer printer;
 
     int counter;
 
-    public MyThread(String name, main.finale.aa.Java.multi_threading.testing_now.printer printer){
+    public MyThread(String name, main.finale.Java.multi_threading.testing_now.printer printer){
         super();
         this.name = name;
         this.printer = printer;

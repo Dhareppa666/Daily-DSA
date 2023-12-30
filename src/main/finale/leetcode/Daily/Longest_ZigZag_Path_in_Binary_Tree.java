@@ -1,6 +1,6 @@
 package main.finale.leetcode.Daily;
 
-import main.finale.aa.DSA.trees.TreeNode;
+import main.finale.DSA.trees.TreeNode;
 
 // 1372. Longest ZigZag Path in a Binary Tree
 public class Longest_ZigZag_Path_in_Binary_Tree {

@@ -1,7 +1,7 @@
 package main.finale.DSA.trees.Questions;
 
-import main.finale.aa.DSA.trees.Utils;
-import main.finale.aa.DSA.trees.TreeNode;
+import main.finale.DSA.trees.Utils;
+import main.finale.DSA.trees.TreeNode;
 import java.util.*;
 
 //https://leetcode.com/problems/maximum-depth-of-binary-tree/

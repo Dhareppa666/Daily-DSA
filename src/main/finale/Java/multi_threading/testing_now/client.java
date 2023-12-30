@@ -1,7 +1,7 @@
 package main.finale.Java.multi_threading.testing_now;
 
-import main.finale.aa.Java.multi_threading.testing_now.MyThread;
-import main.finale.aa.Java.multi_threading.testing_now.printer;
+import main.finale.Java.multi_threading.testing_now.MyThread;
+import main.finale.Java.multi_threading.testing_now.printer;
 
 public class client {
 

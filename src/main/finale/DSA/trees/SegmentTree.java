@@ -1,6 +1,6 @@
 package main.finale.DSA.trees;
 
-import main.finale.aa.Java.file_handling.AllInOneUtils;
+import main.finale.Java.file_handling.AllInOneUtils;
 
 public class SegmentTree {
 

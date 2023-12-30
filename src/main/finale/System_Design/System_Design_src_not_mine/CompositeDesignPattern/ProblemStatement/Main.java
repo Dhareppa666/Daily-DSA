@@ -1,7 +1,7 @@
 package main.finale.System_Design.System_Design_src_not_mine.CompositeDesignPattern.ProblemStatement;
 
-import main.finale.aa.System_Design.System_Design_src_not_mine.CompositeDesignPattern.ProblemStatement.Directory;
-import main.finale.aa.System_Design.System_Design_src_not_mine.CompositeDesignPattern.ProblemStatement.File;
+import main.finale.System_Design.System_Design_src_not_mine.CompositeDesignPattern.ProblemStatement.Directory;
+import main.finale.System_Design.System_Design_src_not_mine.CompositeDesignPattern.ProblemStatement.File;
 
 public class Main {
 

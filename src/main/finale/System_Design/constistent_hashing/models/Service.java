@@ -1,6 +1,6 @@
 package main.finale.System_Design.constistent_hashing.models;
 
-import main.finale.aa.System_Design.constistent_hashing.algorithms.Router;
+import main.finale.System_Design.constistent_hashing.algorithms.Router;
 
 public class Service {
     private final Router router;

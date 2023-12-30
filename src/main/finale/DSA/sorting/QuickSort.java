@@ -1,6 +1,6 @@
 package main.finale.DSA.sorting;
 
-import main.finale.aa.Java.file_handling.AllInOneUtils;
+import main.finale.Java.file_handling.AllInOneUtils;
 
 public class QuickSort {
 

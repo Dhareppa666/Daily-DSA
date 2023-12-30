@@ -1,9 +1,9 @@
 package main.finale.Design_Pattern.Behavioral.Strategy;
 
-import main.finale.aa.Design_Pattern.Behavioral.Strategy.GoodsVehicle;
-import main.finale.aa.Design_Pattern.Behavioral.Strategy.OffroadVehicle;
-import main.finale.aa.Design_Pattern.Behavioral.Strategy.SportyVehile;
-import main.finale.aa.Design_Pattern.Behavioral.Strategy.Vehicle;
+import main.finale.Design_Pattern.Behavioral.Strategy.GoodsVehicle;
+import main.finale.Design_Pattern.Behavioral.Strategy.OffroadVehicle;
+import main.finale.Design_Pattern.Behavioral.Strategy.SportyVehile;
+import main.finale.Design_Pattern.Behavioral.Strategy.Vehicle;
 
 public class Main {
 
