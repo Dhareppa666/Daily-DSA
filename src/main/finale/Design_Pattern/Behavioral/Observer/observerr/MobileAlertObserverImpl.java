@@ -1,8 +1,9 @@
 package main.finale.Design_Pattern.Behavioral.Observer.observerr;
 
-import main.finale.Design_Pattern.Behavioral.Observer.observable.StockObservable;
+import main.finale.aa.Design_Pattern.Behavioral.Observer.observable.StockObservable;
+import main.finale.aa.Design_Pattern.Behavioral.Observer.observerr.NotificationAlertObserver;
 
-public class MobileAlertObserverImpl implements NotificationAlertObserver{
+public class MobileAlertObserverImpl implements NotificationAlertObserver {
 
     String number;
 

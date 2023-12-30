@@ -1,6 +1,6 @@
 package main.finale.Design_Pattern.Behavioral.Observer.observable;
 
-import main.finale.Design_Pattern.Behavioral.Observer.observerr.NotificationAlertObserver;
+import main.finale.aa.Design_Pattern.Behavioral.Observer.observerr.NotificationAlertObserver;
 
 public interface StockObservable {
 
