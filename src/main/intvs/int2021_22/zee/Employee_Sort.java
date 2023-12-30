@@ -1,4 +1,4 @@
-package main.finale.REAL_TIME_COMP_QUES.zee;
+package main.intvs.int2021_22.zee;
 
 import java.util.ArrayList;
 import java.util.Collections;

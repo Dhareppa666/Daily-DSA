@@ -1,4 +1,4 @@
-package main.finale.REAL_TIME_COMP_QUES.Subex;
+package main.intvs.int2021_22.Subex;
 
 final class Employee_Immutable {
     private final String name;

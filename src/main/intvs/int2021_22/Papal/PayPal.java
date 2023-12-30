@@ -1,4 +1,4 @@
-package main.finale.REAL_TIME_COMP_QUES.Papal;
+package main.intvs.int2021_22.Papal;
 
 import java.util.ArrayList;
 import java.util.Arrays;

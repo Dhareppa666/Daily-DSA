@@ -1,4 +1,4 @@
-package main.finale.REAL_TIME_COMP_QUES.epam;
+package main.intvs.int2021_22.epam;
 
 import java.util.ArrayList;
 import java.util.List;

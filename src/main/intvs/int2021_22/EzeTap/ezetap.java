@@ -1,4 +1,4 @@
-package main.finale.REAL_TIME_COMP_QUES.EzeTap;
+package main.intvs.int2021_22.EzeTap;
 
 import java.util.Scanner;
 

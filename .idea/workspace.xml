@@ -8,227 +8,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/LevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily-DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Daily-DSA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Duplicate2Pointers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Duplicate2Pointers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Sort_0_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Sort_0_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Sort_0_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Sort_0_1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/LL_with_Custom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/LL_with_Custom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/isPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/sorting/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/trees/Concepts/Level_Order_Traversal_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Concepts/Level_Order_Traversal_BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/trees/Concepts/Traversal_Only_IN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Concepts/Traversal_Only_IN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/trees/Concepts/Traversal_Only_POST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Concepts/Traversal_Only_POST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/trees/Concepts/Traversal_Only_PRE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Concepts/Traversal_Only_PRE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/trees/Questions/Maximum_Depth_of_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Questions/Maximum_Depth_of_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/trees/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/SegmentTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/trees/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/trees/_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Observer/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Observer/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Observer/observable/IPhoneStockObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Observer/observable/IPhoneStockObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Observer/observable/StockObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Observer/observable/StockObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Observer/observerr/MobileAlertObserverImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Observer/observerr/MobileAlertObserverImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/GoodsVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/GoodsVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/OffroadVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/OffroadVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/SportyVehile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/SportyVehile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/Strategyy/NormalVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/Strategyy/NormalVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/Strategyy/SpecialVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/Strategyy/SpecialVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Behavioral/Strategy/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/AbstractFactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/AbstractFactoryProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/Engineer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/ProfessionAbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/ProfessionAbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/TraineeEngineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/TraineeEngineer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/TraineeProfessionAbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/TraineeProfessionAbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/TraineeTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/TraineeTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/AbstractFactory/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Factory/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Factory/Doctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Factory/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Factory/Engineer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Factory/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Factory/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Factory/ProfessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Factory/ProfessionFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Factory/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Factory/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Prototype/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Prototype/Doctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Prototype/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Prototype/Engineer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Prototype/ProfessionCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Prototype/ProfessionCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Prototype/ProtoTypePatternMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Prototype/ProtoTypePatternMainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Prototype/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Creational/Prototype/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/Collections_In_Java/iterables/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/Collections_In_Java/iterables/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/Generics/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/Generics/Generics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/file_handling/FileReadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/file_handling/FileReadWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/jdbc_connection/JdbcConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/jdbc_connection/JdbcConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MultithreadingJOIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MultithreadingJOIN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample/Generator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/Producer_Consumer_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/Producer_Consumer_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/testing_now/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/testing_now/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/testing_now/client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/testing_now/client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/ProblemStatement/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/ProblemStatement/Directory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/ProblemStatement/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/ProblemStatement/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/BalanceSheetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/BalanceSheetController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Expense.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Expense.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/ExpenseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/ExpenseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Split/EqualExpenseSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Split/EqualExpenseSplit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Split/ExpenseSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Split/ExpenseSplit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Split/PercentageExpenseSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Split/PercentageExpenseSplit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Split/Split.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Split/Split.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Split/UnequalExpenseSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/Split/UnequalExpenseSplit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/SplitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Expense/SplitFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Group/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Group/Group.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Group/GroupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Group/GroupController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Splitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/Splitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/User/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/User/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/User/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/UserExpenseBalanceSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/System_Design_src_not_mine/DesignSplitwise/UserExpenseBalanceSheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/constistent_hashing/LoadBalancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/constistent_hashing/LoadBalancer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/constistent_hashing/algorithms/ConsistentHashing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/constistent_hashing/algorithms/ConsistentHashing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/constistent_hashing/algorithms/Router.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/constistent_hashing/algorithms/Router.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/constistent_hashing/algorithms/WeightedRoundRobin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/constistent_hashing/algorithms/WeightedRoundRobin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/System_Design/constistent_hashing/models/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/System_Design/constistent_hashing/models/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/Longest_ZigZag_Path_in_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/Longest_ZigZag_Path_in_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2265_Count_Nodes_Equal_to_Average_of_Subtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2265_Count_Nodes_Equal_to_Average_of_Subtree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Study_Plan/Remove_nth_node_from_end_LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Study_Plan/Remove_nth_node_from_end_LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/strings/Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Bit_Manipulation/Counting_Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/math/Counting_Bits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Bit_Manipulation/Power_of_Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/math/Power_of_Four.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Bit_Manipulation/Single_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/math/Single_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Bit_Manipulation/Single_Number_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/math/Single_Number_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Bit_Manipulation/Swap_Two_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/math/Swap_Two_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Bit_Manipulation/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/math/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Bit_Manipulation/convertToBase7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/math/convertToBase7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Blind_75/My_Calendar_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/My_Calendar_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Blind_75/_1071_Greatest_Common_Divisor_of_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_1071_Greatest_Common_Divisor_of_Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Blind_75/_605_Can_Place_Flowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_605_Can_Place_Flowers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/stack_and_queues/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/HeapAndQueue/Find_Median_from_Data_Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/HeapAndQueue/Find_Median_from_Data_Stream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/HeapAndQueue/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/HeapAndQueue/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/HeapAndQueue/Kth_Largest_Element_in_a_Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/HeapAndQueue/Kth_Largest_Element_in_a_Stream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/HeapAndQueue/MaxHeapEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/HeapAndQueue/MaxHeapEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/HeapAndQueue/Meeting_Rooms_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/HeapAndQueue/Meeting_Rooms_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/HeapAndQueue/Merge_Intervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/HeapAndQueue/Merge_Intervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/HeapAndQueue/_23_Merge_k_Sorted_Lists_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/HeapAndQueue/_23_Merge_k_Sorted_Lists_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/HeapAndQueue/_23_Merge_k_Sorted_Lists_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/HeapAndQueue/_23_Merge_k_Sorted_Lists_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/SQL/Sql_Queries.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/extras/Sql_Queries.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/TODOs/My_Todos.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Best_Time_to_Buy_and_Sell_Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Best_Time_to_Buy_and_Sell_Stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Find_Pivot_Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Find_Pivot_Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Find_the_Pivot_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Find_the_Pivot_Integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Get_all_Divisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Get_all_Divisors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Maximum_Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Maximum_Subarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Move_Zeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Move_Zeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/PalindromesOfANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/PalindromesOfANumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Second_Largest_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Second_Largest_Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Shuffle_the_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Shuffle_the_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Single_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Single_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Swap_nums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Swap_nums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/Time_complexities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Time_complexities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/find_missing_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/find_missing_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/isArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/isArmstrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/medium/Find_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Find_Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/medium/Find_Peak_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Find_Peak_Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/medium/MaxDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/MaxDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/medium/Partition_Array_Into_Three_Parts_With_Equal_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Partition_Array_Into_Three_Parts_With_Equal_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/medium/Search_an_element_in_a_sorted_and_rotated_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Search_an_element_in_a_sorted_and_rotated_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/medium/Serach_in_sorted_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Serach_in_sorted_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/medium/Sort_Colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Sort_Colors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/medium/Sum_of_Square_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Sum_of_Square_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/medium/Three_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/medium/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Two_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/medium/numOfSubarraysMedium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/numOfSubarraysMedium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/arrays/sumOfRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/sumOfRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/backTracking/Queens_wala.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/Queens_wala.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/backTracking/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/Subsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/backTracking/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/backTracking/X_Min_Cost_Climbing_Stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/X_Min_Cost_Climbing_Stairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/dp/Best_Time_to_Buy_and_Sell_Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/Best_Time_to_Buy_and_Sell_Stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/dp/Coin_Change_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/Coin_Change_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/dp/_198_House_Robber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/_198_House_Robber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/dp/_62_Unique_Paths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/_62_Unique_Paths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/dp/_63_Unique_Paths_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/_63_Unique_Paths_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/dp/_980_Unique_Paths_III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/_980_Unique_Paths_III.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/dp/class01/Longest_Common_Subsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/class01/Longest_Common_Subsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/dp/class01/bottom_up/Coin_Change_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/class01/bottom_up/Coin_Change_Problem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/dp/class01/bottom_up/Fibonacci_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/class01/bottom_up/Fibonacci_Series.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/dp/class01/top_down/Fibonacci_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/class01/top_down/Fibonacci_Series.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/extras/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/math/MaximumOddBinaryNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_01/GraphEdgeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_01/GraphEdgeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_01/GraphExample_AdjList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_01/GraphExample_AdjList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_01/GraphExample_AdjMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_01/GraphExample_AdjMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_01/Graph_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_01/Graph_BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_01/Graph_DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_01/Graph_DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_01/InwardAdjacencyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_01/InwardAdjacencyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_02/Island_Perimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_02/Island_Perimeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_02/Max_Area_of_Island.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_02/Max_Area_of_Island.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_02/Word_Ladder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_02/Word_Ladder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_02/_1254_Number_of_Closed_Islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_02/_1254_Number_of_Closed_Islands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_02/_1971_Find_if_Path_Exists_in_Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_02/_1971_Find_if_Path_Exists_in_Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_02/_733_Flood_Fill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_02/_733_Flood_Fill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_02/_994_Rotting_Oranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_02/_994_Rotting_Oranges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class01/check_02/snakesAndLadders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_02/snakesAndLadders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class02/Connecting_Cities_With_Minimum_Cost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class02/Connecting_Cities_With_Minimum_Cost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class02/Course_Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class02/Course_Schedule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class02/DSU_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class02/DSU_Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class02/TopologicalSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class02/TopologicalSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class02/_2050_Parallel_Courses_III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class02/_2050_Parallel_Courses_III.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class03/knapsack/Fractional_Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class03/knapsack/Fractional_Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class03/knapsack/Zero_One_Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class03/knapsack/Zero_One_Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class03/mst/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class03/mst/Edge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class03/mst/Kruskals_algo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class03/mst/Kruskals_algo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class03/mst/Prims_Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class03/mst/Prims_Algorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/class03/shortest_path/Dijkstras_Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class03/shortest_path/Dijkstras_Algorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/graphs/handson/Graph_BFS_DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/handson/Graph_BFS_DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/linkedlist/Add_Two_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/Add_Two_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/linkedlist/Binary_to_Decimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/Binary_to_Decimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/linkedlist/Delete_Node_in_LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/Delete_Node_in_LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/linkedlist/Linked_ListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/Linked_ListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/linkedlist/Palindrome_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/Palindrome_Linked_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/linkedlist/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/linkedlist/_138_Copy_List_with_Random_Pointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/_138_Copy_List_with_Random_Pointer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/linkedlist/_92_Reverse_Linked_List_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/linked_list/_92_Reverse_Linked_List_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/recursion/Basic_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/recursion/Basic_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/recursion/Climbing_Stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/recursion/Climbing_Stairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/recursion/Nth_Tribonacci_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/recursion/Nth_Tribonacci_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/stack/example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/strings/extra_characters_in_a_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/strings/extra_characters_in_a_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/strings/repeated_substring_pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/strings/repeated_substring_pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/Array_Representation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Array_Representation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/Binary_Tree_Pruning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Binary_Tree_Pruning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/Create_Binary_Tree_From_Descriptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Create_Binary_Tree_From_Descriptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/Invert_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Invert_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/LevelOrderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/Minimum_Depth_of_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Minimum_Depth_of_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/Pre_In_Post_Order_Traversal_Iterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Pre_In_Post_Order_Traversal_Iterative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/Pre_In_Post_Order_Traversal_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Pre_In_Post_Order_Traversal_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/Validate_Binary_Search_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Validate_Binary_Search_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/_110_Balanced_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/_110_Balanced_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/_543_Diameter_of_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/_543_Diameter_of_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/trees/searchBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/searchBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/tries/Count_Distinct_Substrings_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/tries/Count_Distinct_Substrings_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/tries/Count_Distinct_Substrings_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/tries/Count_Distinct_Substrings_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/tries/FileSystem_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/tries/FileSystem_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/tries/FileSystem_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/tries/FileSystem_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/tries/Implement_Trie_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/tries/Implement_Trie_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/tries/Implement_Trie_Prefix_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/tries/Implement_Trie_Prefix_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/tries/Longest_Common_Prefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/tries/Longest_Common_Prefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/tries/TrieExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/tries/TrieExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/tries/_421_Maximum_XOR_of_Two_Numbers_in_an_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/tries/_421_Maximum_XOR_of_Two_Numbers_in_an_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/tries/util/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/tries/util/TrieNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/nextLeap/tries/util/TrieNodeExt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/tries/util/TrieNodeExt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/DASSAULT/Sample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/DASSAULT/Sample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/EzeTap/ezetap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/EzeTap/ezetap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/EzeTap/ezetap02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/EzeTap/ezetap02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/Papal/PayPal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/Papal/PayPal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/Radisys/Radisys_Round02_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/Radisys/Radisys_Round02_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/Radisys/Radisys_Round_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/Radisys/Radisys_Round_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/Radisys/Radisys_Round_02_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/Radisys/Radisys_Round_02_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/Recro/Sample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/Recro/Sample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/Recro/Sample02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/Recro/Sample02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/Recro/Sample03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/Recro/Sample03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/Subex/Subex_Round_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/Subex/Subex_Round_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/all_in_one/Employe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/all_in_one/Employe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/all_in_one/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/all_in_one/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/all_in_one/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/all_in_one/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/cropin/Cropin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/cropin/Cropin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/epam/SubAray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/epam/SubAray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/nokia/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/nokia/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/nokia/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/nokia/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/nokia/TestException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/nokia/TestException2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/walmart/Queue_Using_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/walmart/Queue_Using_Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/walmart/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/walmart/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/zee/Comparator_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/zee/Comparator_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/zee/Cont_Sub_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/zee/Cont_Sub_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/zee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/zee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/zee/Employee_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/zee/Employee_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2021_22/zee/zee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/zee/zee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -382,35 +187,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.FileReadWrite.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Pre_In_Post_Order_Traversal_Iterative.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.Solution1.executor": "Run",
-    "Application.SwapStringChars.executor": "Run",
-    "Application.TEST.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Test2.executor": "Run",
-    "Application.Test_Ex.executor": "Run",
-    "Application.Test_Num.executor": "Run",
-    "Application.abc.executor": "Run",
-    "Application.duplicateZeros.executor": "Run",
-    "Application.formatting.executor": "Run",
-    "Application.masking.executor": "Run",
-    "Application.masking_Using_SB.executor": "Run",
-    "Application.staticVarTesting.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "liberica-11",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/finale/DSA",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FileReadWrite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pre_In_Post_Order_Traversal_Iterative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapStringChars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TEST.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_Ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_Num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.abc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.duplicateZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.formatting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.masking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.masking_Using_SB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.staticVarTesting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;liberica-11&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/finale/DSA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
@@ -436,7 +241,7 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AmstrongNumber">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="AmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.DSA.arrays.AmstrongNumber" />
       <module name="Daily-DSA" />
@@ -476,6 +281,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.intvs.int2022_23.moothot.Test" />
+      <module name="Daily-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.intvs.int2022_23.moothot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.Java.lambda.test" />
       <module name="Daily-DSA" />
@@ -502,6 +320,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.AmstrongNumber" />
         <item itemvalue="Application.Count_Distinct_Substrings_I" />
         <item itemvalue="Application.test" />
