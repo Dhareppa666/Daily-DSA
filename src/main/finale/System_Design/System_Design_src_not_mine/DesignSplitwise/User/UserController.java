@@ -1,6 +1,6 @@
 package main.finale.System_Design.System_Design_src_not_mine.DesignSplitwise.User;
 
-import main.finale.aa.System_Design.System_Design_src_not_mine.DesignSplitwise.User.User;
+import main.finale.System_Design.System_Design_src_not_mine.DesignSplitwise.User.User;
 
 import java.util.ArrayList;
 import java.util.List;

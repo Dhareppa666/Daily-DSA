@@ -1,7 +1,5 @@
 package main.finale.DSA.trees;
 
-import main.finale.aa.DSA.trees.TreeNode;
-
 public class Utils {
 
     public static TreeNode getTree(){

@@ -1,6 +1,6 @@
 package main.finale.Java.Generics;
 
-import main.finale.aa.Java.Generics.MyGenericClass;
+import main.finale.Java.Generics.MyGenericClass;
 
 import java.util.List;
 

@@ -1,7 +1,5 @@
 package main.finale.leetcode.Study_Plan;
 
-import main.finale.aa.leetcode.Study_Plan.ListNode;
-
 //https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 //19. Remove Nth Node From End of List
 public class Remove_nth_node_from_end_LL {

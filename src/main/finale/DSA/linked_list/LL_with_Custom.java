@@ -1,17 +1,5 @@
 package main.finale.DSA.linked_list;
 
-class Node {
-    Integer val;
-    Node next;
-
-    public Node(){}
-
-    public Node(int val){
-        this.val = val;
-        this.next = null;
-    }
-}
-
 public class LL_with_Custom {
 
     Node head;

@@ -1,6 +1,6 @@
 package main.finale.leetcode.Daily;
 
-import main.finale.aa.DSA.trees.TreeNode;
+import main.finale.DSA.trees.TreeNode;
 
 public class _2265_Count_Nodes_Equal_to_Average_of_Subtree {
 

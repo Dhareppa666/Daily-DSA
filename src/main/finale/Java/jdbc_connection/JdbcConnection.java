@@ -1,6 +1,6 @@
 package main.finale.Java.jdbc_connection;
 
-import main.finale.aa.Java.jdbc_connection.Employee;
+import main.finale.Java.jdbc_connection.Employee;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

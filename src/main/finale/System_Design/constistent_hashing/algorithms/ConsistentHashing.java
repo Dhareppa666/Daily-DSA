@@ -1,9 +1,9 @@
 package main.finale.System_Design.constistent_hashing.algorithms;
 
 
-import main.finale.aa.System_Design.constistent_hashing.algorithms.Router;
-import main.finale.aa.System_Design.constistent_hashing.models.Node;
-import main.finale.aa.System_Design.constistent_hashing.models.Request;
+import main.finale.System_Design.constistent_hashing.algorithms.Router;
+import main.finale.System_Design.constistent_hashing.models.Node;
+import main.finale.System_Design.constistent_hashing.models.Request;
 
 import java.util.List;
 import java.util.Map;

@@ -1,6 +1,6 @@
 package main.finale.DSA.trees;
 
-import main.finale.aa.DSA.trees.TreeNode;
+import main.finale.DSA.trees.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

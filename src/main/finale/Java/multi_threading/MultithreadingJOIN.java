@@ -1,7 +1,7 @@
 package main.finale.Java.multi_threading;
 
-import main.finale.aa.Java.multi_threading.MyThread;
-import main.finale.aa.Java.multi_threading.ObjectX;
+import main.finale.Java.multi_threading.MyThread;
+import main.finale.Java.multi_threading.ObjectX;
 
 public class MultithreadingJOIN {
 

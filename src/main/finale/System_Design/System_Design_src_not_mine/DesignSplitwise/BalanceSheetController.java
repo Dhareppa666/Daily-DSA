@@ -1,9 +1,9 @@
 package main.finale.System_Design.System_Design_src_not_mine.DesignSplitwise;
 
-import main.finale.aa.System_Design.System_Design_src_not_mine.DesignSplitwise.Balance;
-import main.finale.aa.System_Design.System_Design_src_not_mine.DesignSplitwise.Expense.Split.Split;
-import main.finale.aa.System_Design.System_Design_src_not_mine.DesignSplitwise.User.User;
-import main.finale.aa.System_Design.System_Design_src_not_mine.DesignSplitwise.UserExpenseBalanceSheet;
+import main.finale.System_Design.System_Design_src_not_mine.DesignSplitwise.Balance;
+import main.finale.System_Design.System_Design_src_not_mine.DesignSplitwise.Expense.Split.Split;
+import main.finale.System_Design.System_Design_src_not_mine.DesignSplitwise.User.User;
+import main.finale.System_Design.System_Design_src_not_mine.DesignSplitwise.UserExpenseBalanceSheet;
 
 import java.util.List;
 import java.util.Map;

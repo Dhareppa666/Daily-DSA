@@ -1,3 +1,0 @@
-
-1. Swap numbers using xor.
-2.

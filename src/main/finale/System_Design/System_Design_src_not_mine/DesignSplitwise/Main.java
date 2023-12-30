@@ -1,6 +1,6 @@
 package main.finale.System_Design.System_Design_src_not_mine.DesignSplitwise;
 
-import main.finale.aa.System_Design.System_Design_src_not_mine.DesignSplitwise.Splitwise;
+import main.finale.System_Design.System_Design_src_not_mine.DesignSplitwise.Splitwise;
 
 public class Main {
 

@@ -1,8 +1,8 @@
 package main.finale.System_Design.System_Design_src_not_mine.CompositeDesignPattern.Solution1WithCompositeDesign;
 
-import main.finale.aa.System_Design.System_Design_src_not_mine.CompositeDesignPattern.Solution1WithCompositeDesign.Directory;
-import main.finale.aa.System_Design.System_Design_src_not_mine.CompositeDesignPattern.Solution1WithCompositeDesign.File;
-import main.finale.aa.System_Design.System_Design_src_not_mine.CompositeDesignPattern.Solution1WithCompositeDesign.FileSystem;
+import main.finale.System_Design.System_Design_src_not_mine.CompositeDesignPattern.Solution1WithCompositeDesign.Directory;
+import main.finale.System_Design.System_Design_src_not_mine.CompositeDesignPattern.Solution1WithCompositeDesign.File;
+import main.finale.System_Design.System_Design_src_not_mine.CompositeDesignPattern.Solution1WithCompositeDesign.FileSystem;
 
 public class Main {
     public static void main(String args[]){
