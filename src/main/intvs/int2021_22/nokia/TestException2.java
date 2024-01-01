@@ -1,4 +1,4 @@
-package main.finale.REAL_TIME_COMP_QUES.nokia;
+package main.intvs.int2021_22.nokia;
 
 import java.io.IOException;
 

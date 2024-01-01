@@ -1,4 +1,4 @@
-package main.intvs.int2021_22.walmart;
+package main.intvs.int2021_22.int2021_22.walmart;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package main.finale.REAL_TIME_COMP_QUES.all_in_one;
+package main.intvs.int2021_22.all_in_one;
 
 // Employee.java
 final class Employee {

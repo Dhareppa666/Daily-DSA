@@ -1,4 +1,4 @@
-package main.finale.REAL_TIME_COMP_QUES.DASSAULT;
+package main.intvs.int2021_22.int2021_22.DASSAULT;
 
 public class Sample01 {
     public static void main(String[] args) {

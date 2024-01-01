@@ -1,4 +1,4 @@
-package main.finale.REAL_TIME_COMP_QUES.Radisys;
+package main.intvs.int2021_22.Radisys;
 
 class Radisys{
     // If we have this means Stack Overflow.
