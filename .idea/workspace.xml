@@ -8,8 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_446_Arithmetic_Slices_II_Subsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,6 +180,7 @@
     "Application.Test_Num.executor": "Run",
     "Application._1897_Redistribute_Characters_to_Make_All_Strings_Equal.executor": "Run",
     "Application._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.executor": "Debug",
+    "Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty.executor": "Run",
     "Application._455_Assign_Cookies.executor": "Run",
     "Application._797_All_Paths_From_Source_to_Target.executor": "Run",
     "Application._841_Keys_and_Rooms.executor": "Debug",
@@ -225,7 +226,7 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions">
+  <component name="RunManager" selected="Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty">
     <configuration name="Graph_DFS_Learn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.DSA.graphs.Graph_DFS_Learn" />
       <module name="Daily-DSA" />
@@ -241,6 +242,19 @@
     </configuration>
     <configuration name="_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions" />
+      <module name="Daily-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.leetcode.Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2870_Minimum_Number_of_Operations_to_Make_Array_Empty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._2870_Minimum_Number_of_Operations_to_Make_Array_Empty" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
@@ -278,19 +292,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_dist_nums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.count_dist_nums" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -304,11 +305,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty" />
         <item itemvalue="Application._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions" />
         <item itemvalue="Application.Graph_DFS_Learn" />
         <item itemvalue="Application._841_Keys_and_Rooms" />
         <item itemvalue="Application._797_All_Paths_From_Source_to_Target" />
-        <item itemvalue="Application.count_dist_nums" />
       </list>
     </recent_temporary>
   </component>
