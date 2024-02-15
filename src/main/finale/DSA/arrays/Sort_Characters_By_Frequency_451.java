@@ -8,7 +8,7 @@ import java.util.Map;
 public class Sort_Characters_By_Frequency_451 {
 
     public static void main(String[] args) {
-//        System.out.println(frequencySort("tree"));
+        System.out.println(frequencySort("tree"));
         System.out.println(frequencySort2("tree"));
     }
 

@@ -13,6 +13,17 @@ public class Baloons {
         System.out.println(findMinArrowShots(new int[][]{{-2147483648,-2147483645},{2147483646,2147483647}}));
     }
 
+    static class Point implements Comparable<Point>{
+        int start;
+        int end;
+        public Point(int start, int end){this.start=start; this.end=end;}
+
+        @Override
+        public int compareTo(Point obj){
+            return this.start - obj.start;
+        }
+    }
+
     public static int findMinArrowShots(int[][] points) {
         if(points.length<=1){
             return points.length;
@@ -42,15 +53,4 @@ public class Baloons {
         return res;
     }
 
-}
-
-class Point implements Comparable<Point>{
-    int start;
-    int end;
-    public Point(int start, int end){this.start=start; this.end=end;}
-
-    @Override
-    public int compareTo(Point obj){
-        return this.start - obj.start;
-    }
 }

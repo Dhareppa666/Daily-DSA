@@ -1,4 +1,4 @@
-package main.finale.DSA.trees.Questions;
+package main.finale.DSA.trees;
 
 import main.finale.DSA.trees.Utils;
 import main.finale.DSA.trees.TreeNode;

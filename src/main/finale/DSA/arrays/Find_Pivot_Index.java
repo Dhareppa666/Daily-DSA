@@ -2,6 +2,8 @@ package main.finale.DSA.arrays;
 
 import java.util.Arrays;
 
+//To find the pivot index in an array, you need to locate the index where the sum of the
+// elements to the left of the index is equal to the sum of the elements to the right of the index.
 public class Find_Pivot_Index {
 
     public static void main(String[] args) {

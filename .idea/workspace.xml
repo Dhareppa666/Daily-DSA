@@ -7,7 +7,24 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05" />
+    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/examples/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_150_Evaluate_Reverse_Polish_Notation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2149_Rearrange_Array_Elements_by_Sign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2971_Find_Polygon_With_the_Largest_Perimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_3034_Number_of_Subarrays_That_Match_a_Pattern_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_576_Out_of_Boundary_Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/microsoft/Round1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Array_is_sorted_and_rotated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Array_is_sorted_and_rotated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Find_Pivot_Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Find_Pivot_Index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Sort_Characters_By_Frequency_451.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Sort_Characters_By_Frequency_451.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/find_missing_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/find_missing_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/Queens_wala.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/Queens_wala.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/X_Min_Cost_Climbing_Stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/Min_Cost_Climbing_Stairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/dp/_198_House_Robber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/_198_House_Robber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/trees/Questions/Maximum_Depth_of_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Maximum_Depth_of_Binary_Tree.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,40 +177,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.FileReadWrite.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pre_In_Post_Order_Traversal_Iterative.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwapStringChars.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TEST.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test_Ex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test_Num.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1897_Redistribute_Characters_to_Make_All_Strings_Equal.executor&quot;: &quot;Run&quot;,
-    &quot;Application._455_Assign_Cookies.executor&quot;: &quot;Run&quot;,
-    &quot;Application._797_All_Paths_From_Source_to_Target.executor&quot;: &quot;Run&quot;,
-    &quot;Application._841_Keys_and_Rooms.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.abc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.count_dist_nums.executor&quot;: &quot;Run&quot;,
-    &quot;Application.duplicateZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.formatting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.masking.executor&quot;: &quot;Run&quot;,
-    &quot;Application.masking_Using_SB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.staticVarTesting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;liberica-11&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/finale/DSA&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagrams.executor": "Run",
+    "Application.Baloons.executor": "Run",
+    "Application.Coin_Change_II.executor": "Run",
+    "Application.Coin_Change_Problem.executor": "Run",
+    "Application.Count_Distinct_Substrings_I.executor": "Run",
+    "Application.FileReadWrite.executor": "Run",
+    "Application.Find_Anagrams.executor": "Run",
+    "Application.Find_Peak_Element.executor": "Run",
+    "Application.Find_Pivot_Index.executor": "Run",
+    "Application.Get_all_Divisors.executor": "Debug",
+    "Application.Graph_DFS_Learn.executor": "Run",
+    "Application.Interleaving_String.executor": "Run",
+    "Application.Intersection_of_two_arrays.executor": "Run",
+    "Application.Jumps_1.executor": "Run",
+    "Application.Kruskals_algo.executor": "Run",
+    "Application.Longest_Subarray_with_given_Sum_K.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Maximum_Depth_of_Binary_Tree.executor": "Run",
+    "Application.Min_Cost_Climbing_Stairs.executor": "Run",
+    "Application.Move_Zeros.executor": "Run",
+    "Application.NoOfDigits.executor": "Run",
+    "Application.Pre_In_Post_Order_Traversal_Iterative.executor": "Run",
+    "Application.Queens_wala.executor": "Run",
+    "Application.Remove_Duplicates_from_sorted_array.executor": "Run",
+    "Application.Shuffle_the_Array.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Solution1.executor": "Run",
+    "Application.Sort_Characters_By_Frequency_451.executor": "Run",
+    "Application.SubSequence.executor": "Run",
+    "Application.Subarray_Sums_Divisible_by_K.executor": "Run",
+    "Application.SwapStringChars.executor": "Run",
+    "Application.TEST.executor": "Run",
+    "Application.TargetSum.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test_Ex.executor": "Run",
+    "Application.Test_Num.executor": "Run",
+    "Application.TripletSumORThreeSome.executor": "Run",
+    "Application._150_Evaluate_Reverse_Polish_Notation.executor": "Run",
+    "Application._1897_Redistribute_Characters_to_Make_All_Strings_Equal.executor": "Run",
+    "Application._198_House_Robber.executor": "Run",
+    "Application._2149_Rearrange_Array_Elements_by_Sign.executor": "Run",
+    "Application._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.executor": "Debug",
+    "Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty.executor": "Run",
+    "Application._2971_Find_Polygon_With_the_Largest_Perimeter.executor": "Run",
+    "Application._455_Assign_Cookies.executor": "Run",
+    "Application._543_Diameter_of_Binary_Tree.executor": "Run",
+    "Application._680_Valid_Palindrome_II.executor": "Run",
+    "Application._797_All_Paths_From_Source_to_Target.executor": "Run",
+    "Application._841_Keys_and_Rooms.executor": "Run",
+    "Application.abc.executor": "Run",
+    "Application.count_dist_nums.executor": "Run",
+    "Application.duplicateZeros.executor": "Run",
+    "Application.find_missing_number.executor": "Run",
+    "Application.formatting.executor": "Run",
+    "Application.isNumHappy.executor": "Run",
+    "Application.masking.executor": "Run",
+    "Application.masking_Using_SB.executor": "Run",
+    "Application.repeated_substring_pattern.executor": "Run",
+    "Application.staticVarTesting.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.trapping_rain_water.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Daily-DSA",
+    "jdk.selected.JAVA_MODULE": "liberica-11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/finale/DSA",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
@@ -219,9 +277,35 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._841_Keys_and_Rooms">
-    <configuration name="_1897_Redistribute_Characters_to_Make_All_Strings_Equal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._1897_Redistribute_Characters_to_Make_All_Strings_Equal" />
+  <component name="RunManager" selected="Application._2971_Find_Polygon_With_the_Largest_Perimeter">
+    <configuration name="Count_Distinct_Substrings_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.tries.Count_Distinct_Substrings_I" />
+      <module name="Daily-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.DSA.tries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kruskals_algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.graphs.class03.mst.Kruskals_algo" />
+      <module name="Daily-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.DSA.graphs.class03.mst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2149_Rearrange_Array_Elements_by_Sign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._2149_Rearrange_Array_Elements_by_Sign" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
@@ -233,25 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_455_Assign_Cookies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._455_Assign_Cookies" />
+    <configuration name="_2971_Find_Polygon_With_the_Largest_Perimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._2971_Find_Polygon_With_the_Largest_Perimeter" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.finale.leetcode.Daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_797_All_Paths_From_Source_to_Target" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.graphs.questions._797_All_Paths_From_Source_to_Target" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.DSA.graphs.questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,19 +343,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_dist_nums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.count_dist_nums" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -298,11 +356,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._2971_Find_Polygon_With_the_Largest_Perimeter" />
+        <item itemvalue="Application._2149_Rearrange_Array_Elements_by_Sign" />
         <item itemvalue="Application._841_Keys_and_Rooms" />
-        <item itemvalue="Application._797_All_Paths_From_Source_to_Target" />
-        <item itemvalue="Application.count_dist_nums" />
-        <item itemvalue="Application._455_Assign_Cookies" />
-        <item itemvalue="Application._1897_Redistribute_Characters_to_Make_All_Strings_Equal" />
+        <item itemvalue="Application.Kruskals_algo" />
+        <item itemvalue="Application.Count_Distinct_Substrings_I" />
       </list>
     </recent_temporary>
   </component>
@@ -1172,14 +1230,84 @@
           <option name="timeStamp" value="216" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/finale/DSA/graphs/questions/_841_Keys_and_Rooms.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="220" />
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="225" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/finale/DSA/graphs/questions/_841_Keys_and_Rooms.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="224" />
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_150_Evaluate_Reverse_Polish_Notation.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_150_Evaluate_Reverse_Polish_Notation.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_150_Evaluate_Reverse_Polish_Notation.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_150_Evaluate_Reverse_Polish_Notation.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_150_Evaluate_Reverse_Polish_Notation.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_150_Evaluate_Reverse_Polish_Notation.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_150_Evaluate_Reverse_Polish_Notation.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/Get_all_Divisors.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/Get_all_Divisors.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/Get_all_Divisors.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2971_Find_Polygon_With_the_Largest_Perimeter.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="243" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
