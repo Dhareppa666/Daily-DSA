@@ -20,4 +20,26 @@ public class Array_is_sorted_and_rotated {
         }
         return true;
     }
+
+    public static int findMin(int[] nums) {
+        int left = 0;
+        int right = nums.length - 1;
+
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+
+            // If the mid element is greater than the right element,
+            // the minimum element must be on the right side
+            if (nums[mid] > nums[right]) {
+                left = mid + 1;
+            }
+            // If the mid element is less than or equal to the right element,
+            // the minimum element must be on the left side or equal to mid
+            else {
+                right = mid;
+            }
+        }
+        // At the end of the loop, left will point to the minimum element
+        return nums[left];
+    }
 }

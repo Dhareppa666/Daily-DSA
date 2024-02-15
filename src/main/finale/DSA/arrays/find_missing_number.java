@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class find_missing_number {
 
     public static void main(String[] args) {
-        int res = missingNumber4(new int[]{3,0,1});
+        int res = missingNumber4(new int[]{3, 0, 1});
         System.out.println(res);
     }
 
