@@ -1,4 +1,4 @@
-package main.intvs.microsoft;
+package main.intvs.int2023_24.microsoft;
 
 public class Round1 {
 

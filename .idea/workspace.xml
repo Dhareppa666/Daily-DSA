@@ -8,22 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/examples/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_150_Evaluate_Reverse_Polish_Notation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2149_Rearrange_Array_Elements_by_Sign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2971_Find_Polygon_With_the_Largest_Perimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_3034_Number_of_Subarrays_That_Match_a_Pattern_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_576_Out_of_Boundary_Paths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/microsoft/Round1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/trees/_Kth_Smallest_Element_in_a_BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/trees/isValidBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_1481_Least_Number_of_Unique_Integers_after_K_Removals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Weekly/_27th_Feb_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/test2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Array_is_sorted_and_rotated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Array_is_sorted_and_rotated.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Find_Pivot_Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Find_Pivot_Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Sort_Characters_By_Frequency_451.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Sort_Characters_By_Frequency_451.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/find_missing_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/find_missing_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/Queens_wala.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/Queens_wala.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/X_Min_Cost_Climbing_Stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/Min_Cost_Climbing_Stairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/dp/_198_House_Robber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/_198_House_Robber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/trees/Questions/Maximum_Depth_of_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Maximum_Depth_of_Binary_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/microsoft/Round1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Round1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,6 +213,7 @@
     "Application._198_House_Robber.executor": "Run",
     "Application._2149_Rearrange_Array_Elements_by_Sign.executor": "Run",
     "Application._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.executor": "Debug",
+    "Application._27th_Feb_24.executor": "Debug",
     "Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty.executor": "Run",
     "Application._2971_Find_Polygon_With_the_Largest_Perimeter.executor": "Run",
     "Application._455_Assign_Cookies.executor": "Run",
@@ -246,7 +238,7 @@
     "git-widget-placeholder": "Daily-DSA",
     "jdk.selected.JAVA_MODULE": "liberica-11",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/finale/DSA",
+    "last_opened_file_path": "/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/intvs/int2023_24/microsoft",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -257,11 +249,11 @@
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft" />
       <recent name="$PROJECT_DIR$/src/main/finale/DSA" />
       <recent name="$PROJECT_DIR$/src/main/finale/DSA/graphs" />
       <recent name="$PROJECT_DIR$/src/main/finale" />
       <recent name="$PROJECT_DIR$/src/main/finale/aa" />
-      <recent name="$PROJECT_DIR$/src/main/finale/aa/leetcode" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/finale/extras" />
@@ -277,65 +269,13 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._2971_Find_Polygon_With_the_Largest_Perimeter">
-    <configuration name="Count_Distinct_Substrings_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.tries.Count_Distinct_Substrings_I" />
+  <component name="RunManager">
+    <configuration name="_27th_Feb_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Weekly._27th_Feb_24" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.DSA.tries.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Kruskals_algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.graphs.class03.mst.Kruskals_algo" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.DSA.graphs.class03.mst.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_2149_Rearrange_Array_Elements_by_Sign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._2149_Rearrange_Array_Elements_by_Sign" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.leetcode.Daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_2971_Find_Polygon_With_the_Largest_Perimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._2971_Find_Polygon_With_the_Largest_Perimeter" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.leetcode.Daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_841_Keys_and_Rooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.graphs.questions._841_Keys_and_Rooms" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.DSA.graphs.questions.*" />
+          <option name="PATTERN" value="main.finale.leetcode.Weekly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,11 +296,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._2971_Find_Polygon_With_the_Largest_Perimeter" />
-        <item itemvalue="Application._2149_Rearrange_Array_Elements_by_Sign" />
-        <item itemvalue="Application._841_Keys_and_Rooms" />
-        <item itemvalue="Application.Kruskals_algo" />
-        <item itemvalue="Application.Count_Distinct_Substrings_I" />
+        <item itemvalue="Application._27th_Feb_24" />
       </list>
     </recent_temporary>
   </component>
@@ -1308,6 +1244,31 @@
           <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2971_Find_Polygon_With_the_Largest_Perimeter.java</url>
           <line>53</line>
           <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Weekly/_27th_Feb_24.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Weekly/_27th_Feb_24.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Weekly/_27th_Feb_24.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Weekly/_27th_Feb_24.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Weekly/_27th_Feb_24.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="248" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
