@@ -8,8 +8,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_997_Find_the_Town_Judge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/riddi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/riddi/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/riddi/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_1642_Furthest_Building_You_Can_Reach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_787_Cheapest_Flights_Within_K_Stops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MT_testing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MultiThread_Demo_By_Extd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MultiThread_Demo_By_Impl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MultithreadingJOIN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/Number2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample2/Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample/OddEvenEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample2/OddEvenEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/SeatBookingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/SeatBookingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/testing_now/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/testing_now/client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/testing_now/printer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,14 +201,23 @@
     "Application.Jumps_1.executor": "Run",
     "Application.Kruskals_algo.executor": "Run",
     "Application.Longest_Subarray_with_given_Sum_K.executor": "Run",
+    "Application.MT_testing.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Maximum_Depth_of_Binary_Tree.executor": "Run",
     "Application.Min_Cost_Climbing_Stairs.executor": "Run",
     "Application.Move_Zeros.executor": "Run",
+    "Application.MultiThread_Demo_By_Extd.executor": "Run",
     "Application.NoOfDigits.executor": "Run",
+    "Application.Number.executor": "Run",
+    "Application.Number2.executor": "Run",
+    "Application.OddEvenExample.executor": "Run",
+    "Application.OddEvenExample_2.executor": "Run",
     "Application.Pre_In_Post_Order_Traversal_Iterative.executor": "Run",
+    "Application.Producer_Consumer.executor": "Run",
+    "Application.Producer_Consumer_Test.executor": "Run",
     "Application.Queens_wala.executor": "Run",
     "Application.Remove_Duplicates_from_sorted_array.executor": "Run",
+    "Application.SeatBookingApp.executor": "Run",
     "Application.Shuffle_the_Array.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.Solution1.executor": "Run",
@@ -217,6 +246,7 @@
     "Application._680_Valid_Palindrome_II.executor": "Run",
     "Application._797_All_Paths_From_Source_to_Target.executor": "Run",
     "Application._841_Keys_and_Rooms.executor": "Run",
+    "Application._997_Find_the_Town_Judge.executor": "Run",
     "Application.abc.executor": "Run",
     "Application.count_dist_nums.executor": "Run",
     "Application.duplicateZeros.executor": "Run",
@@ -265,13 +295,13 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._997_Find_the_Town_Judge">
-    <configuration name="_17th_Feb_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Weekly.mera._17th_Feb_24" />
+  <component name="RunManager" selected="Application.Producer_Consumer">
+    <configuration name="Number2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.multi_threading.Number2" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.leetcode.Weekly.mera.*" />
+          <option name="PATTERN" value="main.finale.Java.multi_threading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,12 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3043_Find_the_Length_of_the_Longest_Common_Prefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Weekly.mera._3043_Find_the_Length_of_the_Longest_Common_Prefix" />
+    <configuration name="OddEvenExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.multi_threading.OddEvenExample" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.leetcode.Weekly.mera.*" />
+          <option name="PATTERN" value="main.finale.Java.multi_threading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,12 +322,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_997_Find_the_Town_Judge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._997_Find_the_Town_Judge" />
+    <configuration name="OddEvenExample_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.multi_threading.OddEvenExample_2" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.leetcode.Daily.*" />
+          <option name="PATTERN" value="main.finale.Java.multi_threading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.multi_threading.Producer_Consumer" />
+      <module name="Daily-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.Java.multi_threading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer_Consumer_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.multi_threading.Producer_Consumer_Test" />
+      <module name="Daily-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.Java.multi_threading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,9 +374,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._997_Find_the_Town_Judge" />
-        <item itemvalue="Application._3043_Find_the_Length_of_the_Longest_Common_Prefix" />
-        <item itemvalue="Application._17th_Feb_24" />
+        <item itemvalue="Application.Producer_Consumer" />
+        <item itemvalue="Application.OddEvenExample_2" />
+        <item itemvalue="Application.OddEvenExample" />
+        <item itemvalue="Application.Producer_Consumer_Test" />
+        <item itemvalue="Application.Number2" />
       </list>
     </recent_temporary>
   </component>
@@ -1268,6 +1326,26 @@
           <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2971_Find_Polygon_With_the_Largest_Perimeter.java</url>
           <line>53</line>
           <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Solution.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Solution.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Solution.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Solution.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="247" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
