@@ -1,6 +1,11 @@
 package main.finale.Java.streams;
 
 class Root {
+
+    static {
+        System.out.println("Root static");
+    }
+
     {
         System.out.println("Init1");
     }
@@ -32,6 +37,10 @@ class Parent extends Root {
 }
 
 public class InitStaticBlocks extends Parent {
+
+    public InitStaticBlocks() {
+        System.out.println("init constructor");
+    }
 
     public static void main(String[] args) {
 

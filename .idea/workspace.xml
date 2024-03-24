@@ -8,28 +8,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/riddi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/riddi/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/riddi/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_1642_Furthest_Building_You_Can_Reach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_787_Cheapest_Flights_Within_K_Stops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/threadpool_executor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/threadpool_executor/RejectionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/threadpool_executor/ThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Weekly/_3090_Maximum_Length_Substring_With_Two_Occurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/General_asked_Ques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/goldman/Round_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/goldman/Round_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/goldman/Round_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/mke_my_trip/Round_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/main.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MT_testing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MultiThread_Demo_By_Extd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MultiThread_Demo_By_Impl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/MultithreadingJOIN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/Number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/Number2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample2/Generator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample/OddEvenEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/OddEvenExample2/OddEvenEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/SeatBookingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/SeatBookingApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/testing_now/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/testing_now/client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/testing_now/printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily-DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Daily-DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/EmployeeDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/EmployeeDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/InitStaticBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/InitStaticBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,15 +193,18 @@
   "keyToString": {
     "Application.Anagrams.executor": "Run",
     "Application.Baloons.executor": "Run",
+    "Application.Bijli.executor": "Run",
     "Application.Coin_Change_II.executor": "Run",
     "Application.Coin_Change_Problem.executor": "Run",
     "Application.Count_Distinct_Substrings_I.executor": "Run",
+    "Application.Example.executor": "Run",
     "Application.FileReadWrite.executor": "Run",
     "Application.Find_Anagrams.executor": "Run",
     "Application.Find_Peak_Element.executor": "Run",
     "Application.Find_Pivot_Index.executor": "Run",
     "Application.Get_all_Divisors.executor": "Debug",
     "Application.Graph_DFS_Learn.executor": "Run",
+    "Application.InitStaticBlocks.executor": "Run",
     "Application.Interleaving_String.executor": "Run",
     "Application.Intersection_of_two_arrays.executor": "Run",
     "Application.Jumps_1.executor": "Run",
@@ -203,6 +212,7 @@
     "Application.Longest_Subarray_with_given_Sum_K.executor": "Run",
     "Application.MT_testing.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
     "Application.Maximum_Depth_of_Binary_Tree.executor": "Run",
     "Application.Min_Cost_Climbing_Stairs.executor": "Run",
     "Application.Move_Zeros.executor": "Run",
@@ -222,6 +232,8 @@
     "Application.Solution.executor": "Run",
     "Application.Solution1.executor": "Run",
     "Application.Sort_Characters_By_Frequency_451.executor": "Run",
+    "Application.StreamsLearn.executor": "Run",
+    "Application.StreamsLearn_02.executor": "Run",
     "Application.SubSequence.executor": "Run",
     "Application.Subarray_Sums_Divisible_by_K.executor": "Run",
     "Application.SwapStringChars.executor": "Run",
@@ -241,6 +253,7 @@
     "Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty.executor": "Run",
     "Application._2971_Find_Polygon_With_the_Largest_Perimeter.executor": "Run",
     "Application._3043_Find_the_Length_of_the_Longest_Common_Prefix.executor": "Run",
+    "Application._3090_Maximum_Length_Substring_With_Two_Occurrences.executor": "Run",
     "Application._455_Assign_Cookies.executor": "Run",
     "Application._543_Diameter_of_Binary_Tree.executor": "Run",
     "Application._680_Valid_Palindrome_II.executor": "Run",
@@ -253,6 +266,8 @@
     "Application.find_missing_number.executor": "Run",
     "Application.formatting.executor": "Run",
     "Application.isNumHappy.executor": "Run",
+    "Application.main.finale.Java.streams.test.Main.executor": "Run",
+    "Application.main.walmart.Solution.executor": "Debug",
     "Application.masking.executor": "Run",
     "Application.masking_Using_SB.executor": "Run",
     "Application.repeated_substring_pattern.executor": "Run",
@@ -264,10 +279,11 @@
     "git-widget-placeholder": "Daily-DSA",
     "jdk.selected.JAVA_MODULE": "liberica-11",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/intvs/int2023_24/microsoft",
+    "last_opened_file_path": "/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/intvs/int2023_24",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -275,11 +291,11 @@
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24" />
       <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft" />
       <recent name="$PROJECT_DIR$/src/main/finale/DSA" />
       <recent name="$PROJECT_DIR$/src/main/finale/DSA/graphs" />
       <recent name="$PROJECT_DIR$/src/main/finale" />
-      <recent name="$PROJECT_DIR$/src/main/finale/aa" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/finale/extras" />
@@ -295,13 +311,13 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Producer_Consumer">
-    <configuration name="Number2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.multi_threading.Number2" />
+  <component name="RunManager" selected="Application._3090_Maximum_Length_Substring_With_Two_Occurrences">
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.test.Main2" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Java.multi_threading.*" />
+          <option name="PATTERN" value="main.finale.Java.streams.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,12 +325,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.multi_threading.OddEvenExample" />
+    <configuration name="StreamsLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.basic.StreamsLearn" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Java.multi_threading.*" />
+          <option name="PATTERN" value="main.finale.Java.streams.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,12 +338,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenExample_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.multi_threading.OddEvenExample_2" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.test.Test" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Java.multi_threading.*" />
+          <option name="PATTERN" value="main.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,12 +351,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Producer_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.multi_threading.Producer_Consumer" />
+    <configuration name="_3090_Maximum_Length_Substring_With_Two_Occurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Weekly._3090_Maximum_Length_Substring_With_Two_Occurrences" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Java.multi_threading.*" />
+          <option name="PATTERN" value="main.finale.leetcode.Weekly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,12 +364,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Producer_Consumer_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.multi_threading.Producer_Consumer_Test" />
+    <configuration name="main.finale.Java.streams.test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.test.Main" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Java.multi_threading.*" />
+          <option name="PATTERN" value="main.finale.Java.streams.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,11 +390,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Producer_Consumer" />
-        <item itemvalue="Application.OddEvenExample_2" />
-        <item itemvalue="Application.OddEvenExample" />
-        <item itemvalue="Application.Producer_Consumer_Test" />
-        <item itemvalue="Application.Number2" />
+        <item itemvalue="Application._3090_Maximum_Length_Substring_With_Two_Occurrences" />
+        <item itemvalue="Application.StreamsLearn" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.main.finale.Java.streams.test.Main" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -1328,22 +1344,22 @@
           <option name="timeStamp" value="243" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/main/intvs/int2021_22/Solution.java</url>
           <line>44</line>
           <option name="timeStamp" value="244" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/main/intvs/int2021_22/Solution.java</url>
           <line>50</line>
           <option name="timeStamp" value="245" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/main/intvs/int2021_22/Solution.java</url>
           <line>51</line>
           <option name="timeStamp" value="246" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/main/intvs/int2021_22/Solution.java</url>
           <line>52</line>
           <option name="timeStamp" value="247" />
         </line-breakpoint>

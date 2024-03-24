@@ -1,24 +1,44 @@
 package main.finale.Java.streams;
 
-
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-
-@NoArgsConstructor
-@AllArgsConstructor
 public class Employee {
 
-    @Getter @Setter
     private int id;
 
-    @Getter @Setter
     private String name;
 
-    @Getter @Setter
     private String grade;
 
-    @Getter @Setter
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getGrade() {
+        return grade;
+    }
+
+    public void setGrade(String grade) {
+        this.grade = grade;
+    }
+
+    public double getSalary() {
+        return salary;
+    }
+
+    public void setSalary(double salary) {
+        this.salary = salary;
+    }
+
     private double salary;
 }

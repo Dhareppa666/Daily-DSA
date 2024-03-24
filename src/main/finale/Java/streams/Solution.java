@@ -1,12 +1,9 @@
 package main.finale.Java.streams;
 
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collectors;
 
 import static java.lang.System.out;
-import static java.lang.System.setIn;
 
 public class Solution {
 
@@ -15,13 +12,18 @@ public class Solution {
     public static void main(String[] args) {
         fotmat();
 
-        List<Student> list = List.of(new Student(1, "Arun"), new Student(2, "Singh"), new Student(3, "Seema"));
+        List<Student> list = List.of(
+                new Student(1, "Arun"),
+                new Student(2, "Singh"),
+                new Student(3, "Seema"),
+                new Student(4, "Seema"));
 
-        List<String> nameStartsWith_S = list.stream().map(Student::getName).filter(str-> str.startsWith("S")).collect(Collectors.toList());
+        Set<String> nameStartsWith_S = list.stream().map(Student::getName).filter(str -> str.startsWith("S")).collect(Collectors.toSet());
 
+        out.println("nameStartsWith_S are: " + nameStartsWith_S);
         out.println("------------------------");
-        List<Integer> newList = list.stream().map(Student::getId).filter(x -> x<2).collect(Collectors.toList());
-        newList.stream().forEach(x-> out.println(x));
+        List<Integer> newList = list.stream().map(Student::getId).filter(x -> x < 2).collect(Collectors.toList());
+        newList.stream().forEach(x -> out.println(x));
     }
 
     private static void fotmat() {
@@ -36,10 +38,10 @@ public class Solution {
                 "XOF:West African CFA Franc|CHE:WIR Euro|CHW:WIR Franc|YDD:Yemeni Dinar|YER:Yemeni Rial|YUN:Yugoslavian Convertible Dinar (1990–1992)|\n" +
                 "YUR:Yugoslavian Reformed Dinar (1992–1993)";
 
-        String[] arr = countryValues.split("\\|");
-        List<String> list = List.of(arr);
-        list.stream().map(x -> x.split(":"))
-                .map(x -> countryMap.put(x[0], x[1]));//.collect(Collectors.toList());
+        String formattedVal = countryValues.replace("\n", "");
+        String[] arr = formattedVal.split("\\|");
+        Arrays.stream(arr).map(x -> x.split(":")).forEach(x -> out.println(Arrays.toString(x)));
+        Arrays.stream(arr).map(x -> x.split(":")).forEach(x -> countryMap.put(x[0], x[1]));//.collect(Collectors.toList());
         out.println(countryMap);
     }
 }

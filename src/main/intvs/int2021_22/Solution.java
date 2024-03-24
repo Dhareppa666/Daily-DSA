@@ -1,4 +1,4 @@
-package main;
+package main.intvs.int2021_22;
 
 import java.util.*;
 import java.util.stream.Collectors;
