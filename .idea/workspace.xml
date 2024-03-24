@@ -8,34 +8,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/threadpool_executor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/threadpool_executor/RejectionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/threadpool_executor/ThreadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Weekly/_3090_Maximum_Length_Substring_With_Two_Occurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/General_asked_Ques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/goldman/Round_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/goldman/Round_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/goldman/Round_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/mke_my_trip/Round_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/_2nd_highest_salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_287_Find_the_Duplicate_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily-DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Daily-DSA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/EmployeeDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/EmployeeDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/InitStaticBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/InitStaticBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Bijli.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/EmployeeDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/InitStaticBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/oops/InitStaticBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/ParallelStreamExample.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/StreamsLearn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/StreamsLearn_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/CustomObject/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/CustomObject/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/CustomObject/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,6 +241,7 @@
     "Application._27th_Feb_24.executor": "Run",
     "Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty.executor": "Run",
     "Application._2971_Find_Polygon_With_the_Largest_Perimeter.executor": "Run",
+    "Application._2nd_highest_salary.executor": "Run",
     "Application._3043_Find_the_Length_of_the_Longest_Common_Prefix.executor": "Run",
     "Application._3090_Maximum_Length_Substring_With_Two_Occurrences.executor": "Run",
     "Application._455_Assign_Cookies.executor": "Run",
@@ -311,22 +301,9 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._3090_Maximum_Length_Substring_With_Two_Occurrences">
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.test.Main2" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.Java.streams.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamsLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.basic.StreamsLearn" />
+  <component name="RunManager" selected="Application._287_Find_the_Duplicate_Number">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.basic.Example" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
@@ -338,12 +315,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.test.Test" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.CustomObject.Main" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.test.*" />
+          <option name="PATTERN" value="main.finale.Java.streams.CustomObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3090_Maximum_Length_Substring_With_Two_Occurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Weekly._3090_Maximum_Length_Substring_With_Two_Occurrences" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.Solution" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.leetcode.Weekly.*" />
+          <option name="PATTERN" value="main.finale.Java.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,12 +341,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.finale.Java.streams.test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.test.Main" />
+    <configuration name="_287_Find_the_Duplicate_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._287_Find_the_Duplicate_Number" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Java.streams.test.*" />
+          <option name="PATTERN" value="main.finale.leetcode.Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2nd_highest_salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams._2nd_highest_salary" />
+      <module name="Daily-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.Java.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,11 +380,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._3090_Maximum_Length_Substring_With_Two_Occurrences" />
-        <item itemvalue="Application.StreamsLearn" />
-        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application._287_Find_the_Duplicate_Number" />
+        <item itemvalue="Application._2nd_highest_salary" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.main.finale.Java.streams.test.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>

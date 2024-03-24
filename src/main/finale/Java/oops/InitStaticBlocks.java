@@ -1,4 +1,4 @@
-package main.finale.Java.streams;
+package main.finale.Java.oops;
 
 class Root {
 

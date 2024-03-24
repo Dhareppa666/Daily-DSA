@@ -1,4 +1,4 @@
-package main.finale.Java.streams.test;
+package main.finale.Java.streams.CustomObject;
 
 //import lombok.AllArgsConstructor;
 //import lombok.Getter;

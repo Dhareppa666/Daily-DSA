@@ -1,4 +1,4 @@
-package main.finale.Java.streams.test;
+package main.finale.Java.streams.CustomObject;
 
 import java.util.HashSet;
 import java.util.LinkedList;
