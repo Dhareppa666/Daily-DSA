@@ -1,8 +1,6 @@
 package main.finale.Java.streams.test;
 
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
@@ -19,12 +17,12 @@ public class Main2 {
         list.add(emp2);
         list.add(emp3);
         list.add(emp4);
-        //list.add(emp5);
-        // System.out.println(list);
+        list.add(emp5);
+         System.out.println(list);
 
-        /*HashMap<String, Employee> map = new HashMap<>();
-        list.stream().map(Employee->map.put(Employee.getName(), Employee)).collect(Collectors.toMap());
-        System.out.println(collect);*/
+//        HashMap<String, Employee> map = new HashMap<>();
+//        list.stream().map(Employee->map.put(Employee.getName(), Employee)).collect(Collectors.toMap(Objects::nonNull));
+//        System.out.println(collect);
 
         Function<Employee, String> keyMapper = (Employee e) -> {return e.getName();};
 

@@ -15,21 +15,22 @@ public class SeatBookingApp extends Thread {
         SeatBookingApp aa = new SeatBookingApp();
         aa.name = "Cust1";
         aa.noOfSeats = 6;
-        aa.start();
 
         SeatBookingApp bb = new SeatBookingApp();
         bb.name = "Cust2";
         bb.noOfSeats = 7;
-        bb.start();
 
         SeatBookingApp cc = new SeatBookingApp();
         cc.name = "Cust3";
         cc.noOfSeats = 9;
-        cc.start();
 
         SeatBookingApp dd = new SeatBookingApp();
         dd.name = "Cust4";
         dd.noOfSeats = 3;
+
+        aa.start();
+        bb.start();
+        cc.start();
         dd.start();
 
     }
