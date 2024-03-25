@@ -8,23 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/_2nd_highest_salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_287_Find_the_Duplicate_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_442_Find_All_Duplicates_in_an_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Bijli.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/EmployeeDatabase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/InitStaticBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/oops/InitStaticBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/ParallelStreamExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/StreamsLearn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/StreamsLearn_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/CustomObject/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/CustomObject/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/CustomObject/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,6 +225,7 @@
     "Application._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.executor": "Debug",
     "Application._27th_Feb_24.executor": "Run",
     "Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty.executor": "Run",
+    "Application._287_Find_the_Duplicate_Number.executor": "Run",
     "Application._2971_Find_Polygon_With_the_Largest_Perimeter.executor": "Run",
     "Application._2nd_highest_salary.executor": "Run",
     "Application._3043_Find_the_Length_of_the_Longest_Common_Prefix.executor": "Run",
@@ -301,26 +287,13 @@
       <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._287_Find_the_Duplicate_Number">
+  <component name="RunManager" selected="Application._442_Find_All_Duplicates_in_an_Array">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.basic.Example" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.finale.Java.streams.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.CustomObject.Main" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.Java.streams.CustomObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,6 +340,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_442_Find_All_Duplicates_in_an_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._442_Find_All_Duplicates_in_an_Array" />
+      <module name="Daily-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.leetcode.Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -380,11 +366,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._442_Find_All_Duplicates_in_an_Array" />
         <item itemvalue="Application._287_Find_the_Duplicate_Number" />
         <item itemvalue="Application._2nd_highest_salary" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Example" />
-        <item itemvalue="Application.main.finale.Java.streams.test.Main" />
       </list>
     </recent_temporary>
   </component>
