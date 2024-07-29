@@ -1,6 +1,6 @@
-package main.finale.DSA.arrays.medium;
+package main.finale.leetcode.Blind_75.arrays;
 
-public class Serach_in_sorted_array {
+public class _33_search_in_sorted_rotated_array {
 
     public static void main(String[] args) {
         int res = search(new int[]{4,5,6,7,0,1,2}, 0);

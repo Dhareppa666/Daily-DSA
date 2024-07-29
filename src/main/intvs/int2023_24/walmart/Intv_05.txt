@@ -1,0 +1,88 @@
+
+// const [readersList, setReadersList] = useState<>();
+// const [writersList, setWritersList] = useState<>();
+
+
+const initialNodes = [
+{ id: '1', position: { x: 0, y: 0 }, data: { label: 'A1' },
+
+{ id: '2', position: { x: 0, y: 100 }, data: { label: 'A2' } },
+
+{ id: '3', position: { x: 50, y: 50 }, data: { label: 'S1' } },
+
+{ id: '4', position: { x: 100, y: 50 }, data: { label: 'B1' } },
+
+];
+
+const initialEdges = [{ id: 'e1-2', source: 'A1', target: 'S1' },
+{ id: 'e1-2', source: 'A2', target: 'S1' },
+{ id: 'e1-2', source: 'S1', target: 'B1' }];
+
+/////
+
+const graph = {
+        "node":[
+        { id: '1', data: { label: 'A1' }},
+        { id: '2',  data: { label: 'A2' } },
+        { id: '3',  data: { label: 'S1' } },
+        { id: '4',  data: { label: 'B1' } }
+        ]
+        ,
+        "edges":[
+        { id: 'e1-2', source: 'A1', target: 'S1' },
+        { id: 'e1-2', source: 'A2', target: 'S1' },
+        { id: 'e1-2', source: 'S1', target: 'B1' }
+        ]
+        }
+
+        const API_Graph = {
+        "node":[
+        { id: '2',  data: { label: 'A2' } },
+        { id: '3',  data: { label: 'S2' } },
+        { id: '4',  data: { label: 'B1' } },
+        { id: '4',  data: { label: 'B2' } }
+        ]
+        ,
+        "edges":[
+        { id: 'e1-2', source: 'A2', target: 'S2' },
+        { id: 'e1-2', source: 'S2', target: 'B1' },
+        { id: 'e1-2', source: 'S2', target: 'B2' }
+        ]
+        }
+
+setGraph()
+
+handleGraphMerge(current_graph, api_graph)-> new_graph
+    const new_graph = { ...current_graph };
+        const api_graph_nodes = API_Graph?.nodes;
+const api_graph_edges = API_Graph?.edges;
+
+const newUpcomingList[];
+//Updated nodes.
+api_graph_nodes.forEach((node: any) => {
+        if (!node exist in new_graph) {
+        //add t
+        }
+        })
+
+//Updated edges.
+
+new_graph = {
+        "node":[
+        { id: '1', data: { label: 'A1' }},
+        { id: '2',  data: { label: 'A2' } },
+        { id: '3',  data: { label: 'S1' } },
+        { id: '4',  data: { label: 'B1' } },
+        { id: '3',  data: { label: 'S2' } },
+        { id: '4',  data: { label: 'B2' } }
+        ]
+        ,
+        "edges":[
+        { id: 'e1-2', source: 'A2', target: 'S2' },
+        { id: 'e1-2', source: 'S2', target: 'B1' },
+        { id: 'e1-2', source: 'S2', target: 'B2' },
+        { id: 'e1-2', source: 'A2', target: 'S2' },
+        { id: 'e1-2', source: 'S2', target: 'B1' },
+        { id: 'e1-2', source: 'S2', target: 'B2' }
+        ]
+        }

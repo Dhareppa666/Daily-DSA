@@ -1,8 +1,6 @@
-package main.intvs.int2023_24;
+package main.finale.DSA.math;
 
-import java.util.Arrays;
-
-public class General_asked_Ques {
+public class Matrix_Multiplication {
 
     public static void main(String[] args) {
         int[][] mat1 = {{3,1,4},{2,0,3}};

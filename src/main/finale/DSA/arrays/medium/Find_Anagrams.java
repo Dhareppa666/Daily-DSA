@@ -4,14 +4,13 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+//https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
 public class Find_Anagrams {
 
     public static void main(String[] args) {
-//        List<Integer> list = findAnagrams("cbaebabacd", "abc");
-        List<Integer> list = findAnagrams("abab", "ab");
+        List<Integer> list = findAnagrams("cbaebabacd", "abc");
+//        List<Integer> list = findAnagrams("abab", "ab");
         System.out.println(list);
-
-        System.out.println(7&1);
     }
 
     public static List<Integer> findAnagrams(String s, String p) {
