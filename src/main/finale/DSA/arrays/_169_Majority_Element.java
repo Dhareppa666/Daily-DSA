@@ -1,6 +1,6 @@
 package main.finale.DSA.arrays;
 
-public class A_169_Majority_Element {
+public class _169_Majority_Element {
 
     public static void main(String[] args) {
         int majorityElement = majorityElement(new int[]{3, 2, 3, 2, 5, 3});

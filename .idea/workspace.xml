@@ -8,43 +8,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/DSA/_OondaPradarshan/SubSequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/_496_Next_Greater_Element_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/extras/DatabaseSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/extras/FutureExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/extras/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/extras/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/extras/WeightedRandomCharacterStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/_227_Basic_Calculator_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/_398_Random_Pick_Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/_881_Boats_to_Save_People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/arrays/_4_Median_of_Two_Sorted_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/merge_intervals/_435_Erase_Overlap_Intervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/merge_intervals/_56_Merge_Intervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/merge_intervals/_57_Insert_Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_227_Basic_Calculator_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/target/Round_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/target/Round_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/target/Round_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/DSA/strings/_394_Decode_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/Meeting_rooms_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/_213_House_Robber_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/_300_Longest_Increasing_Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/_76_Minimum_Window_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/trees/_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/coForge/Round_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/gupshup/Round_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Round_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/oracle/Round_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/upStocks/Round_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/valueLabs/Round_01.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Jumps_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/Jumps_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Find_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Find_Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Find_Peak_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Find_Peak_Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/MaxDifference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Search_an_element_in_a_sorted_and_rotated_array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Serach_in_sorted_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/arrays/_33_search_in_sorted_rotated_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/numOfSubarraysMedium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/numOfSubarraysMedium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/Generics/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/Generics/Generics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/extras/Equality_Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/extras/Equality_Check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2023_24/General_asked_Ques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/math/Matrix_Multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2023_24/General_asked_Ques2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/A_169_Majority_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/_169_Majority_Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/dp/class01/bottom_up/Coin_Change_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/dp/class01/bottom_up/Coin_Change_Problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/Find_Median_from_Data_Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/Find_Median_from_Data_Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_5_Longest_Palindromic_Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_5_Longest_Palindromic_Substring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,6 +204,7 @@
     "Application.Main2.executor": "Run",
     "Application.MaxDifference.executor": "Run",
     "Application.Maximum_Depth_of_Binary_Tree.executor": "Run",
+    "Application.Meeting_rooms_2.executor": "Run",
     "Application.Min_Cost_Climbing_Stairs.executor": "Run",
     "Application.Move_Zeros.executor": "Run",
     "Application.MultiThread_Demo_By_Extd.executor": "Run",
@@ -238,6 +220,7 @@
     "Application.Remove_Duplicates_from_sorted_array.executor": "Run",
     "Application.Round2.executor": "Run",
     "Application.Round_01.executor": "Run",
+    "Application.Round_02.executor": "Run",
     "Application.Sample.executor": "Run",
     "Application.SeatBookingApp.executor": "Run",
     "Application.Shuffle_the_Array.executor": "Run",
@@ -257,6 +240,7 @@
     "Application.Test_Ex.executor": "Run",
     "Application.Test_Num.executor": "Run",
     "Application.Testing.executor": "Run",
+    "Application.Three_Sum.executor": "Debug",
     "Application.TopologicalSort.executor": "Run",
     "Application.TripletSumORThreeSome.executor": "Run",
     "Application.WeightedRandomCharacterStream.executor": "Run",
@@ -280,6 +264,7 @@
     "Application._3043_Find_the_Length_of_the_Longest_Common_Prefix.executor": "Run",
     "Application._3090_Maximum_Length_Substring_With_Two_Occurrences.executor": "Run",
     "Application._3152_Special_Array_II.executor": "Debug",
+    "Application._394_Decode_String.executor": "Debug",
     "Application._398_Random_Pick_Index.executor": "Run",
     "Application._42_Trapping_Rain_Water.executor": "Run",
     "Application._442_Find_All_Duplicates_in_an_Array.executor": "Run",
@@ -290,6 +275,7 @@
     "Application._5_Longest_Palindromic_Substring.executor": "Run",
     "Application._680_Valid_Palindrome_II.executor": "Run",
     "Application._713_Subarray_Product_Less_Than_K.executor": "Run",
+    "Application._76_Minimum_Window_Substring.executor": "Run",
     "Application._797_All_Paths_From_Source_to_Target.executor": "Run",
     "Application._79_Word_Search.executor": "Run",
     "Application._841_Keys_and_Rooms.executor": "Run",
@@ -303,6 +289,7 @@
     "Application.abc.executor": "Run",
     "Application.count_dist_nums.executor": "Run",
     "Application.duplicateZeros.executor": "Run",
+    "Application.extra_characters_in_a_string.executor": "Run",
     "Application.find_missing_number.executor": "Run",
     "Application.formatting.executor": "Run",
     "Application.isNumHappy.executor": "Run",
@@ -355,13 +342,13 @@
       <recent name="main.finale.In_Walmart.nextLeap.HeapAndQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._496_Next_Greater_Element_I">
-    <configuration name="Jumps_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.arrays.Jumps_2" />
+  <component name="RunManager" selected="Application.Meeting_rooms_2">
+    <configuration name="Coin_Change_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.dp.Coin_Change_II" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.DSA.arrays.*" />
+          <option name="PATTERN" value="main.finale.DSA.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,12 +356,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubSequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA._OondaPradarshan.SubSequences" />
+    <configuration name="Coin_Change_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.dp.class01.bottom_up.Coin_Change_Problem" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.DSA._OondaPradarshan.*" />
+          <option name="PATTERN" value="main.finale.DSA.dp.class01.bottom_up.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,12 +369,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_435_Erase_Overlap_Intervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Blind_75.merge_intervals._435_Erase_Overlap_Intervals" />
+    <configuration name="Meeting_rooms_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Blind_75.Meeting_rooms_2" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.leetcode.Blind_75.merge_intervals.*" />
+          <option name="PATTERN" value="main.finale.leetcode.Blind_75.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -395,12 +382,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_496_Next_Greater_Element_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.arrays._496_Next_Greater_Element_I" />
+    <configuration name="Three_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.arrays.medium.Three_Sum" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.DSA.arrays.*" />
+          <option name="PATTERN" value="main.finale.DSA.arrays.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,12 +395,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.linked_list.isPalindrome" />
+    <configuration name="_76_Minimum_Window_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Blind_75._76_Minimum_Window_Substring" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.DSA.linked_list.*" />
+          <option name="PATTERN" value="main.finale.leetcode.Blind_75.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,11 +421,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._496_Next_Greater_Element_I" />
-        <item itemvalue="Application.SubSequences" />
-        <item itemvalue="Application._435_Erase_Overlap_Intervals" />
-        <item itemvalue="Application.Jumps_2" />
-        <item itemvalue="Application.isPalindrome" />
+        <item itemvalue="Application.Meeting_rooms_2" />
+        <item itemvalue="Application.Coin_Change_II" />
+        <item itemvalue="Application.Coin_Change_Problem" />
+        <item itemvalue="Application._76_Minimum_Window_Substring" />
+        <item itemvalue="Application.Three_Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -1431,6 +1418,31 @@
           <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Top100/_1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.java</url>
           <line>37</line>
           <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="281" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
