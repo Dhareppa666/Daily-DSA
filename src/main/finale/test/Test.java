@@ -1,4 +1,4 @@
-package main.test;
+package main.finale.test;
 
 //ip:1,7,3,4,1,5,6,7,1,4
 //op:

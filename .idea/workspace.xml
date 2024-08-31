@@ -8,270 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Examples uml.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Examples uml2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Furniture /C++/furniture" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Furniture /C++/furniture.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Furniture /JAVA/furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Furniture /Javascript/furniture.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Furniture /Python/furniture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/UI/C++/ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/UI/C++/ui.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/UI/JAVA/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Adapter Design Pattern/Class Adapter/C++/xml_to_json.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Adapter Design Pattern/Object Adapter/C++/xml_to_json.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Adapter Design Pattern/Object Adapter/JAVA/XmlToJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Bridge Design Pattern/C++/uber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Bridge Design Pattern/JAVA/UberDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/Builder with Chaining/C++/desktop" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/Builder with Chaining/C++/desktop.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/Builder with Chaining/JAVA/DesktopBuilderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/C++/desktop" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/C++/desktop.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/Desktop-UML.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/JAVA/DesktopBuilderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Chain of Responsibility Design Pattern/C++/swiggy_order.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Chain of Responsibility Design Pattern/JAVA/SwiggyOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Command Design Pattern/C++/document.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Command Design Pattern/C++/uber_rides.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Command Design Pattern/JAVA/DocumentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Command Design Pattern/JAVA/UberRidesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Composite Design Pattern/C++/directorystructure.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Composite Design Pattern/C++/employee.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Composite Design Pattern/JAVA/EmployeesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Composite Design Pattern/JAVA/directorystructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Decorator Design Pattern/C++/swiggy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Decorator Design Pattern/JAVA/Swiggy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Facade Design Pattern/C++/computer.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Facade Design Pattern/JAVA/ComputerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Furniture/C++/furniture.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Furniture/JAVA/furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Furniture/Javascript/furniture.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Furniture/Python/furniture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/common.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/debug_logger.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/debug_logger.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/debug_logger_factory.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/error_logger.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/error_logger.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/error_logger_factory.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/furniture" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/ilogger.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/info_logger.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/info_logger.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/info_logger_factory.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/logger" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/logger_factory.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/JAVA/LoggerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Iterator Design Pattern/C++/amazon_inventory.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Iterator Design Pattern/JAVA/AmazonInventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Observer Design Pattern/C++/order_status.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Observer Design Pattern/JAVA/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/C++/product" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/C++/product.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/C++/router" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/C++/router.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/JAVA/ProductDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/JAVA/RouterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/Product-UML.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/Router-UML.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Proxy Design Pattern/C++/image.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Proxy Design Pattern/JAVA/ImageDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/common.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/debug_logger.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/debug_logger.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/error_logger.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/error_logger.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/furniture" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/ilogger.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/info_logger.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/info_logger.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/logger" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/logger_factory.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/logger_factory.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/DebugLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/ErrorLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/ILogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/InfoLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/LogLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/LoggerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Singleton Design Pattern/C++/payment_gateway.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Singleton Design Pattern/C++/pg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Singleton Design Pattern/JAVA/PaymentGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/State Design Pattern/C++/state.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/State Design Pattern/JAVA/StateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Strategy Design Pattern/C++/payment.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Strategy Design Pattern/JAVA/PaymentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Strategy and Factory Design Pattern/C++/payment.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Strategy and Factory Design Pattern/JAVA/PaymentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Template Design Pattern/C++/amazon_order.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Template Design Pattern/JAVA/AmazonOrderProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/Cache Managment/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/Cache Managment/CacheLLD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/Cache Managment/src/Cache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/Cache Managment/src/CacheManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/Cache Managment/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/Cache Managment/src/datastructures/DLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/Cache Managment/src/datastructures/DLLNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/Cache Managment/src/strategies/EvictionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/Cache Managment/src/strategies/LRUStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/balance/BalanceManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/balance/BalanceProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/command/CommandExecution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/command/CommandFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/command/CommandManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/loan/LoanManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/loan/LoanProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/model/Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/model/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/payment/PaymentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/payment/PaymentProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/ledger_company_navi/src/main/java/com/navi/ledger/util/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/lib/javax.transaction.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/constant/ContestStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/constant/Level.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/dao/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/dao/ContestDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/dao/QuestionDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/entity/Contest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/entity/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/entity/converter/ContestQuestionsConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/entity/converter/UserContestQuestionsConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/entity/helper/ContestQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/entity/helper/UserContestQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/service/ContestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/service/QuestionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/java/io/hari/demo/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions/leetcode-lld-flipkart-coding-blox/src/test/java/io/hari/demo/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-behavioral-interview/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-behavioral-interview/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-behavioral-interview/images/behvaioral-repo-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-behavioral-interview/images/interview-preparation-grid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-leetcode-resources/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-leetcode-resources/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-leetcode-resources/images/leetcode-repo-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/google_authenticator/GoogleAuthenticatorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/ParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/enums/AccountStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/enums/PaymentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/entry_exit/Entrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/entry_exit/Exit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/parking_rate/ParkingRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/parking_spot/Compact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/parking_spot/Handicapped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/parking_spot/Large.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/parking_spot/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/parking_spot/ParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/parking_ticket/ParkingTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/payment/CardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/payment/CashPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/payment/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/vehicle/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/vehicle/MotorCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/vehicle/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/vehicle/Van.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/parking_lot/service/vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/snake_and_ladder/ClientClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/snake_and_ladder/model/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/snake_and_ladder/model/Ladder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/snake_and_ladder/model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/snake_and_ladder/model/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/snake_and_ladder/readMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/snake_and_ladder/service/DiceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/snake_and_ladder/service/SnakeAndLadderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/concepts/DRY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/concepts/KISS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/concepts/OOPS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/concepts/YAGNI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/images/lld-repo-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/airline-management-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/amazon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/atm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/car-rental-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/chess-game.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/coffee-vending-machine.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/concert-ticketing-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/course-registration-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/cricinfo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/digital-wallet-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/elevator-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/facebook.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/food-delivery-service.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/hotel-management-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/library-management-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/linkedin.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/logging-framework.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/lru-cache.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/music-streaming-service.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/online-auction-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/online-stock-brokerage-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/parking-lot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/pub-sub-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/restaurant-management-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/ride-sharing-service.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/stack-overflow.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/task-management-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/tic-tac-toe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/traffic-signal.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/problems/vehicle-rental-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-system-design-resources/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-system-design-resources/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-system-design-resources/diagrams/interview-template.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-system-design-resources/diagrams/system-design-github-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-system-design-resources/interview-template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/DSA/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Design_Pattern/Structral/Builder/Builder_Design_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD_Repos/Design_a_coupon_and_voucher_managment/Main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD_Repos/Design_a_coupon_and_voucher_managment/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/extras/MerkleTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/Shortest_path_between_src_dest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/mapCharsToDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/agoda/Round_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/agoda/Round_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/agoda/Round_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/agoda/Round_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/outcomes/Round_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily-DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Daily-DSA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/_OondaPradarshan/SubSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/_OondaPradarshan/SubSequences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/arrays/productExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/arrays/productExceptSelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/trees/Invert_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/trees/Invert_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/extras/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/extras/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_17_Letter_Combinations_of_a_Phone_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_17_Letter_Combinations_of_a_Phone_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_91_Decode_Ways_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_91_Decode_Ways_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Weekly/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Weekly/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Weekly/_3090_Maximum_Length_Substring_With_Two_Occurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Weekly/_3090_Maximum_Length_Substring_With_Two_Occurrences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Weekly/mera/_3043_Find_the_Length_of_the_Longest_Common_Prefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Weekly/mera/_3043_Find_the_Length_of_the_Longest_Common_Prefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/test/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/test/main.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -567,7 +306,7 @@
     "git-widget-placeholder": "Daily-DSA",
     "jdk.selected.JAVA_MODULE": "liberica-11",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions",
+    "last_opened_file_path": "/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/finale",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -579,11 +318,11 @@
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24" />
-      <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft" />
-      <recent name="$PROJECT_DIR$/src/main/finale/DSA" />
-      <recent name="$PROJECT_DIR$/src/main/finale/DSA/graphs" />
       <recent name="$PROJECT_DIR$/src/main/finale" />
+      <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions" />
+      <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos" />
+      <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine" />
+      <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/finale/extras" />
