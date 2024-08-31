@@ -14,7 +14,7 @@ public class SubSequences {
             System.out.print(it + " ");
         }
 
-        rec(s, "", 0);
+//        rec(s, "", 0);
     }
 
     public static ArrayList<String> AllPossibleStrings(String s) {

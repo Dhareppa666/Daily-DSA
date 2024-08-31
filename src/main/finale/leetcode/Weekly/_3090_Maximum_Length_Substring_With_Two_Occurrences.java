@@ -5,7 +5,7 @@ package main.finale.leetcode.Weekly;
 public class _3090_Maximum_Length_Substring_With_Two_Occurrences {
 
     public static void main(String[] args) {
-        int maxNum = maximumLengthSubstring("bcbbbcba");// o/p: 4
+        int maxNum = maximumLengthSubstring2("bcbbbcba");// o/p: 4
         System.out.println(maxNum);
     }
 
@@ -23,6 +23,23 @@ public class _3090_Maximum_Length_Substring_With_Two_Occurrences {
             }
             ans = Math.max(ans, count);
         }
+        return ans;
+    }
+
+    public static int maximumLengthSubstring2(String s) {
+        int left = 0, right = 0, len = s.length() - 1;
+        int ans = 0;
+        char[] freq = new char[26];
+        while (right <= len) {
+            freq[s.charAt(right) - 'a']++;
+            while (freq[s.charAt(right) - 'a'] > 2 && left < right) {
+                freq[s.charAt(left) - 'a']--;
+                left++;
+            }
+            ans = Math.max(ans, right - left + 1);
+            right++;
+        }
+
         return ans;
     }
 }

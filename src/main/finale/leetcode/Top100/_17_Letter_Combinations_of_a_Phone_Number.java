@@ -5,28 +5,31 @@ import java.util.*;
 public class _17_Letter_Combinations_of_a_Phone_Number {
 
     public static void main(String[] args) {
-        List<String> combinations = letterCombinations("234");
+        List<String> combinations = letterCombinations("23");
         System.out.println(combinations);
         System.out.println(combinations.size());
     }
 
     public static List<String> letterCombinations(String digits) {
-        Queue<String> ans = new LinkedList<>();
+        Queue<String> queue = new LinkedList<>();
         if (digits.isEmpty()) {
-            return (List<String>) ans;
+            return (List<String>) queue;
         }
         String[] mapping = {"0", "1", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
-        ans.add("");
+        queue.add("");
         for (int i = 0; i < digits.length(); i++) {
             int x = Character.getNumericValue(digits.charAt(i));
-            while (ans.peek().length() == i) {
-                String t = ans.poll();
+            int queueLen = queue.size();
+            int count = 1;
+            while (count <= queueLen) {
+                String t = queue.poll();
                 for (char c : mapping[x].toCharArray()) {
-                    ans.add(t + c);
+                    queue.add(t + c);
                 }
+                count++;
             }
         }
-        return (List<String>) ans;
+        return (List<String>) queue;
     }
 
     public static List<String> letterCombinations2(String digits) {

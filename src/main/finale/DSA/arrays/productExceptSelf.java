@@ -6,7 +6,7 @@ public class productExceptSelf {
 
     public static void main(String[] args) {
         int[] ints = productExceptSelf(new int[]{1, 2, 3, 4});
-        Arrays.toString(ints);
+        System.out.println(Arrays.toString(ints));
     }
 
     public static int[] productExceptSelf(int[] nums) {

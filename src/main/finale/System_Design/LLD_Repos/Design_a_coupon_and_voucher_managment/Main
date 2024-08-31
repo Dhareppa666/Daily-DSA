@@ -1,0 +1,121 @@
+//       ****AMAZON****
+//Design a coupon and voucher management system's Low level design.
+//
+//Requirements were:
+//Admin will create coupons with rules(like match age>18 and cart_value>1000);
+//Coupons will have (overall uses limit / per ser limit ), expiry date , active/inactive etc.
+//
+//Vouchers will be of type
+//Unassigned : anyone can use but only one uses
+//"PreAssigned": Voucher attached to user id
+//
+//Was asked to design api too:
+//User will see list of available coupons and Vouchers;
+//Admin can delete/ create , activate or disable coupons etc.
+
+====================
+POST:   /api/v1/admin/create-coupon {Coupon} :: Res=> 201 ACCEPTED
+DELETE: /api/v1/admin/delete-coupon/{couponId} :: RES=> 200 OK or 204 No Content to return back
+PUT:    /api/v1/admin/activate-coupon/{couponId} :: 404 or 200
+PUT:    /api/v1/admin/deactivate-coupon/{couponId} :: 404 or 200
+
+GET: /api/v1/get-all-coupons
+GET: /api/v1/get-all-active-coupons
+GET: /api/v1/get-all-vouchers
+GET: /api/v1/get-all-active-vouchers
+
+====================
+VoucherStatus
+PromotionStatus
+Person
+Admin extends Person
+User extends Person
+Promotion
+Voucher
+Coupon
+
+PromotionsCRUD
+VoucherCRUD
+CouponCRUD
+
+enum VoucherStatus{
+UnAssigned, Assigned
+}
+enum CouponStatus {
+Active, InActive
+}
+
+class Person{
+private String userName;
+private String userPassword;
+private String userId;
+}
+
+class User extends Person {
+    public boolean canApplyVoucher(Voucher voucher){}
+    public boolean canApplyCoupon(Coupon coupon){}
+}
+
+class Admin extends Person {
+    public Coupon createCoupon();
+    public Voucher createVoucher();
+    public Coupon deleteCoupon();
+    public Voucher deleteVoucher();
+    public boolean updateCoupon();
+    public boolean updateVoucher();
+}
+
+class Promotion {
+    int value;
+    LocalDateTime expiryDate;
+    PromotionStatus status;
+    // constructor to initialize value for this class
+    public void changeExpiryDate(LocalDateTime newExpiryDate);
+    public void changePromotionStatus(PromotionStatus promoStatus);
+}
+
+class Voucher extends Promotion {
+    VoucherStatus voucherStatus;
+    String userId;
+    public void changeVoucherStatus(VoucherStatus vs) {this.voucherStatus = vs;}
+    public void setUser(String u){this.userid = u;}
+}
+
+class Coupon extends Coupon {
+    int useges;
+    int maxUsages;
+    public boolean isValid(){
+        boolean isCouponsAvailable = usages<maxUsages;
+        if(isCouponsAvailable) { changeUsages; }
+        return voucherStatus.equals(VoucherStatus.ACTIVE) && isCouponsAvailable;
+    }
+    public void changeUsages(){
+        if(usages<maxUsages) {
+            usages++;
+        } else {
+            promotionStatus = VoucherStatus.INACTIVE;
+        }
+    }
+}
+
+interface promotionsRepository
+{
+    public boolean AddPromotion(Promotion promo);
+    public boolean UpdatePromotion(Promotion promo);
+    public boolean DeletePromotion(Promotion promo);
+    public boolean ApplyPromotion(Promotion promo);
+}
+
+class CouponOperations implments promotionsRepository {
+    public boolean AddPromotion(Coupon promo);
+    public boolean UpdatePromotion(Coupon promo);
+    public boolean DeletePromotion(Coupon promo);
+    public boolean ApplyPromotion(Coupon promo);
+}
+
+class VoucherOperations implments promotionsRepository {
+    public boolean AddPromotion(Voucher promo);
+    public boolean UpdatePromotion(Voucher promo);
+    public boolean DeletePromotion(Voucher promo);
+    public boolean ApplyPromotion(Voucher promo);
+}

@@ -9,6 +9,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/aa/Java/streams" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/aa/Java/unit_testing" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/Java/unit_testing" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/finale/System_Design/LLD_Repos/Task-scheduler" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

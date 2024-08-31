@@ -1,5 +1,7 @@
 package main.finale.extras;
 
+import main.finale.DSA.trees._test;
+
 import java.util.*;
 
 public class Sample {
@@ -36,7 +38,7 @@ public class Sample {
         treeMap.put(123,1111);
         treeMap.put(654,11111);
         treeMap.put(234,111111111);
-        System.out.println(treeMap);
+        System.out.println("Treemap is: " + treeMap);
 
         System.out.println(map.entrySet());
         Set entrySet = map.entrySet();
