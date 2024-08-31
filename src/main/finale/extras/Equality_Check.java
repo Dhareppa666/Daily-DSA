@@ -4,19 +4,12 @@ public class Equality_Check {
     public static void main(String[] args) {
         call01();
         call02();
-        call03();
         call04();
     }
 
     private static void call04() {
         String s = "ABCD123XYZ1";
         System.out.println(s.replaceAll("[A-Z]", "*"));
-    }
-
-    private static void call03() {
-        String s = "  ABCDDD      ";
-        s = s.trim();
-        System.out.println(":"+s+":");
     }
 
     private static void call02() {

@@ -7,36 +7,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="ABC-001 commit-05">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/threadpool_executor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/threadpool_executor/RejectionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/threadpool_executor/ThreadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Weekly/_3090_Maximum_Length_Substring_With_Two_Occurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/General_asked_Ques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/goldman/Round_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/goldman/Round_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/goldman/Round_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/mke_my_trip/Round_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Intv_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily-DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Daily-DSA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2021_22/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/EmployeeDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/EmployeeDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/InitStaticBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/InitStaticBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/basic/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/streams/test/Main2.java" afterDir="false" />
-    </list>
+    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="Daily DSA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,12 +38,12 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="subBranch" />
       </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -83,23 +54,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/finale/patterns/Problems/Arrays/AmstrongNumber.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Recursion/String_is_pal.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/patterns/Problems/Arrays/Array_is_sorted_and_rotated.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Recursion/Print_WIth_BackTrack.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/patterns/Problems/Arrays/Remove_Duplicates_from_sorted_array.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Recursion/Print_name_n_times.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Recursion/Basics.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Recursion/SubSequence_sum_is_K.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/patterns/vik/Demo4.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/patterns/Problems/Arrays/GCD_of_two_numbers.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/patterns/vik/Test.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/patterns/vik/Demo5.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/patterns/vik/Demo6.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/In_Walmart/LC/Daily/P_62_Unique_Paths.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/patterns/Problems/Arrays/NoOfDigits.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Recursion/SubSequences.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/finale/In_Walmart/Raj_Vik/Recursion/Reverse_String.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/finale/extras/LRUCache.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -191,29 +146,51 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.A8013_Number_of_Beautiful_Integers_in_the_Range.executor": "Run",
+    "Application.AA.executor": "Run",
     "Application.Anagrams.executor": "Run",
+    "Application.Array_is_sorted_and_rotated.executor": "Run",
     "Application.Baloons.executor": "Run",
     "Application.Bijli.executor": "Run",
+    "Application.Builder_Design_Pattern.executor": "Run",
+    "Application.CloningEx.executor": "Run",
     "Application.Coin_Change_II.executor": "Run",
     "Application.Coin_Change_Problem.executor": "Run",
     "Application.Count_Distinct_Substrings_I.executor": "Run",
+    "Application.Equality_Check.executor": "Run",
+    "Application.EraseOverlapIntervals.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.FileReadWrite.executor": "Run",
-    "Application.Find_Anagrams.executor": "Run",
+    "Application.Find_Anagrams.executor": "Debug",
+    "Application.Find_Minimum_in_Rotated_Sorted_Array.executor": "Run",
     "Application.Find_Peak_Element.executor": "Run",
     "Application.Find_Pivot_Index.executor": "Run",
+    "Application.FutureExample.executor": "Run",
+    "Application.General_asked_Ques.executor": "Run",
+    "Application.General_asked_Ques2.executor": "Run",
     "Application.Get_all_Divisors.executor": "Debug",
+    "Application.GraphEdgeList.executor": "Run",
+    "Application.Graph_BFS$Graph_DFS.executor": "Run",
+    "Application.Graph_DFS.executor": "Debug",
     "Application.Graph_DFS_Learn.executor": "Run",
     "Application.InitStaticBlocks.executor": "Run",
     "Application.Interleaving_String.executor": "Run",
     "Application.Intersection_of_two_arrays.executor": "Run",
+    "Application.Intv_09.executor": "Run",
+    "Application.InwardAdjacencyList.executor": "Run",
+    "Application.JdbcConnection.executor": "Run",
     "Application.Jumps_1.executor": "Run",
+    "Application.Jumps_2.executor": "Run",
     "Application.Kruskals_algo.executor": "Run",
+    "Application.LRUCache.executor": "Run",
     "Application.Longest_Subarray_with_given_Sum_K.executor": "Run",
     "Application.MT_testing.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main2.executor": "Run",
+    "Application.MaxDifference.executor": "Run",
     "Application.Maximum_Depth_of_Binary_Tree.executor": "Run",
+    "Application.Meeting_rooms_2.executor": "Run",
+    "Application.MerkleTree.executor": "Run",
     "Application.Min_Cost_Climbing_Stairs.executor": "Run",
     "Application.Move_Zeros.executor": "Run",
     "Application.MultiThread_Demo_By_Extd.executor": "Run",
@@ -227,6 +204,10 @@
     "Application.Producer_Consumer_Test.executor": "Run",
     "Application.Queens_wala.executor": "Run",
     "Application.Remove_Duplicates_from_sorted_array.executor": "Run",
+    "Application.Round2.executor": "Run",
+    "Application.Round_01.executor": "Run",
+    "Application.Round_02.executor": "Run",
+    "Application.Sample.executor": "Run",
     "Application.SeatBookingApp.executor": "Run",
     "Application.Shuffle_the_Array.executor": "Run",
     "Application.Solution.executor": "Run",
@@ -235,51 +216,93 @@
     "Application.StreamsLearn.executor": "Run",
     "Application.StreamsLearn_02.executor": "Run",
     "Application.SubSequence.executor": "Run",
+    "Application.SubSequences.executor": "Run",
     "Application.Subarray_Sums_Divisible_by_K.executor": "Run",
     "Application.SwapStringChars.executor": "Run",
     "Application.TEST.executor": "Run",
     "Application.TargetSum.executor": "Run",
-    "Application.Test.executor": "Run",
+    "Application.Test.executor": "Debug",
     "Application.Test2.executor": "Run",
     "Application.Test_Ex.executor": "Run",
     "Application.Test_Num.executor": "Run",
+    "Application.Testing.executor": "Run",
+    "Application.Three_Sum.executor": "Debug",
+    "Application.TopologicalSort.executor": "Run",
     "Application.TripletSumORThreeSome.executor": "Run",
+    "Application.WeightedRandomCharacterStream.executor": "Run",
+    "Application._100287_Find_the_Integer_Added_to_Array_II.executor": "Debug",
+    "Application._1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.executor": "Run",
     "Application._150_Evaluate_Reverse_Polish_Notation.executor": "Run",
+    "Application._165_Compare_Version_Numbers.executor": "Run",
+    "Application._17_Letter_Combinations_of_a_Phone_Number.executor": "Run",
     "Application._1897_Redistribute_Characters_to_Make_All_Strings_Equal.executor": "Run",
     "Application._198_House_Robber.executor": "Run",
     "Application._2149_Rearrange_Array_Elements_by_Sign.executor": "Run",
+    "Application._227_Basic_Calculator_II.executor": "Run",
+    "Application._2444_Count_Subarrays_With_Fixed_Bounds.executor": "Run",
     "Application._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.executor": "Debug",
     "Application._27th_Feb_24.executor": "Run",
     "Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty.executor": "Run",
+    "Application._287_Find_the_Duplicate_Number.executor": "Run",
+    "Application._2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.executor": "Run",
     "Application._2971_Find_Polygon_With_the_Largest_Perimeter.executor": "Run",
+    "Application._2nd_highest_salary.executor": "Run",
     "Application._3043_Find_the_Length_of_the_Longest_Common_Prefix.executor": "Run",
     "Application._3090_Maximum_Length_Substring_With_Two_Occurrences.executor": "Run",
+    "Application._3152_Special_Array_II.executor": "Debug",
+    "Application._394_Decode_String.executor": "Debug",
+    "Application._398_Random_Pick_Index.executor": "Run",
+    "Application._42_Trapping_Rain_Water.executor": "Run",
+    "Application._442_Find_All_Duplicates_in_an_Array.executor": "Run",
     "Application._455_Assign_Cookies.executor": "Run",
+    "Application._496_Next_Greater_Element_I.executor": "Debug",
+    "Application._506_Relative_Ranks.executor": "Run",
     "Application._543_Diameter_of_Binary_Tree.executor": "Run",
+    "Application._5_Longest_Palindromic_Substring.executor": "Run",
     "Application._680_Valid_Palindrome_II.executor": "Run",
+    "Application._713_Subarray_Product_Less_Than_K.executor": "Run",
+    "Application._76_Minimum_Window_Substring.executor": "Run",
     "Application._797_All_Paths_From_Source_to_Target.executor": "Run",
+    "Application._79_Word_Search.executor": "Run",
     "Application._841_Keys_and_Rooms.executor": "Run",
+    "Application._881_Boats_to_Save_People.executor": "Run",
+    "Application._91_Decode_Ways.executor": "Run",
+    "Application._91_Decode_Ways_01.executor": "Run",
+    "Application._91_Decode_Ways_02.executor": "Run",
+    "Application._91_Decode_Ways_03.executor": "Run",
+    "Application._930_Binary_Subarrays_With_Sum.executor": "Debug",
     "Application._997_Find_the_Town_Judge.executor": "Run",
+    "Application._Length_of_Longest_Subarray_With_at_Most_K_Frequency.executor": "Debug",
     "Application.abc.executor": "Run",
     "Application.count_dist_nums.executor": "Run",
     "Application.duplicateZeros.executor": "Run",
+    "Application.extra_characters_in_a_string.executor": "Run",
     "Application.find_missing_number.executor": "Run",
     "Application.formatting.executor": "Run",
     "Application.isNumHappy.executor": "Run",
+    "Application.isPalindrome.executor": "Run",
+    "Application.main.finale.Java.streams.Testing.executor": "Run",
     "Application.main.finale.Java.streams.test.Main.executor": "Run",
+    "Application.main.finale.leetcode.Blind_75._227_Basic_Calculator_II.executor": "Run",
     "Application.main.walmart.Solution.executor": "Debug",
+    "Application.mapCharsToDigits.executor": "Run",
     "Application.masking.executor": "Run",
     "Application.masking_Using_SB.executor": "Run",
+    "Application.numOfSubarraysMedium.executor": "Run",
+    "Application.productExceptSelf.executor": "Run",
+    "Application.removeSigleDigit.executor": "Run",
     "Application.repeated_substring_pattern.executor": "Run",
     "Application.staticVarTesting.executor": "Run",
+    "Application.t.executor": "Run",
     "Application.test.executor": "Run",
     "Application.trapping_rain_water.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Daily-DSA",
     "jdk.selected.JAVA_MODULE": "liberica-11",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/intvs/int2023_24",
+    "last_opened_file_path": "/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/finale",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -291,11 +314,11 @@
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24" />
-      <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft" />
-      <recent name="$PROJECT_DIR$/src/main/finale/DSA" />
-      <recent name="$PROJECT_DIR$/src/main/finale/DSA/graphs" />
       <recent name="$PROJECT_DIR$/src/main/finale" />
+      <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions" />
+      <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos" />
+      <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine" />
+      <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/finale/extras" />
@@ -304,20 +327,20 @@
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.finale.leetcode.Blind_75.arrays" />
+      <recent name="main.intvs.int2023_24" />
+      <recent name="main.finale.leetcode.Top100" />
+      <recent name="main.finale.leetcode" />
       <recent name="main.finale.In_Walmart.nextLeap.HeapAndQueue" />
-      <recent name="main.finale.In_Walmart.nextLeap.graphs" />
-      <recent name="main.finale.In_Walmart.Top100" />
-      <recent name="main.finale.In_Walmart.nextLeap.tries" />
-      <recent name="main.finale.In_Walmart.nextLeap.trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._3090_Maximum_Length_Substring_With_Two_Occurrences">
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.test.Main2" />
+  <component name="RunManager" selected="Application.Builder_Design_Pattern">
+    <configuration name="Builder_Design_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.Design_Pattern.Structral.Builder.Builder_Design_Pattern" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Java.streams.test.*" />
+          <option name="PATTERN" value="main.finale.Design_Pattern.Structral.Builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,12 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.basic.StreamsLearn" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.System_Design.LLD_Repos.Design_a_coupon_and_voucher_managment.Main" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Java.streams.basic.*" />
+          <option name="PATTERN" value="main.finale.System_Design.LLD_Repos.Design_a_coupon_and_voucher_managment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,12 +361,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.test.Test" />
+    <configuration name="Round_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.intvs.int2023_24.agoda.Round_01" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.test.*" />
+          <option name="PATTERN" value="main.intvs.int2023_24.agoda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,12 +374,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3090_Maximum_Length_Substring_With_Two_Occurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Weekly._3090_Maximum_Length_Substring_With_Two_Occurrences" />
+    <configuration name="extra_characters_in_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.strings.extra_characters_in_a_string" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.leetcode.Weekly.*" />
+          <option name="PATTERN" value="main.finale.DSA.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,12 +387,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.finale.Java.streams.test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.streams.test.Main" />
+    <configuration name="productExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.arrays.productExceptSelf" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Java.streams.test.*" />
+          <option name="PATTERN" value="main.finale.DSA.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,11 +413,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._3090_Maximum_Length_Substring_With_Two_Occurrences" />
-        <item itemvalue="Application.StreamsLearn" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.main.finale.Java.streams.test.Main" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Builder_Design_Pattern" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Round_01" />
+        <item itemvalue="Application.extra_characters_in_a_string" />
+        <item itemvalue="Application.productExceptSelf" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1613476797594</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Daily DSA">
+      <option name="closed" value="true" />
+      <created>1725122834362</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725122834362</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -528,7 +559,8 @@
     <MESSAGE value="ABC-001 commit-03" />
     <MESSAGE value="ABC-001 commit-04" />
     <MESSAGE value="ABC-001 commit-05" />
-    <option name="LAST_COMMIT_MESSAGE" value="ABC-001 commit-05" />
+    <MESSAGE value="Daily DSA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily DSA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1362,6 +1394,131 @@
           <url>file://$PROJECT_DIR$/src/main/intvs/int2021_22/Solution.java</url>
           <line>52</line>
           <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2958/_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2958/_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2958/_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Find_Anagrams.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Top100/_1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/arrays/medium/Three_Sum.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="297" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -5,23 +5,26 @@ package main.finale.DSA.arrays.medium;
 public class numOfSubarraysMedium {
 
     public static void main(String[] args) {
-        int res = numOfSubarrays(new int[]{2,2,2,2,5,5,5,8}, 3, 4);
+        int res = numOfSubarrays(new int[]{2, 2, 2, 2, 5, 5, 5, 8}, 3, 4);
         System.out.println(res);
     }
 
     public static int numOfSubarrays(int[] arr, int k, int threshold) {
-        int res = 0;
-        int sum = 0;
-        for(int i=0; i<k; i++) {
-            sum+=arr[i];
+        int sum = 0, res = 0;
+        for (int i = 1; i <= k; i++) {
+            sum += arr[i - 1];
         }
-        for(int i=0; i<arr.length-k+1; i++) {
-            if(i!=0) {
-                sum = sum - (arr[i-1]) + (arr[i+k-1]) ;
-            }
-            if(sum / k >= threshold){
+        int idx = 0;
+
+        if (sum / k >= threshold) {
+            res++;
+        }
+        for (int i = k; i < arr.length; i++) {
+            sum = sum + arr[i] - arr[idx] ;
+            if (sum / k >= threshold) {
                 res++;
             }
+            idx++;
         }
         return res;
     }

@@ -2,46 +2,59 @@ package main.finale.Java.streams;
 
 import java.util.*;
 import java.util.stream.Collectors;
-
-import static java.lang.System.out;
+import java.util.stream.Stream;
 
 public class Solution {
 
-    private static final Map<String, String> countryMap = new HashMap<>();
-
     public static void main(String[] args) {
-        fotmat();
+        // streams don't change the original data.
+        // present in java.util.streams;
 
-        List<Student> list = List.of(
-                new Student(1, "Arun"),
-                new Student(2, "Singh"),
-                new Student(3, "Seema"),
-                new Student(4, "Seema"));
+        //1. stream().map()... pretty basic
+        //2. stream().forEach()... basic
+        //3. Matching
 
-        Set<String> nameStartsWith_S = list.stream().map(Student::getName).filter(str -> str.startsWith("S")).collect(Collectors.toSet());
+        List<String> list = List.of("Harman", "Microsoft", "Walmart", "Himalaya");
 
-        out.println("nameStartsWith_S are: " + nameStartsWith_S);
-        out.println("------------------------");
-        List<Integer> newList = list.stream().map(Student::getId).filter(x -> x < 2).collect(Collectors.toList());
-        newList.stream().forEach(x -> out.println(x));
-    }
+        boolean isValid = list.stream().anyMatch((s) -> s.startsWith("H"));
+        boolean isAllMatching = list.stream().allMatch((s) -> s.startsWith("H"));// If stream is empty then "true"
+        boolean isNoneMatching = list.stream().noneMatch((s) -> s.startsWith("H"));
 
-    private static void fotmat() {
-        String countryValues = "ZRZ:Zairean Zaire (1971–1993)|ZMW:Zambian Kwacha|ZMK:Zambian Kwacha (1968–2012)|ZWD:Zimbabwean Dollar (1980–2008)|\n" +
-                "ZWR:Zimbabwean Dollar (2008)|ZWL:Zimbabwean Dollar (2009)|AFN:Afghan Afghani|ALL:Albanian Lek|\n" +
-                "ALK:Albanian Lek (1946–1965)|DZD:Algerian Dinar|ADP:Andorran Peseta|AOA:Angolan Kwanza|\n" +
-                "AOK:Angolan Kwanza (1977–1991)|AON:Angolan New Kwanza (1990–2000)|AOR:Angolan Readjusted Kwanza (1995–1999)|\n" +
-                "BSD:Bahamian Dollar|TJR:Tajikistani Ruble|TJS:Tajikistani Somoni|TZS:Tanzanian Shilling|THB:Thai Baht|\n" +
-                "TPE:Timorese Escudo|TOP:Tongan Paʻanga|TTD:Trinidad & Tobago Dollar|UAH:Ukrainian Hryvnia|UAK:Ukrainian Karbovanets|\n" +
-                "AED:United Arab Emirates Dirham|USD:US Dollar|ZRN:Zairean New Zaire (1993–1998)|USN:US Dollar (Next day)|\n" +
-                "USS:US Dollar (Same day)|UZS:Uzbekistani Som|VUV:Vanuatu Vatu|VES:Venezuelan Bolívar|VEB:Venezuelan Bolívar (1871–2008)|\n" +
-                "XOF:West African CFA Franc|CHE:WIR Euro|CHW:WIR Franc|YDD:Yemeni Dinar|YER:Yemeni Rial|YUN:Yugoslavian Convertible Dinar (1990–1992)|\n" +
-                "YUR:Yugoslavian Reformed Dinar (1992–1993)";
+        System.out.println("isValid: " + isValid);
+        System.out.println("isAllMatching: " + isAllMatching);
+        System.out.println("isNoneMatching: " + isNoneMatching);
 
-        String formattedVal = countryValues.replace("\n", "");
-        String[] arr = formattedVal.split("\\|");
-        Arrays.stream(arr).map(x -> x.split(":")).forEach(x -> out.println(Arrays.toString(x)));
-        Arrays.stream(arr).map(x -> x.split(":")).forEach(x -> countryMap.put(x[0], x[1]));//.collect(Collectors.toList());
-        out.println(countryMap);
+        System.out.println("------------------------");
+
+        //4. Reduction -> Reducer
+        List<Integer> numbers = List.of(1, 2, 3);
+        Integer sum = numbers.stream().reduce(0, (a, b) -> a + b);
+        System.out.println("Sum of elements are: " + sum);
+
+        System.out.println("------------------------");
+
+        //5. Collection -> collect
+        List<String> upperCaseNames = list.stream().map((s) -> s.toUpperCase()).collect(Collectors.toList());
+        System.out.println("Uppercase Names are: " + upperCaseNames);
+
+        String[] namesArr = {"apple", "banana", "apple", "orange", "banana", "apple"};
+        Map<String, Long> freqMap = Arrays.stream(namesArr)
+                .collect(Collectors.groupingBy(str -> str, Collectors.counting()));
+        System.out.println("Element and its occurrences are: " + freqMap);
+
+        System.out.println("------------------------");
+
+        //6. Terminal Operations -> count, sorted, min, max, toArray(), of(), limit, skip, distinct, findFirst, findAny
+        Object[] toArray = list.stream().toArray();
+
+        Stream<Object> streamOfMethod = Stream.of("A", "B", "A");
+        streamOfMethod.forEach(System.out::print);
+
+        System.out.println("------------------------");
+
+        //7. Parallel Stream
+        List<Integer> nums = List.of(1, 2, 3, 4, 5);
+        Integer numsSum = nums.stream().parallel().reduce(0, Integer::sum) + 10;
+        System.out.println("Parallel Stream sum result: " + numsSum);
     }
 }

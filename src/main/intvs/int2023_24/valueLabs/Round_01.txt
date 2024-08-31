@@ -1,0 +1,44 @@
+
+Few questions on how nodeJs handles concurrent Requests.
+Microservice in Depth (communication, architecture, what is best)
+SQL vs NoSql
+Bit of API Gateway
+
+
+
+////////////
+
+3(a)2(bc) -> aaabcbc
+
+const str1 = "debitcard";
+const str2 = "badcredit";
+
+const anagram = (str1, str2)=> {
+  // str1 = str1.split("").sort().join();
+  // str2 = str2.split("").sort().join();
+
+  // return str1 === str2;
+
+  const freq1 = []; // default length is 26
+  const freq2 = []; // default length is 26
+  for(let index = 0; index<str1.length; index++) {
+    freq1[str1.charAt(index)-'a'] = freq1[str1.charAt(index)-'a'] + 1;
+    freq2[str2.charAt(index)-'a'] = freq2[str2.charAt(index)-'a'] + 1;
+  }
+  console.log(freq1 + ">>>>");
+  console.log(freq2 + ">>>>");
+  return isFreqEqual(freq1, freq2);
+}
+
+const isFreqEqual = (freq1, freq2) => { //max 26 chars i have
+
+  for(let index=0; index<26; index++) {
+    if(freq1[index] != freq2[index]) {
+      return false;
+    }
+  }
+  return true;
+}
+
+console.log(anagram(str1, str2));
+
