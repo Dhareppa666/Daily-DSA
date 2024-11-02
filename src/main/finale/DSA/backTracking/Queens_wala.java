@@ -1,65 +1,60 @@
 package main.finale.DSA.backTracking;
 
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
 public class Queens_wala {
 
     public static void main(String[] args) {
-        int n = 5;
-        int[][] mat = new int[n][n];
-        nQueens(mat, 0, n);
+        int n = 4;
+        List<List<String>> res = solveNQueens(n);
+        System.out.println(res);
     }
 
-    private static void nQueens(int[][] mat, int row, int n) {
-        if (row == n) {
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < n; j++) {
-                    if (mat[i][j] == 1) {
-                        System.out.print("Q ");
-                    } else {
-                        System.out.print("_ ");
-                    }
-                }
-                System.out.println("");
-            }
-            System.out.println();
-            System.out.println();
+    public static List<List<String>> solveNQueens(int n) {
+        char[][] board = new char[n][n];
+        for (int i = 0; i < n; i++)
+            for (int j = 0; j < n; j++)
+                board[i][j] = '.';
+        List<List<String>> res = new ArrayList<List<String>>();
+        dfs(board, 0, res);
+        return res;
+    }
+
+    private static void dfs(char[][] board, int colIndex, List<List<String>> res) {
+        if (colIndex == board.length) {
+            res.add(construct(board));
             return;
         }
-        for (int col = 0; col < n; col++) {
-            if (isValidate(mat, row, col, n)) {
-                mat[row][col] = 1;
-                nQueens(mat, row + 1, n);
-                mat[row][col] = 0;
+
+        for (int i = 0; i < board.length; i++) {
+            if (validate(board, i, colIndex)) {
+                board[i][colIndex] = 'Q';
+                dfs(board, colIndex + 1, res);
+                board[i][colIndex] = '.';
             }
         }
-        return;
     }
 
-    private static boolean isValidate(int[][] mat, int i, int j, int n) {
-        int x = i;
-        while (x >= 0) {
-            if (mat[x][j] == 1) {
-                return false;
+    private static boolean validate(char[][] board, int rowIdx, int colIdx) {
+        for (int i = 0; i < board.length; i++) {
+            for (int j = 0; j < colIdx; j++) {
+                if (board[i][j] == 'Q' && (rowIdx + j == colIdx + i || rowIdx + colIdx == i + j || rowIdx == i))
+                    return false;
             }
-            x--;
         }
 
-        int x1 = i, y1 = j;
-        while (x1 >= 0 && y1 >= 0) {
-            if (mat[x1][y1] == 1) {
-                return false;
-            }
-            x1--;
-            y1--;
-        }
-
-        int x2 = i, y2 = j;
-        while (x2 >= 0 && y2 < n) {
-            if (mat[x2][y2] == 1) {
-                return false;
-            }
-            x2--;
-            y2++;
-        }
         return true;
     }
+
+    private static List<String> construct(char[][] board) {
+        List<String> res = new LinkedList<String>();
+        for (int i = 0; i < board.length; i++) {
+            String s = new String(board[i]);
+            res.add(s);
+        }
+        return res;
+    }
+
 }
