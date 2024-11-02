@@ -2,9 +2,6 @@ package main.intvs.int2023_24.apple;
 
 public class Round_01 {
 
-
-
-
     private int[] rolls = new int[21]; // Maximum rolls in a game (in case of strikes in the 10th frame)
     private int currentRoll = 0;
 
