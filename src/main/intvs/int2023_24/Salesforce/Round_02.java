@@ -13,6 +13,7 @@ public class Round_02 {
     // { "oldVariable": "newVariable" } // I told that I will use MAP <3
     // Add on is that how will you store new info about newVariable, I told that key will be old
     // Variable in the map and then value will be the object itself.
+    // You deployed something ON prod and How will you get to know that you don't regression on the other part of the comps.
 
     // Interviewer was very happy and told me that since IDC is celebrating Diwali
     // You will receive the call next week on the same.

@@ -9,7 +9,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="Daily DSA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily-DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Daily-DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2023_24/Salesforce/Round_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/Salesforce/Round_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2023_24/apple/Round_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/apple/Round_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Round11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Round11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

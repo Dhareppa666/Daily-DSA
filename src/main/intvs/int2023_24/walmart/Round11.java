@@ -6,10 +6,6 @@ public class Round11 {
 
     private Integer DEFAULT_PRICE_INCREEMENTER = 1;
 
-    public static void main(String[] args) {
-
-    }
-
     // HashMap<Product, price> =>
 
 //    public void initializeProducts(List<Product> allProducts) {
