@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
+//dijikstra's algo
 public class Dijkstras_Algorithm {
 
     static class Node implements Comparable<Node> {

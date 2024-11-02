@@ -6,7 +6,7 @@ public class Meeting_rooms_2 {
 
     public static void main(String[] args) {
 //        int[][] input = {{0, 30},{5, 10},{15, 20}};
-        int[][] input = {{0, 30}, {5, 10}, {10, 15}};
+        int[][] input = {{0, 30}, {5, 10}, {10, 15}, {15,20}};
         int meetingRooms = getMinimumNumberOfMeetingRooms(input);
         System.out.println("Total Number of Meeting Rooms required are: " + meetingRooms);
     }
@@ -22,8 +22,8 @@ public class Meeting_rooms_2 {
         Arrays.sort(start);
         Arrays.sort(end);
         int i = 0, j = 0;
-        while (i < meetings.length) {
-            if (start[i] < end[j]) {
+        while (i < meetings.length) {//{{0, 30}, {5, 10}, {10, 15}}
+            if (start[i] < end[j]) {//0,5,10 //10,15,30
                 count++;
                 i++;
             } else if (start[i] >= end[j]) {

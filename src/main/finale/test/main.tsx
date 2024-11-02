@@ -76,12 +76,6 @@ https://lnkd.in/eGv_iaGZ
 https://lnkd.in/e9PBzUve
 
 https://lnkd.in/e3fRJjsZ
-👏
-👍
-👎
-😊
-😞
-
 
 If you want to become good at cracking coding interviews, learn these templates (part 2):
 

@@ -7,7 +7,157 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="Daily DSA" />
+    <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="Daily DSA">
+      <change afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class03/shortest_path/handson/dijikstra_Algo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/DSA/recursion/depth/_1toN_print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/DSA/recursion/depth/sortStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/DSA/recursion/depth/subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/LFUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/PostfixToInfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/TODO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/Top_K_products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_128_Longest_Consecutive_Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_165_Compare_Version_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_213_House_Robber_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_322_Coin_Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_49_Group_Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_743_Network_Delay_Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_76_Minimum_Window_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/maxSlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/PaymentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/Soln.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cache_management/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cache_management/CacheManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cache_management/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cache_management/datastructers/DLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cache_management/datastructers/DLLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cache_management/strategies/CacheStrategies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cache_management/strategies/LRUCacheStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cricbuzz/enums/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cricbuzz/enums/MatchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cricbuzz/enums/MatchStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cricbuzz/model/CricketPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cricbuzz/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/cricbuzz/model/PlayerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/interfaceTest/AbstarctClassExImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/interfaceTest/AbstractClassEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/interfaceTest/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/interfaceTest/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/test/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/Amazon/Oct/Round_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/Amazon/Oct/Round_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/Amazon/Oct/Round_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/Amazon/Oct/Round_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/Amazon/Oct/scrnshots/Screenshot 2024-10-17 at 2.56.55 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/Amazon/Oct/scrnshots/Screenshot 2024-10-17 at 6.10.28 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/Amazon/Oct/scrnshots/Screenshot 2024-10-17 at 6.12.06 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/Salesforce/Round_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/Salesforce/Round_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/Salesforce/Round_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/apple/Round_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/apple/Round_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Oct/OA/Screenshot 2024-10-25 at 8.48.00 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Oct/OA/Screenshot 2024-10-25 at 8.48.13 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Oct/OA/Screenshot 2024-10-25 at 8.48.27 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/walmart/Round11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily-DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Daily-DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Examples uml.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Abstract Factory DP/Examples uml.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Examples uml2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Abstract Factory DP/Examples uml2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Furniture /C++/furniture" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Abstract Factory DP/Furniture /C++/furniture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Furniture /C++/furniture.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Abstract Factory DP/Furniture /C++/furniture.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Furniture /JAVA/furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Abstract Factory DP/Furniture /JAVA/furniture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Furniture /Javascript/furniture.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Abstract Factory DP/Furniture /Javascript/furniture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/Furniture /Python/furniture.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Abstract Factory DP/Furniture /Python/furniture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/UI/C++/ui" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Abstract Factory DP/UI/C++/ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/UI/C++/ui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Abstract Factory DP/UI/C++/ui.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Abstract Factory Design Pattern/UI/JAVA/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Abstract Factory DP/UI/JAVA/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Adapter Design Pattern/Class Adapter/C++/xml_to_json.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/S-DONE - Adapter DP/Class Adapter/C++/xml_to_json.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Adapter Design Pattern/Object Adapter/C++/xml_to_json.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/S-DONE - Adapter DP/Object Adapter/C++/xml_to_json.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Adapter Design Pattern/Object Adapter/JAVA/XmlToJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/S-DONE - Adapter DP/Object Adapter/JAVA/XmlToJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/Builder with Chaining/C++/desktop" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Builder DP/Builder with Chaining/C++/desktop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/Builder with Chaining/C++/desktop.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Builder DP/Builder with Chaining/C++/desktop.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/Builder with Chaining/JAVA/DesktopBuilderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Builder DP/Builder with Chaining/JAVA/DesktopBuilderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/C++/desktop" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Builder DP/C++/desktop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/C++/desktop.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Builder DP/C++/desktop.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/Desktop-UML.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Builder DP/Desktop-UML.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Builder Design Pattern/JAVA/DesktopBuilderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Builder DP/JAVA/DesktopBuilderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Decorator Design Pattern/C++/swiggy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/S-DONE - Decorator DP/C++/swiggy.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Decorator Design Pattern/JAVA/Swiggy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/S-DONE - Decorator DP/JAVA/Swiggy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Facade Design Pattern/C++/computer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/S-DONE - Facade DP/C++/computer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Facade Design Pattern/JAVA/ComputerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/S-DONE - Facade DP/JAVA/ComputerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Furniture/C++/furniture.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Furniture/C++/furniture.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Furniture/JAVA/furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Furniture/JAVA/furniture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Furniture/Javascript/furniture.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Furniture/Javascript/furniture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Furniture/Python/furniture.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Furniture/Python/furniture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/common.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/common.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/debug_logger.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/debug_logger.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/debug_logger.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/debug_logger.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/debug_logger_factory.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/debug_logger_factory.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/error_logger.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/error_logger.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/error_logger.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/error_logger.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/error_logger_factory.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/error_logger_factory.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/furniture" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/furniture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/ilogger.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/ilogger.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/info_logger.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/info_logger.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/info_logger.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/info_logger.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/info_logger_factory.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/info_logger_factory.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/logger" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/logger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/logger_factory.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/logger_factory.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/C++/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/C++/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Factory Method Design Pattern/Logger/JAVA/LoggerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Factory Method DP/Logger/JAVA/LoggerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Observer Design Pattern/C++/order_status.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/S-DONE - Observer DP/C++/order_status.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Observer Design Pattern/JAVA/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/S-DONE - Observer DP/JAVA/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/C++/product" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Prototype DP/C++/product" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/C++/product.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Prototype DP/C++/product.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/C++/router" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Prototype DP/C++/router" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/C++/router.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Prototype DP/C++/router.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/JAVA/ProductDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Prototype DP/JAVA/ProductDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/JAVA/RouterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Prototype DP/JAVA/RouterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/Product-UML.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Prototype DP/Product-UML.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Prototype Design Pattern/Router-UML.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Prototype DP/Router-UML.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/common.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/debug_logger.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/debug_logger.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/error_logger.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/error_logger.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/furniture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/ilogger.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/info_logger.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/info_logger.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/logger" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/logger_factory.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/logger_factory.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/C++/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/DebugLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/ErrorLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/ILogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/InfoLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/LogLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Simple Factory Design Pattern/JAVA/logger/LoggerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Singleton Design Pattern/C++/payment_gateway.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Singleton DP/C++/payment_gateway.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Singleton Design Pattern/C++/pg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Singleton DP/C++/pg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Singleton Design Pattern/JAVA/PaymentGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/DONE - Singleton DP/JAVA/PaymentGateway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Strategy Design Pattern/C++/payment.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/S-DONE - Strategy DP/C++/payment.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/Strategy Design Pattern/JAVA/PaymentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns/S-DONE - Strategy DP/JAVA/PaymentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/Queens_wala.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/backTracking/Queens_wala.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_02/Word_Ladder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class01/check_02/Word_Ladder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class03/knapsack/Zero_One_Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class03/knapsack/Zero_One_Knapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class03/shortest_path/Dijkstras_Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/graphs/class03/shortest_path/Dijkstras_Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/DSA/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/DSA/sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/extras/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/Meeting_rooms_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/Meeting_rooms_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Blind_75/Testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2958/_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Daily/_787_Cheapest_Flights_Within_K_Stops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Top100/_787_Cheapest_Flights_Within_K_Stops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/mera/man/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/mera/man/Tree_Symmetric.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/test/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/test/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Round1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Jan/Round1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Round_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Jan/Round_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/test2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Jan/test2.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,8 +172,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -144,203 +295,226 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.A8013_Number_of_Beautiful_Integers_in_the_Range.executor": "Run",
-    "Application.AA.executor": "Run",
-    "Application.Anagrams.executor": "Run",
-    "Application.Array_is_sorted_and_rotated.executor": "Run",
-    "Application.Baloons.executor": "Run",
-    "Application.Bijli.executor": "Run",
-    "Application.Builder_Design_Pattern.executor": "Run",
-    "Application.CloningEx.executor": "Run",
-    "Application.Coin_Change_II.executor": "Run",
-    "Application.Coin_Change_Problem.executor": "Run",
-    "Application.Count_Distinct_Substrings_I.executor": "Run",
-    "Application.Equality_Check.executor": "Run",
-    "Application.EraseOverlapIntervals.executor": "Run",
-    "Application.Example.executor": "Run",
-    "Application.FileReadWrite.executor": "Run",
-    "Application.Find_Anagrams.executor": "Debug",
-    "Application.Find_Minimum_in_Rotated_Sorted_Array.executor": "Run",
-    "Application.Find_Peak_Element.executor": "Run",
-    "Application.Find_Pivot_Index.executor": "Run",
-    "Application.FutureExample.executor": "Run",
-    "Application.General_asked_Ques.executor": "Run",
-    "Application.General_asked_Ques2.executor": "Run",
-    "Application.Get_all_Divisors.executor": "Debug",
-    "Application.GraphEdgeList.executor": "Run",
-    "Application.Graph_BFS$Graph_DFS.executor": "Run",
-    "Application.Graph_DFS.executor": "Debug",
-    "Application.Graph_DFS_Learn.executor": "Run",
-    "Application.InitStaticBlocks.executor": "Run",
-    "Application.Interleaving_String.executor": "Run",
-    "Application.Intersection_of_two_arrays.executor": "Run",
-    "Application.Intv_09.executor": "Run",
-    "Application.InwardAdjacencyList.executor": "Run",
-    "Application.JdbcConnection.executor": "Run",
-    "Application.Jumps_1.executor": "Run",
-    "Application.Jumps_2.executor": "Run",
-    "Application.Kruskals_algo.executor": "Run",
-    "Application.LRUCache.executor": "Run",
-    "Application.Longest_Subarray_with_given_Sum_K.executor": "Run",
-    "Application.MT_testing.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main2.executor": "Run",
-    "Application.MaxDifference.executor": "Run",
-    "Application.Maximum_Depth_of_Binary_Tree.executor": "Run",
-    "Application.Meeting_rooms_2.executor": "Run",
-    "Application.MerkleTree.executor": "Run",
-    "Application.Min_Cost_Climbing_Stairs.executor": "Run",
-    "Application.Move_Zeros.executor": "Run",
-    "Application.MultiThread_Demo_By_Extd.executor": "Run",
-    "Application.NoOfDigits.executor": "Run",
-    "Application.Number.executor": "Run",
-    "Application.Number2.executor": "Run",
-    "Application.OddEvenExample.executor": "Run",
-    "Application.OddEvenExample_2.executor": "Run",
-    "Application.Pre_In_Post_Order_Traversal_Iterative.executor": "Run",
-    "Application.Producer_Consumer.executor": "Run",
-    "Application.Producer_Consumer_Test.executor": "Run",
-    "Application.Queens_wala.executor": "Run",
-    "Application.Remove_Duplicates_from_sorted_array.executor": "Run",
-    "Application.Round2.executor": "Run",
-    "Application.Round_01.executor": "Run",
-    "Application.Round_02.executor": "Run",
-    "Application.Sample.executor": "Run",
-    "Application.SeatBookingApp.executor": "Run",
-    "Application.Shuffle_the_Array.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.Solution1.executor": "Run",
-    "Application.Sort_Characters_By_Frequency_451.executor": "Run",
-    "Application.StreamsLearn.executor": "Run",
-    "Application.StreamsLearn_02.executor": "Run",
-    "Application.SubSequence.executor": "Run",
-    "Application.SubSequences.executor": "Run",
-    "Application.Subarray_Sums_Divisible_by_K.executor": "Run",
-    "Application.SwapStringChars.executor": "Run",
-    "Application.TEST.executor": "Run",
-    "Application.TargetSum.executor": "Run",
-    "Application.Test.executor": "Debug",
-    "Application.Test2.executor": "Run",
-    "Application.Test_Ex.executor": "Run",
-    "Application.Test_Num.executor": "Run",
-    "Application.Testing.executor": "Run",
-    "Application.Three_Sum.executor": "Debug",
-    "Application.TopologicalSort.executor": "Run",
-    "Application.TripletSumORThreeSome.executor": "Run",
-    "Application.WeightedRandomCharacterStream.executor": "Run",
-    "Application._100287_Find_the_Integer_Added_to_Array_II.executor": "Debug",
-    "Application._1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.executor": "Run",
-    "Application._150_Evaluate_Reverse_Polish_Notation.executor": "Run",
-    "Application._165_Compare_Version_Numbers.executor": "Run",
-    "Application._17_Letter_Combinations_of_a_Phone_Number.executor": "Run",
-    "Application._1897_Redistribute_Characters_to_Make_All_Strings_Equal.executor": "Run",
-    "Application._198_House_Robber.executor": "Run",
-    "Application._2149_Rearrange_Array_Elements_by_Sign.executor": "Run",
-    "Application._227_Basic_Calculator_II.executor": "Run",
-    "Application._2444_Count_Subarrays_With_Fixed_Bounds.executor": "Run",
-    "Application._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.executor": "Debug",
-    "Application._27th_Feb_24.executor": "Run",
-    "Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty.executor": "Run",
-    "Application._287_Find_the_Duplicate_Number.executor": "Run",
-    "Application._2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.executor": "Run",
-    "Application._2971_Find_Polygon_With_the_Largest_Perimeter.executor": "Run",
-    "Application._2nd_highest_salary.executor": "Run",
-    "Application._3043_Find_the_Length_of_the_Longest_Common_Prefix.executor": "Run",
-    "Application._3090_Maximum_Length_Substring_With_Two_Occurrences.executor": "Run",
-    "Application._3152_Special_Array_II.executor": "Debug",
-    "Application._394_Decode_String.executor": "Debug",
-    "Application._398_Random_Pick_Index.executor": "Run",
-    "Application._42_Trapping_Rain_Water.executor": "Run",
-    "Application._442_Find_All_Duplicates_in_an_Array.executor": "Run",
-    "Application._455_Assign_Cookies.executor": "Run",
-    "Application._496_Next_Greater_Element_I.executor": "Debug",
-    "Application._506_Relative_Ranks.executor": "Run",
-    "Application._543_Diameter_of_Binary_Tree.executor": "Run",
-    "Application._5_Longest_Palindromic_Substring.executor": "Run",
-    "Application._680_Valid_Palindrome_II.executor": "Run",
-    "Application._713_Subarray_Product_Less_Than_K.executor": "Run",
-    "Application._76_Minimum_Window_Substring.executor": "Run",
-    "Application._797_All_Paths_From_Source_to_Target.executor": "Run",
-    "Application._79_Word_Search.executor": "Run",
-    "Application._841_Keys_and_Rooms.executor": "Run",
-    "Application._881_Boats_to_Save_People.executor": "Run",
-    "Application._91_Decode_Ways.executor": "Run",
-    "Application._91_Decode_Ways_01.executor": "Run",
-    "Application._91_Decode_Ways_02.executor": "Run",
-    "Application._91_Decode_Ways_03.executor": "Run",
-    "Application._930_Binary_Subarrays_With_Sum.executor": "Debug",
-    "Application._997_Find_the_Town_Judge.executor": "Run",
-    "Application._Length_of_Longest_Subarray_With_at_Most_K_Frequency.executor": "Debug",
-    "Application.abc.executor": "Run",
-    "Application.count_dist_nums.executor": "Run",
-    "Application.duplicateZeros.executor": "Run",
-    "Application.extra_characters_in_a_string.executor": "Run",
-    "Application.find_missing_number.executor": "Run",
-    "Application.formatting.executor": "Run",
-    "Application.isNumHappy.executor": "Run",
-    "Application.isPalindrome.executor": "Run",
-    "Application.main.finale.Java.streams.Testing.executor": "Run",
-    "Application.main.finale.Java.streams.test.Main.executor": "Run",
-    "Application.main.finale.leetcode.Blind_75._227_Basic_Calculator_II.executor": "Run",
-    "Application.main.walmart.Solution.executor": "Debug",
-    "Application.mapCharsToDigits.executor": "Run",
-    "Application.masking.executor": "Run",
-    "Application.masking_Using_SB.executor": "Run",
-    "Application.numOfSubarraysMedium.executor": "Run",
-    "Application.productExceptSelf.executor": "Run",
-    "Application.removeSigleDigit.executor": "Run",
-    "Application.repeated_substring_pattern.executor": "Run",
-    "Application.staticVarTesting.executor": "Run",
-    "Application.t.executor": "Run",
-    "Application.test.executor": "Run",
-    "Application.trapping_rain_water.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Daily-DSA",
-    "jdk.selected.JAVA_MODULE": "liberica-11",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/finale",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A8013_Number_of_Beautiful_Integers_in_the_Range.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AbstarctClassExImpl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_is_sorted_and_rotated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baloons.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bijli.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Builder_Design_Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CloningEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Coin_Change_II.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Coin_Change_Problem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Distinct_Substrings_I.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dijkstras_Algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Equality_Check.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EraseOverlapIntervals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileReadWrite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find_Anagrams.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Find_Minimum_in_Rotated_Sorted_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find_Peak_Element.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find_Pivot_Index.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FutureExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.General_asked_Ques.executor&quot;: &quot;Run&quot;,
+    &quot;Application.General_asked_Ques2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Get_all_Divisors.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.GraphEdgeList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Graph_BFS$Graph_DFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Graph_DFS.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Graph_DFS_Learn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InitStaticBlocks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interleaving_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Intersection_of_two_arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Intv_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InwardAdjacencyList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JdbcConnection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jumps_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jumps_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kruskals_algo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LRUCache.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Longest_Subarray_with_given_Sum_K.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MT_testing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxDifference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maximum_Depth_of_Binary_Tree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Meeting_rooms_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MerkleTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Min_Cost_Climbing_Stairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Move_Zeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThread_Demo_By_Extd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NoOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Number2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenExample_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PaymentDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PostfixToInfix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pre_In_Post_Order_Traversal_Iterative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Producer_Consumer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Producer_Consumer_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Queens_wala.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Remove_Duplicates_from_sorted_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Round2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Round_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Round_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SeatBookingApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shuffle_the_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Soln.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort_Characters_By_Frequency_451.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamsLearn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamsLearn_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSequences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subarray_Sums_Divisible_by_K.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapStringChars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TEST.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TargetSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_Ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_Num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Testing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Three_Sum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TopologicalSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TripletSumORThreeSome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeightedRandomCharacterStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Word_Ladder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zero_One_Knapsack.executor&quot;: &quot;Run&quot;,
+    &quot;Application._100287_Find_the_Integer_Added_to_Array_II.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._128_Longest_Consecutive_Sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application._150_Evaluate_Reverse_Polish_Notation.executor&quot;: &quot;Run&quot;,
+    &quot;Application._165_Compare_Version_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application._17_Letter_Combinations_of_a_Phone_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1897_Redistribute_Characters_to_Make_All_Strings_Equal.executor&quot;: &quot;Run&quot;,
+    &quot;Application._198_House_Robber.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1toN_print.executor&quot;: &quot;Run&quot;,
+    &quot;Application._213_House_Robber_II.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2149_Rearrange_Array_Elements_by_Sign.executor&quot;: &quot;Run&quot;,
+    &quot;Application._227_Basic_Calculator_II.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2444_Count_Subarrays_With_Fixed_Bounds.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._27th_Feb_24.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty.executor&quot;: &quot;Run&quot;,
+    &quot;Application._287_Find_the_Duplicate_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2971_Find_Polygon_With_the_Largest_Perimeter.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2nd_highest_salary.executor&quot;: &quot;Run&quot;,
+    &quot;Application._3043_Find_the_Length_of_the_Longest_Common_Prefix.executor&quot;: &quot;Run&quot;,
+    &quot;Application._3090_Maximum_Length_Substring_With_Two_Occurrences.executor&quot;: &quot;Run&quot;,
+    &quot;Application._3152_Special_Array_II.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._322_Coin_Change.executor&quot;: &quot;Run&quot;,
+    &quot;Application._394_Decode_String.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._398_Random_Pick_Index.executor&quot;: &quot;Run&quot;,
+    &quot;Application._42_Trapping_Rain_Water.executor&quot;: &quot;Run&quot;,
+    &quot;Application._435_Erase_Overlap_Intervals.executor&quot;: &quot;Run&quot;,
+    &quot;Application._442_Find_All_Duplicates_in_an_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application._455_Assign_Cookies.executor&quot;: &quot;Run&quot;,
+    &quot;Application._496_Next_Greater_Element_I.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._506_Relative_Ranks.executor&quot;: &quot;Run&quot;,
+    &quot;Application._543_Diameter_of_Binary_Tree.executor&quot;: &quot;Run&quot;,
+    &quot;Application._5_Longest_Palindromic_Substring.executor&quot;: &quot;Run&quot;,
+    &quot;Application._680_Valid_Palindrome_II.executor&quot;: &quot;Run&quot;,
+    &quot;Application._713_Subarray_Product_Less_Than_K.executor&quot;: &quot;Run&quot;,
+    &quot;Application._76_Minimum_Window_Substring.executor&quot;: &quot;Run&quot;,
+    &quot;Application._797_All_Paths_From_Source_to_Target.executor&quot;: &quot;Run&quot;,
+    &quot;Application._79_Word_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application._841_Keys_and_Rooms.executor&quot;: &quot;Run&quot;,
+    &quot;Application._881_Boats_to_Save_People.executor&quot;: &quot;Run&quot;,
+    &quot;Application._91_Decode_Ways.executor&quot;: &quot;Run&quot;,
+    &quot;Application._91_Decode_Ways_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application._91_Decode_Ways_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application._91_Decode_Ways_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application._930_Binary_Subarrays_With_Sum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._997_Find_the_Town_Judge.executor&quot;: &quot;Run&quot;,
+    &quot;Application._Length_of_Longest_Subarray_With_at_Most_K_Frequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.abc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.count_dist_nums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dijikstra_Algo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.duplicateZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.extra_characters_in_a_string.executor&quot;: &quot;Run&quot;,
+    &quot;Application.find_missing_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.formatting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.isNumHappy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.isPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.finale.Java.streams.Testing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.finale.Java.streams.test.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.finale.leetcode.Blind_75._227_Basic_Calculator_II.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.finale.test.cache_management.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.main.walmart.Solution.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.mapCharsToDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.masking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.masking_Using_SB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxSlidingWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.numOfSubarraysMedium.executor&quot;: &quot;Run&quot;,
+    &quot;Application.productExceptSelf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeSigleDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.repeated_substring_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sort_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.staticVarTesting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.subset.executor&quot;: &quot;Run&quot;,
+    &quot;Application.t.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.trapping_rain_water.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Daily-DSA&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;liberica-11&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/d0s0jfn/My_Workspace/My_Projects/Daily-DSA/src/main/intvs/int2023_24/Amazon/Oct/scrnshots&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24/Amazon/Oct/scrnshots" />
+      <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos" />
+      <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns" />
       <recent name="$PROJECT_DIR$/src/main/finale" />
       <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions" />
-      <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos" />
-      <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine" />
-      <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Jan" />
       <recent name="$PROJECT_DIR$/src/main/finale/extras" />
       <recent name="$PROJECT_DIR$/src/main/finale/aa/leetcode" />
       <recent name="$PROJECT_DIR$/src/main/finale/REAL_TIME_COMP_QUES/walmart" />
       <recent name="C:\My WorkSpace\DSA\src\main\java\java\All_In_One" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.finale.leetcode.Top100" />
       <recent name="main.finale.leetcode.Blind_75.arrays" />
       <recent name="main.intvs.int2023_24" />
-      <recent name="main.finale.leetcode.Top100" />
       <recent name="main.finale.leetcode" />
       <recent name="main.finale.In_Walmart.nextLeap.HeapAndQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Builder_Design_Pattern">
-    <configuration name="Builder_Design_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Design_Pattern.Structral.Builder.Builder_Design_Pattern" />
+  <component name="RunManager" selected="Application._76_Minimum_Window_Substring">
+    <configuration name="Dijkstras_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.graphs.class03.shortest_path.Dijkstras_Algorithm" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.Design_Pattern.Structral.Builder.*" />
+          <option name="PATTERN" value="main.finale.DSA.graphs.class03.shortest_path.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,12 +522,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.System_Design.LLD_Repos.Design_a_coupon_and_voucher_managment.Main" />
+    <configuration name="_128_Longest_Consecutive_Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Top100._128_Longest_Consecutive_Sequence" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.System_Design.LLD_Repos.Design_a_coupon_and_voucher_managment.*" />
+          <option name="PATTERN" value="main.finale.leetcode.Top100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,12 +535,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Round_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.intvs.int2023_24.agoda.Round_01" />
+    <configuration name="_213_House_Robber_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Top100._213_House_Robber_II" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.intvs.int2023_24.agoda.*" />
+          <option name="PATTERN" value="main.finale.leetcode.Top100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,12 +548,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="extra_characters_in_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.strings.extra_characters_in_a_string" />
+    <configuration name="_322_Coin_Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Top100._322_Coin_Change" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.DSA.strings.*" />
+          <option name="PATTERN" value="main.finale.leetcode.Top100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,12 +561,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="productExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.arrays.productExceptSelf" />
+    <configuration name="_76_Minimum_Window_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Top100._76_Minimum_Window_Substring" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.DSA.arrays.*" />
+          <option name="PATTERN" value="main.finale.leetcode.Top100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,11 +587,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Builder_Design_Pattern" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Round_01" />
-        <item itemvalue="Application.extra_characters_in_a_string" />
-        <item itemvalue="Application.productExceptSelf" />
+        <item itemvalue="Application._76_Minimum_Window_Substring" />
+        <item itemvalue="Application._322_Coin_Change" />
+        <item itemvalue="Application._213_House_Robber_II" />
+        <item itemvalue="Application._128_Longest_Consecutive_Sequence" />
+        <item itemvalue="Application.Dijkstras_Algorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -1396,17 +1570,17 @@
           <option name="timeStamp" value="247" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2958/_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java</url>
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java</url>
           <line>17</line>
           <option name="timeStamp" value="263" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2958/_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java</url>
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java</url>
           <line>20</line>
           <option name="timeStamp" value="264" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_2958/_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java</url>
+          <url>file://$PROJECT_DIR$/src/main/finale/leetcode/Daily/_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java</url>
           <line>18</line>
           <option name="timeStamp" value="265" />
         </line-breakpoint>
@@ -1519,6 +1693,21 @@
           <url>file://$PROJECT_DIR$/src/main/finale/DSA/Test.java</url>
           <line>77</line>
           <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/test/cache_management/CacheManager.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/test/cache_management/CacheManager.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/finale/test/cache_management/CacheManager.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="305" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
