@@ -18,7 +18,7 @@ class Find_Median_from_Data_Stream {
             minHeap.add(num);
         }
 
-        // After adding the elements its important to balance out the heaps
+        // After adding the elements it's important to balance out the heaps
         if (maxHeap.size() > minHeap.size() + 1) {
             minHeap.add(maxHeap.poll());
         } else if (minHeap.size() > maxHeap.size()) {
