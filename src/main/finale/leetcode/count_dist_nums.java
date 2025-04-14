@@ -15,7 +15,7 @@ public class count_dist_nums {
         int length = nums.length;
         int[] arr = new int[length*2];
         int index = length;
-        for(int i=0; i<length; i++){
+        for(int i=0; i<length; i++) {
             arr[i] = nums[i];
             arr[index++] = reverseNum(nums[i]);
         }

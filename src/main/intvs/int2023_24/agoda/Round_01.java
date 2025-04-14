@@ -38,7 +38,6 @@ public class Round_01 {
             // Only assign the next priority if the number hasn't been assigned yet
             priorityMap.putIfAbsent(num, priority++);
         }
-
         // Create the list of priorities based on the original list
         List<Integer> result = new ArrayList<>();
         for (int num : list) {

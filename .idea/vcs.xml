@@ -3,8 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Questions" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Questions/Cache Managment" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Questions/Task-scheduler" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Questions/Wallet-management" vcs="Git" />
   </component>
 </project>

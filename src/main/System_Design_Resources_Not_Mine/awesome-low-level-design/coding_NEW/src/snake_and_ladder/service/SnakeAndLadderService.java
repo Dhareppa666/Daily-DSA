@@ -113,7 +113,7 @@ public class SnakeAndLadderService {
 
     private int getTotalValueAfterDiceRolls() {
         // Can use noOfDices and setShouldAllowMultipleDiceRollOnSix here to get total value (Optional requirements)
-        return DiceService.rollDice();
+        return snake_and_ladder.service.DiceService.rollDice();
     }
 
     private boolean hasPlayerWon(Player player) {
