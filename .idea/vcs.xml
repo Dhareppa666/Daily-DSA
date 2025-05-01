@@ -2,6 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Questions" vcs="Git" />
   </component>
 </project>

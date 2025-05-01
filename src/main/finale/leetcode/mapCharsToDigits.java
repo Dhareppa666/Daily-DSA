@@ -43,7 +43,7 @@ public class mapCharsToDigits {
 
         StringBuilder result = new StringBuilder();
         for (char c : input.toLowerCase().toCharArray()) {
-            result.append(charToDigitMap.getOrDefault(c, ""));
+            result.append(charToDigitMap.getOrDefault(c, "")).append("\n");
         }
 
         return result.toString();

@@ -7,6 +7,8 @@ public class Tree_Set {
     public static void main(String[] args) {
         TreeSet<StringBuffer> ts = new TreeSet<StringBuffer>();
 
+//        ts.lower()
+
         // Elements are added using add() method
         ts.add(new StringBuffer("A"));
         ts.add(new StringBuffer("Z"));

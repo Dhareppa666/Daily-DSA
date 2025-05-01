@@ -10,7 +10,9 @@ public class TestGarbage {
     public static void main(String args[]) {
         TestGarbage s1 = new TestGarbage();
         TestGarbage s2 = new TestGarbage();
+        System.gc();
         s1 = null;
+        s2 = null;
         s2 = new TestGarbage();
         System.gc();
     }

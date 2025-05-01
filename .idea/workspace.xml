@@ -8,17 +8,125 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6727863c-975c-4f22-ab77-22fe5f662fe9" name="Default Changelist" comment="Daily DSA">
-      <change afterPath="$PROJECT_DIR$/src/main/finale/CSES/DP/_01_Dice_Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/finale/CSES/DP/sub/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/jp/R1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/jp/R2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/examples/ObjectMapperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/aryan/CPUIntensiveExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/aryan/CustomExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/aryan/ExecutorCallableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/aryan/IOBoundExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/aryan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/Java/multi_threading/aryan/ShutdownExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/CommonEnum/Symbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/Controller/BoardGames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/Controller/GameController/TicTacToeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/GameStateHandler/ConcreteStates/OTurnState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/GameStateHandler/ConcreteStates/OWonState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/GameStateHandler/ConcreteStates/XTurnState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/GameStateHandler/ConcreteStates/XWonState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/GameStateHandler/Context/GameContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/GameStateHandler/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/PlayerStrategies/ConcreteStrategies/HumanPlayerStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/PlayerStrategies/PlayerStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/Utility/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/Utility/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/01_Design_Tic_Tac_Toe/src/Utility/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/Controller/SnakeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/FoodItemFactory/ConcreteFoodItems/BonusFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/FoodItemFactory/ConcreteFoodItems/NormalFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/FoodItemFactory/FoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/FoodItemFactory/FoodItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/MovementStrategyPackage/ConcreteMovementStrategies/AIMovementStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/MovementStrategyPackage/ConcreteMovementStrategies/HumanMovementStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/MovementStrategyPackage/MovementStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/UtilityClasses/GameBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/UtilityClasses/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/07_LLD_Interview_Problems/03_Design_Snake_and_Food_Game/src/UtilityClasses/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/CommonEnum/BookingStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/CommonEnum/SeatCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/ConcreteLockProviders/SeatLockProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/ConcretePaymentStrategies/DebitCardStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/ConcretePaymentStrategies/UpiStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Controllers/BookingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Controllers/MovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Controllers/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Controllers/ShowController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Controllers/TheatreController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/CoreClasses/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/CoreClasses/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/CoreClasses/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/CoreClasses/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/CoreClasses/SeatLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/CoreClasses/Show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/CoreClasses/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/CoreClasses/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Interfaces/ISeatLockProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Interfaces/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Services/BookingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Services/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Services/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Services/SeatAvailabilityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Services/ShowService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/01_Design_Movie_Ticket_Booking_System/src/Services/TheatreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/Controller/KafkaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/Controller/TopicPublisherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/Controller/TopicSubscriberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/Publisher/ConcretePublisher/SimplePublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/Publisher/IPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/Subscriber/ConcreteSubscriber/SimpleSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/Subscriber/ISubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/model/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/model/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/model/TopicPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/02_Design_Pub_Sub_Model_Kafka/src/model/TopicSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/EvictionAlgorithms/ConcreteEvictionAlgorithms/LRUEvictionAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/EvictionAlgorithms/EvictionAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/Executors/KeyBasedExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/MainCache/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/StorageMechanisms/ConcreteStorages/ConcreteCacheStorages/InMemoryCacheStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/StorageMechanisms/ConcreteStorages/ConcreteDBStorages/SimpleDBStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/StorageMechanisms/Interfaces/CacheStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/StorageMechanisms/Interfaces/DBStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/UtilityClasses/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/UtilityClasses/DoublyLinkedListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/WritePolicies/ConcreteWritePolicies/WriteThroughPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/03_Design_Cache_System/src/WritePolicies/WritePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/04_Design_Rate_Limiter/src/Algorithms/IRateLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/04_Design_Rate_Limiter/src/Algorithms/TokenBucketStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/04_Design_Rate_Limiter/src/CommonEnums/RateLimiterType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/04_Design_Rate_Limiter/src/Controller/RateLimiterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/04_Design_Rate_Limiter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/04_Design_Rate_Limiter/src/factory/RateLimiterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/10_LLD_Concurrency_Interview_Problems/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/FileSystem/models/1743917104583-Frame-247.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/FileSystem/models/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/FileSystem/models/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/FileSystem/models/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/FileSystem/models/FileSystemNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/BaseCommentableEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/Commentable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/Notifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/PostComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/Reaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/ReactionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/finale/System_Design/LLD/stackoverflow/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Daily-DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Daily-DSA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/snake_and_ladder/service/SnakeAndLadderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/awesome-low-level-design/coding_NEW/src/snake_and_ladder/service/SnakeAndLadderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/count_dist_nums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/count_dist_nums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/intvs/int2023_24/agoda/Round_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/intvs/int2023_24/agoda/Round_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/CSES/DP/sub/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/Collections_In_Java/Set/Tree_Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/Collections_In_Java/Set/Tree_Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/Java/Garbage_Collection/TestGarbage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/Java/Garbage_Collection/TestGarbage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/Largest_Positive_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/Largest_Positive_Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/finale/leetcode/mapCharsToDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/finale/leetcode/mapCharsToDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,207 +265,217 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.A8013_Number_of_Beautiful_Integers_in_the_Range.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AbstarctClassExImpl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Anagrams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_is_sorted_and_rotated.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Baloons.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bijli.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Builder_Design_Pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CloningEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Coin_Change_II.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Coin_Change_Problem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_Distinct_Substrings_I.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DSU_Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dijkstras_Algorithm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Equality_Check.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EraseOverlapIntervals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileReadWrite.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Find_Anagrams.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Find_Minimum_in_Rotated_Sorted_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Find_Peak_Element.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Find_Pivot_Index.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FutureExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.General_asked_Ques.executor&quot;: &quot;Run&quot;,
-    &quot;Application.General_asked_Ques2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Get_all_Divisors.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.GraphEdgeList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Graph_BFS$Graph_DFS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Graph_DFS.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Graph_DFS_Learn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InitStaticBlocks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interleaving_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Intersection_of_two_arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Intv_09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InwardAdjacencyList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JdbcConnection.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Jumps_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Jumps_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Kruskals_algo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LRUCache.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Largest_Positive_Integer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Longest_Subarray_with_given_Sum_K.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MT_testing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxDifference.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maximum_Depth_of_Binary_Tree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Meeting_rooms_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MerkleTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Min_Cost_Climbing_Stairs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Move_Zeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiThread_Demo_By_Extd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NoOfDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Number2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddEvenExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddEvenExample_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PaymentDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PostfixToInfix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pre_In_Post_Order_Traversal_Iterative.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Producer_Consumer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Producer_Consumer_Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Queens_wala.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Remove_Duplicates_from_sorted_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Round2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Round_01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Round_02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SeatBookingApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shuffle_the_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Soln.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sort_Characters_By_Frequency_451.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamsLearn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamsLearn_02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubSequence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubSequences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Subarray_Sums_Divisible_by_K.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwapStringChars.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TEST.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TargetSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test_Ex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test_Num.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Testing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Three_Sum.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.TopologicalSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TripletSumORThreeSome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WeightedRandomCharacterStream.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Word_Ladder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Zero_One_Knapsack.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Dice_Combinations.executor&quot;: &quot;Run&quot;,
-    &quot;Application._100287_Find_the_Integer_Added_to_Array_II.executor&quot;: &quot;Debug&quot;,
-    &quot;Application._128_Longest_Consecutive_Sequence.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application._150_Evaluate_Reverse_Polish_Notation.executor&quot;: &quot;Run&quot;,
-    &quot;Application._165_Compare_Version_Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application._17_Letter_Combinations_of_a_Phone_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1897_Redistribute_Characters_to_Make_All_Strings_Equal.executor&quot;: &quot;Run&quot;,
-    &quot;Application._198_House_Robber.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1toN_print.executor&quot;: &quot;Run&quot;,
-    &quot;Application._213_House_Robber_II.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2149_Rearrange_Array_Elements_by_Sign.executor&quot;: &quot;Run&quot;,
-    &quot;Application._227_Basic_Calculator_II.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2444_Count_Subarrays_With_Fixed_Bounds.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.executor&quot;: &quot;Debug&quot;,
-    &quot;Application._27th_Feb_24.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty.executor&quot;: &quot;Run&quot;,
-    &quot;Application._287_Find_the_Duplicate_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2971_Find_Polygon_With_the_Largest_Perimeter.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2nd_highest_salary.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3043_Find_the_Length_of_the_Longest_Common_Prefix.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3090_Maximum_Length_Substring_With_Two_Occurrences.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3152_Special_Array_II.executor&quot;: &quot;Debug&quot;,
-    &quot;Application._322_Coin_Change.executor&quot;: &quot;Run&quot;,
-    &quot;Application._394_Decode_String.executor&quot;: &quot;Debug&quot;,
-    &quot;Application._398_Random_Pick_Index.executor&quot;: &quot;Run&quot;,
-    &quot;Application._42_Trapping_Rain_Water.executor&quot;: &quot;Run&quot;,
-    &quot;Application._435_Erase_Overlap_Intervals.executor&quot;: &quot;Run&quot;,
-    &quot;Application._442_Find_All_Duplicates_in_an_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application._455_Assign_Cookies.executor&quot;: &quot;Run&quot;,
-    &quot;Application._496_Next_Greater_Element_I.executor&quot;: &quot;Debug&quot;,
-    &quot;Application._506_Relative_Ranks.executor&quot;: &quot;Run&quot;,
-    &quot;Application._543_Diameter_of_Binary_Tree.executor&quot;: &quot;Run&quot;,
-    &quot;Application._5_Longest_Palindromic_Substring.executor&quot;: &quot;Run&quot;,
-    &quot;Application._680_Valid_Palindrome_II.executor&quot;: &quot;Run&quot;,
-    &quot;Application._713_Subarray_Product_Less_Than_K.executor&quot;: &quot;Run&quot;,
-    &quot;Application._76_Minimum_Window_Substring.executor&quot;: &quot;Run&quot;,
-    &quot;Application._797_All_Paths_From_Source_to_Target.executor&quot;: &quot;Run&quot;,
-    &quot;Application._79_Word_Search.executor&quot;: &quot;Run&quot;,
-    &quot;Application._841_Keys_and_Rooms.executor&quot;: &quot;Run&quot;,
-    &quot;Application._881_Boats_to_Save_People.executor&quot;: &quot;Run&quot;,
-    &quot;Application._91_Decode_Ways.executor&quot;: &quot;Run&quot;,
-    &quot;Application._91_Decode_Ways_01.executor&quot;: &quot;Run&quot;,
-    &quot;Application._91_Decode_Ways_02.executor&quot;: &quot;Run&quot;,
-    &quot;Application._91_Decode_Ways_03.executor&quot;: &quot;Run&quot;,
-    &quot;Application._930_Binary_Subarrays_With_Sum.executor&quot;: &quot;Debug&quot;,
-    &quot;Application._997_Find_the_Town_Judge.executor&quot;: &quot;Run&quot;,
-    &quot;Application._Length_of_Longest_Subarray_With_at_Most_K_Frequency.executor&quot;: &quot;Run&quot;,
-    &quot;Application.abc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.count_dist_nums.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dijikstra_Algo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.duplicateZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.extra_characters_in_a_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.find_missing_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.formatting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.isNumHappy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.isPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.finale.Java.streams.Testing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.finale.Java.streams.test.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.finale.leetcode.Blind_75._227_Basic_Calculator_II.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.finale.test.cache_management.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.main.walmart.Solution.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.mapCharsToDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.masking.executor&quot;: &quot;Run&quot;,
-    &quot;Application.masking_Using_SB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maxSlidingWindow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.numOfSubarraysMedium.executor&quot;: &quot;Run&quot;,
-    &quot;Application.productExceptSelf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeSigleDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.repeated_substring_pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sortStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sort_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.staticVarTesting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.subset.executor&quot;: &quot;Run&quot;,
-    &quot;Application.t.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.trapping_rain_water.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;liberica-11&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/d0s0jfn/Me&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A8013_Number_of_Beautiful_Integers_in_the_Range.executor": "Run",
+    "Application.AA.executor": "Run",
+    "Application.AbstarctClassExImpl.executor": "Run",
+    "Application.Anagrams.executor": "Run",
+    "Application.Array_is_sorted_and_rotated.executor": "Run",
+    "Application.Baloons.executor": "Run",
+    "Application.Bijli.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.Builder_Design_Pattern.executor": "Run",
+    "Application.Child.executor": "Run",
+    "Application.CloningEx.executor": "Run",
+    "Application.Coin_Change_II.executor": "Run",
+    "Application.Coin_Change_Problem.executor": "Run",
+    "Application.Count_Distinct_Substrings_I.executor": "Run",
+    "Application.CustomExecutorService.executor": "Run",
+    "Application.DSU_Example.executor": "Run",
+    "Application.Dijkstras_Algorithm.executor": "Run",
+    "Application.Equality_Check.executor": "Run",
+    "Application.EraseOverlapIntervals.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.ExecutorCallableExample.executor": "Run",
+    "Application.FileReadWrite.executor": "Run",
+    "Application.FileSystem.executor": "Run",
+    "Application.Find_Anagrams.executor": "Debug",
+    "Application.Find_Minimum_in_Rotated_Sorted_Array.executor": "Run",
+    "Application.Find_Peak_Element.executor": "Run",
+    "Application.Find_Pivot_Index.executor": "Run",
+    "Application.FutureExample.executor": "Run",
+    "Application.General_asked_Ques.executor": "Run",
+    "Application.General_asked_Ques2.executor": "Run",
+    "Application.Get_all_Divisors.executor": "Debug",
+    "Application.GraphEdgeList.executor": "Run",
+    "Application.Graph_BFS$Graph_DFS.executor": "Run",
+    "Application.Graph_DFS.executor": "Debug",
+    "Application.Graph_DFS_Learn.executor": "Run",
+    "Application.InitStaticBlocks.executor": "Run",
+    "Application.Interleaving_String.executor": "Run",
+    "Application.Intersection_of_two_arrays.executor": "Run",
+    "Application.Intv_09.executor": "Run",
+    "Application.InwardAdjacencyList.executor": "Run",
+    "Application.JdbcConnection.executor": "Run",
+    "Application.Jumps_1.executor": "Run",
+    "Application.Jumps_2.executor": "Run",
+    "Application.Kruskals_algo.executor": "Run",
+    "Application.LRUCache.executor": "Run",
+    "Application.Largest_Positive_Integer.executor": "Run",
+    "Application.Longest_Subarray_with_given_Sum_K.executor": "Run",
+    "Application.MT_testing.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.MaxDifference.executor": "Run",
+    "Application.Maximum_Depth_of_Binary_Tree.executor": "Run",
+    "Application.Meeting_rooms_2.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MerkleTree.executor": "Run",
+    "Application.Min_Cost_Climbing_Stairs.executor": "Run",
+    "Application.Move_Zeros.executor": "Run",
+    "Application.MultiThread_Demo_By_Extd.executor": "Run",
+    "Application.NoOfDigits.executor": "Run",
+    "Application.Number.executor": "Run",
+    "Application.Number2.executor": "Run",
+    "Application.OddEvenExample.executor": "Run",
+    "Application.OddEvenExample_2.executor": "Run",
+    "Application.Odd_Even_Example.executor": "Run",
+    "Application.PaymentDemo.executor": "Run",
+    "Application.PostfixToInfix.executor": "Run",
+    "Application.Pre_In_Post_Order_Traversal_Iterative.executor": "Run",
+    "Application.Producer_Consumer.executor": "Run",
+    "Application.Producer_Consumer_Test.executor": "Run",
+    "Application.Queens_wala.executor": "Run",
+    "Application.Remove_Duplicates_from_sorted_array.executor": "Run",
+    "Application.Round2.executor": "Run",
+    "Application.Round_01.executor": "Run",
+    "Application.Round_02.executor": "Run",
+    "Application.Sample.executor": "Run",
+    "Application.SeatBookingApp.executor": "Run",
+    "Application.Shuffle_the_Array.executor": "Run",
+    "Application.ShutdownExample.executor": "Run",
+    "Application.Simplify_Path.executor": "Run",
+    "Application.Soln.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Solution1.executor": "Run",
+    "Application.Sort_Characters_By_Frequency_451.executor": "Run",
+    "Application.StreamsLearn.executor": "Run",
+    "Application.StreamsLearn_02.executor": "Run",
+    "Application.SubSequence.executor": "Run",
+    "Application.SubSequences.executor": "Run",
+    "Application.Subarray_Sums_Divisible_by_K.executor": "Run",
+    "Application.SwapStringChars.executor": "Run",
+    "Application.TEST.executor": "Run",
+    "Application.TargetSum.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.TestGarbage.executor": "Run",
+    "Application.Test_Ex.executor": "Run",
+    "Application.Test_Num.executor": "Run",
+    "Application.Testing.executor": "Run",
+    "Application.Three_Sum.executor": "Debug",
+    "Application.TopologicalSort.executor": "Run",
+    "Application.TripletSumORThreeSome.executor": "Run",
+    "Application.Validate_Stack_Sequences.executor": "Run",
+    "Application.WeightedRandomCharacterStream.executor": "Run",
+    "Application.Word_Ladder.executor": "Run",
+    "Application.Zero_One_Knapsack.executor": "Run",
+    "Application._01_Dice_Combinations.executor": "Run",
+    "Application._100287_Find_the_Integer_Added_to_Array_II.executor": "Debug",
+    "Application._128_Longest_Consecutive_Sequence.executor": "Run",
+    "Application._1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.executor": "Run",
+    "Application._150_Evaluate_Reverse_Polish_Notation.executor": "Run",
+    "Application._1512_Number_of_Good_Pairs.executor": "Run",
+    "Application._165_Compare_Version_Numbers.executor": "Run",
+    "Application._17_Letter_Combinations_of_a_Phone_Number.executor": "Run",
+    "Application._1897_Redistribute_Characters_to_Make_All_Strings_Equal.executor": "Run",
+    "Application._198_House_Robber.executor": "Run",
+    "Application._1toN_print.executor": "Run",
+    "Application._213_House_Robber_II.executor": "Run",
+    "Application._2149_Rearrange_Array_Elements_by_Sign.executor": "Run",
+    "Application._227_Basic_Calculator_II.executor": "Run",
+    "Application._2444_Count_Subarrays_With_Fixed_Bounds.executor": "Run",
+    "Application._2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.executor": "Debug",
+    "Application._27th_Feb_24.executor": "Run",
+    "Application._2870_Minimum_Number_of_Operations_to_Make_Array_Empty.executor": "Run",
+    "Application._287_Find_the_Duplicate_Number.executor": "Run",
+    "Application._2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.executor": "Run",
+    "Application._2971_Find_Polygon_With_the_Largest_Perimeter.executor": "Run",
+    "Application._2nd_highest_salary.executor": "Run",
+    "Application._3043_Find_the_Length_of_the_Longest_Common_Prefix.executor": "Run",
+    "Application._3090_Maximum_Length_Substring_With_Two_Occurrences.executor": "Run",
+    "Application._3152_Special_Array_II.executor": "Debug",
+    "Application._322_Coin_Change.executor": "Run",
+    "Application._394_Decode_String.executor": "Debug",
+    "Application._398_Random_Pick_Index.executor": "Run",
+    "Application._42_Trapping_Rain_Water.executor": "Run",
+    "Application._435_Erase_Overlap_Intervals.executor": "Run",
+    "Application._442_Find_All_Duplicates_in_an_Array.executor": "Run",
+    "Application._455_Assign_Cookies.executor": "Run",
+    "Application._496_Next_Greater_Element_I.executor": "Debug",
+    "Application._506_Relative_Ranks.executor": "Run",
+    "Application._543_Diameter_of_Binary_Tree.executor": "Run",
+    "Application._5_Longest_Palindromic_Substring.executor": "Run",
+    "Application._680_Valid_Palindrome_II.executor": "Run",
+    "Application._713_Subarray_Product_Less_Than_K.executor": "Run",
+    "Application._76_Minimum_Window_Substring.executor": "Run",
+    "Application._797_All_Paths_From_Source_to_Target.executor": "Run",
+    "Application._79_Word_Search.executor": "Run",
+    "Application._841_Keys_and_Rooms.executor": "Run",
+    "Application._881_Boats_to_Save_People.executor": "Run",
+    "Application._91_Decode_Ways.executor": "Run",
+    "Application._91_Decode_Ways_01.executor": "Run",
+    "Application._91_Decode_Ways_02.executor": "Run",
+    "Application._91_Decode_Ways_03.executor": "Run",
+    "Application._930_Binary_Subarrays_With_Sum.executor": "Debug",
+    "Application._997_Find_the_Town_Judge.executor": "Run",
+    "Application._Length_of_Longest_Subarray_With_at_Most_K_Frequency.executor": "Run",
+    "Application.abc.executor": "Run",
+    "Application.count_dist_nums.executor": "Run",
+    "Application.dijikstra_Algo.executor": "Run",
+    "Application.duplicateZeros.executor": "Run",
+    "Application.extra_characters_in_a_string.executor": "Run",
+    "Application.find_missing_number.executor": "Run",
+    "Application.formatting.executor": "Run",
+    "Application.isNumHappy.executor": "Run",
+    "Application.isPalindrome.executor": "Run",
+    "Application.main.finale.Java.Generics.Test.executor": "Run",
+    "Application.main.finale.Java.streams.Testing.executor": "Run",
+    "Application.main.finale.Java.streams.test.Main.executor": "Run",
+    "Application.main.finale.leetcode.Blind_75._227_Basic_Calculator_II.executor": "Run",
+    "Application.main.finale.test.cache_management.Main.executor": "Debug",
+    "Application.main.walmart.Solution.executor": "Debug",
+    "Application.mapCharsToDigits.executor": "Run",
+    "Application.masking.executor": "Run",
+    "Application.masking_Using_SB.executor": "Run",
+    "Application.maxSlidingWindow.executor": "Run",
+    "Application.numOfSubarraysMedium.executor": "Run",
+    "Application.productExceptSelf.executor": "Run",
+    "Application.removeSigleDigit.executor": "Run",
+    "Application.repeated_substring_pattern.executor": "Run",
+    "Application.sortStack.executor": "Run",
+    "Application.sort_array.executor": "Run",
+    "Application.staticVarTesting.executor": "Run",
+    "Application.subset.executor": "Run",
+    "Application.t.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.test2.executor": "Run",
+    "Application.trapping_rain_water.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "liberica-11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/d0s0jfn/Me/src/main/finale/System_Design/LLD/FileSystem/models",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="main.finale.In_Walmart.nextLeap.extras" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/finale/System_Design/LLD/FileSystem/models" />
+      <recent name="$PROJECT_DIR$/src/main/finale/System_Design/LLD" />
       <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24/Amazon/Oct/scrnshots" />
       <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos" />
       <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns" />
-      <recent name="$PROJECT_DIR$/src/main/finale" />
-      <recent name="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD_Questions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/intvs/int2023_24/microsoft/Jan" />
@@ -374,13 +492,13 @@
       <recent name="main.finale.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubSequences">
-    <configuration name="DSU_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA.graphs.class02.DSU_Example" />
+  <component name="RunManager" selected="Application.FileSystem">
+    <configuration name="FileSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.System_Design.LLD.FileSystem.models.FileSystem" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.finale.DSA.graphs.class02.*" />
+          <option name="PATTERN" value="main.finale.System_Design.LLD.FileSystem.models.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,51 +506,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.extras.Sample" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.extras.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubSequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.DSA._OondaPradarshan.SubSequences" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.DSA._OondaPradarshan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.Java.Collections_In_Java.Test" />
-      <module name="Daily-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.finale.Java.Collections_In_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mapCharsToDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.mapCharsToDigits" />
+    <configuration name="Largest_Positive_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Largest_Positive_Integer" />
       <module name="Daily-DSA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.finale.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simplify_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily.Simplify_Path" />
+      <module name="Daily-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.leetcode.Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Validate_Stack_Sequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily.Validate_Stack_Sequences" />
+      <module name="Daily-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.leetcode.Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1512_Number_of_Good_Pairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.finale.leetcode.Daily._1512_Number_of_Good_Pairs" />
+      <module name="Daily-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.finale.leetcode.Daily.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -453,11 +571,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubSequences" />
-        <item itemvalue="Application.DSU_Example" />
-        <item itemvalue="Application.Sample" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.mapCharsToDigits" />
+        <item itemvalue="Application.FileSystem" />
+        <item itemvalue="Application.Validate_Stack_Sequences" />
+        <item itemvalue="Application.Simplify_Path" />
+        <item itemvalue="Application._1512_Number_of_Good_Pairs" />
+        <item itemvalue="Application.Largest_Positive_Integer" />
       </list>
     </recent_temporary>
   </component>
@@ -595,6 +713,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Questions" />
+    </ignored-roots>
     <MESSAGE value="ABC-001 commit-02" />
     <MESSAGE value="ABC-001 commit-03" />
     <MESSAGE value="ABC-001 commit-04" />
