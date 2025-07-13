@@ -13,6 +13,9 @@
       <excludeFolder url="file://$MODULE_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/System_Design/LLD/CWA-LowLevelDesignCode-main" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/finale/test/kafka-demo" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/System_Design_Resources_Not_Mine" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Design-Patterns" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/System_Design_Resources_Not_Mine/LLD_Repos/LLD-Questions/Low_level_Design_Problems" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
