@@ -236,7 +236,7 @@ public class QuadTree<T extends QuadTree.Locatable> {
 
         // Otherwise, subdivide and then add the point to the appropriate child
         if (!divided) {
-//            CubicCurve2D.subdivide();
+        //   CubicCurve2D.subdivide();
         }
 
         return northWest.insert(point) ||
