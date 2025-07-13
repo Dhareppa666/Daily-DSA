@@ -43,20 +43,37 @@ public class RangeSumSegmentTree {
      * @param nums The input array containing the leaf nodes
      */
     private void buildTree(int[] nums) {
-        // Step 1: Fill the leaves (second half of the tree array)
-        // Leaves start from index n and go to 2n-1
-        // These are the original array elements
-        for (int i = n, j = 0; i < 2 * n; i++, j++) {
-            tree[i] = nums[j];
+        // First, fill the leaf nodes (second half of the tree array)
+        for (int i = 0; i < n; i++) {
+            tree[n + i] = nums[i];
+        }
+        // Then build the internal nodes recursively
+        buildTree(1, 0, n - 1);
+    }
+    
+    /**
+     * Recursively builds the segment tree nodes.
+     * 
+     * @param node The current node index in the tree
+     * @param start The start index in the original array
+     * @param end The end index in the original array
+     */
+    private void buildTree(int node, int start, int end) {
+        if (start == end) {
+            // Leaf node
+            return;
         }
         
-        // Step 2: Build the internal nodes (first half of the tree array)
-        // We process nodes from the last internal node to the root (index 1)
-        // For each internal node, its value is the sum of its two children
-        for (int i = n - 1; i > 0; i--) {
-            // Left child is at 2*i, right child at 2*i + 1
-            tree[i] = tree[i * 2] + tree[i * 2 + 1];
-        }
+        int mid = start + (end - start) / 2;
+        int leftChild = 2 * node;
+        int rightChild = 2 * node + 1;
+        
+        // Recursively build left and right subtrees
+        buildTree(leftChild, start, mid);
+        buildTree(rightChild, mid + 1, end);
+        
+        // Current node's value is the sum of its children
+        tree[node] = tree[leftChild] + tree[rightChild];
     }
 
     /**
@@ -67,21 +84,41 @@ public class RangeSumSegmentTree {
      * @throws IndexOutOfBoundsException if index is out of bounds
      */
     public void update(int index, int val) {
-        // Convert the array index to the corresponding leaf node index
-        index += n;
-        
-        // Update the leaf node with the new value
-        tree[index] = val;
-        
-        // Propagate the change up the tree
-        while (index > 1) {
-            // Move to parent
-            index /= 2;
-            
-            // The current node's value is the sum of its two children
-            // Left child is at 2*index, right child at 2*index + 1
-            tree[index] = tree[2 * index] + tree[2 * index + 1];
+        if (index < 0 || index >= n) {
+            throw new IndexOutOfBoundsException("Index " + index + " is out of bounds");
         }
+        update(1, 0, n - 1, index, val);
+    }
+    
+    /**
+     * Recursively updates the value at the specified index.
+     * 
+     * @param node  The current node index in the tree
+     * @param start The start index of the current segment
+     * @param end   The end index of the current segment
+     * @param index The index in the original array to update
+     * @param val   The new value
+     */
+    private void update(int node, int start, int end, int index, int val) {
+        // Base case: leaf node
+        if (start == end) {
+            tree[node] = val;
+            return;
+        }
+        
+        int mid = start + (end - start) / 2;
+        int leftChild = 2 * node;
+        int rightChild = 2 * node + 1;
+        
+        // Recursively update the appropriate child
+        if (index <= mid) {
+            update(leftChild, start, mid, index, val);
+        } else {
+            update(rightChild, mid + 1, end, index, val);
+        }
+        
+        // Update current node with the sum of its children
+        tree[node] = tree[leftChild] + tree[rightChild];
     }
 
     /**
@@ -93,34 +130,39 @@ public class RangeSumSegmentTree {
      * @throws IllegalArgumentException if left > right or indices are out of bounds
      */
     public int rangeSum(int left, int right) {
-        // Convert to leaf node indices
-        left += n;
-        right += n;
-        
-        int sum = 0;
-        
-        // We process the range by moving up the tree
-        while (left <= right) {
-            // If left is a right child, it means its parent includes elements outside our range
-            // So we add it to the sum and move right
-            if (left % 2 == 1) {
-                sum += tree[left];
-                left++;
-            }
-            
-            // If right is a left child, it means its parent includes elements outside our range
-            // So we add it to the sum and move left
-            if (right % 2 == 0) {
-                sum += tree[right];
-                right--;
-            }
-            
-            // Move up to the parent level
-            left /= 2;
-            right /= 2;
+        if (left < 0 || right >= n || left > right) {
+            throw new IllegalArgumentException("Invalid range [" + left + ", " + right + "]");
+        }
+        return rangeSum(1, 0, n - 1, left, right);
+    }
+    
+    /**
+     * Recursively calculates the sum of elements in the range [left, right].
+     * 
+     * @param node  The current node index in the tree
+     * @param start The start index of the current segment
+     * @param end   The end index of the current segment
+     * @param left  The left bound of the query range
+     * @param right The right bound of the query range
+     * @return The sum of elements in the range [left, right]
+     */
+    private int rangeSum(int node, int start, int end, int left, int right) {
+        // If the current segment is completely outside the query range
+        if (end < left || start > right) {
+            return 0;
         }
         
-        return sum;
+        // If the current segment is completely within the query range
+        if (left <= start && end <= right) {
+            return tree[node];
+        }
+        
+        // If the current segment partially overlaps with the query range
+        int mid = start + (end - start) / 2;
+        int leftSum = rangeSum(2 * node, start, mid, left, right);
+        int rightSum = rangeSum(2 * node + 1, mid + 1, end, left, right);
+        
+        return leftSum + rightSum;
     }
 
     public static void main(String[] args) {
